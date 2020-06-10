@@ -11,7 +11,7 @@
                th.price(nowrap) 古い価格
                th.price(nowrap) 差額
           tbody
-            tr(v-for="list in lists" :key="list.index")
+            tr(v-for="list in lists" :key="list.index" v-if="list.diff > 100")
               td
                 a(:href='list.itemUrl', target='_blank') {{list.name}}
               td.price.has-text-danger {{list.newprice}}
