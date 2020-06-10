@@ -7,6 +7,7 @@
           thead
             tr.has-background-grey-lighter
                th 商品名
+               th.price ステータス
                th.price(nowrap) 新しい価格
                th.price(nowrap) 古い価格
                th.price(nowrap) 差額
@@ -14,6 +15,7 @@
             tr(v-for="list in lists" :key="list.index" v-if="list.diff > 100")
               td
                 a(:href='list.itemUrl', target='_blank') {{list.name}}
+              td.price.has-text-danger {{list.backorder}}
               td.price.has-text-danger {{list.newprice}}
               td.price {{list.oldprice}}
               td.price.has-text-danger.has-background-warning-light(v-if="list.diff > 5000 && list.diff < 9999") {{list.diff}}
