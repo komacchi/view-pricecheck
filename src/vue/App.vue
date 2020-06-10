@@ -16,7 +16,9 @@
                 a(:href='list.itemUrl', target='_blank') {{list.name}}
               td.price.has-text-danger {{list.newprice}}
               td.price {{list.oldprice}}
-              td.price.has-text-danger.has-background-danger-light {{list.diff}}
+              td.price.has-text-danger.has-background-warning-light(v-if="list.diff > 5000 && list.diff < 9999") {{list.diff}}
+              td.price.has-text-danger.has-background-danger-light(v-else-if="list.diff > 10000") {{list.diff}}
+              td.price.has-text-danger.has-background-info-light(v-else) {{list.diff}}
     Footer
 </template>
 
