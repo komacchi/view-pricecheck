@@ -1,5 +1,13 @@
 [
     {
+        "name": "ADEPTUS TITANICUS GRAND MASTER ED. （ENG）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003997675/",
+        "backorder": "",
+        "oldprice": "42,268円",
+        "newprice": "21,180円",
+        "diff": 21088
+    },
+    {
         "name": "DEATHWORLD FOREST",
         "itemUrl": "https://www.yodobashi.com/product/100000001003448578/",
         "backorder": "",
@@ -160,32 +168,8 @@
         "diff": 2900
     },
     {
-        "name": "KILL TEAM COMMANDER: GAIUS ACASTIAN (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123076/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
-        "name": "K/T COMMANDER: CRASKER MATTERZHEK ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155613/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
         "name": "KILL TEAM COMMANDER: VYSA KHARAVYXIS (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004123080/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
-        "name": "KILL TEAM COMMANDER: MAGOS DALATHRUST (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123074/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "1,980円",
@@ -1536,6 +1520,30 @@
         "diff": 9
     },
     {
+        "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade CASANDORA YELLOW [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194723/",
         "backorder": "",
@@ -1562,30 +1570,6 @@
     {
         "name": "Citadel Shade BIEL-TAN GREEN [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194729/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -4680,14 +4664,6 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000 CARRY CASE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197258/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
         "backorder": "",
@@ -4741,6 +4717,14 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000 CARRY CASE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197258/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -5270,6 +5254,14 @@
         "oldprice": "23,426円",
         "newprice": "23,420円",
         "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
     },
     {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
@@ -5856,14 +5848,6 @@
         "diff": 5
     },
     {
-        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
-        "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
-    },
-    {
         "name": "AOS ETB STORMCAST ETERNALS CELESTAR BALLISTA",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949460/",
         "backorder": "",
@@ -5912,14 +5896,6 @@
         "diff": 4
     },
     {
-        "name": "AOS WH UNDERWORLDS：MAGORE'S FIENDS ENG [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003864546/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
         "backorder": "",
@@ -5949,6 +5925,14 @@
         "backorder": "",
         "oldprice": "6,824円",
         "newprice": "6,820円",
+        "diff": 4
+    },
+    {
+        "name": "AOS WH UNDERWORLDS：MAGORE'S FIENDS ENG [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003864546/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -6917,14 +6901,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "ROHAN DICE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036381/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
         "diff": 3
     },
     {
