@@ -72,14 +72,6 @@
         "diff": 4190
     },
     {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （ENGLISH） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099372/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "4,580円",
-        "diff": 4179
-    },
-    {
         "name": "WARHAMMER UNDERWORLDS: BEASTGRAVE ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150927/",
         "backorder": "",
@@ -334,14 +326,6 @@
         "oldprice": "5,908円",
         "newprice": "4,130円",
         "diff": 1778
-    },
-    {
-        "name": "DEATH GUARD FOETID BLOAT-DRONE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003703248/",
-        "backorder": "お取り寄せ",
-        "oldprice": "7,027円",
-        "newprice": "5,270円",
-        "diff": 1757
     },
     {
         "name": "CHAOS SPACE MARINES NOCTILITH CROWN",
@@ -2976,14 +2960,6 @@
         "diff": 8
     },
     {
-        "name": "NECROMUNDA： UNDERHIVE BADZONE DELTA-7 [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003824722/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "FLESH-EATER COURTS CRYPT GHOULS [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194012/",
         "backorder": "",
@@ -4656,14 +4632,6 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000 CARRY CASE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197258/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
         "backorder": "",
@@ -4717,6 +4685,14 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000 CARRY CASE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197258/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -5246,6 +5222,14 @@
         "oldprice": "23,426円",
         "newprice": "23,420円",
         "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
     },
     {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
@@ -5832,14 +5816,6 @@
         "diff": 5
     },
     {
-        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
-        "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
-    },
-    {
         "name": "AOS ETB STORMCAST ETERNALS CELESTAR BALLISTA",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949460/",
         "backorder": "",
@@ -5888,14 +5864,6 @@
         "diff": 4
     },
     {
-        "name": "AOS WH UNDERWORLDS：MAGORE'S FIENDS ENG [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003864546/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
         "backorder": "",
@@ -5925,6 +5893,14 @@
         "backorder": "",
         "oldprice": "6,824円",
         "newprice": "6,820円",
+        "diff": 4
+    },
+    {
+        "name": "AOS WH UNDERWORLDS：MAGORE'S FIENDS ENG [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003864546/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
         "diff": 4
     },
     {
