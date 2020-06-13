@@ -1392,6 +1392,14 @@
         "diff": 14
     },
     {
+        "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "CONTRAST： AGGAROS DUNES （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469050/",
         "backorder": "",
@@ -1456,22 +1464,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade AGRAX EARTHSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194733/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
         "backorder": "",
@@ -1490,6 +1482,22 @@
     {
         "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade AGRAX EARTHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194733/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2797,14 +2805,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -4624,14 +4624,6 @@
         "diff": 6
     },
     {
-        "name": "CHAOS S/M： HAARKEN WORLDCLAIMER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197261/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
         "backorder": "",
@@ -4685,6 +4677,14 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "CHAOS S/M： HAARKEN WORLDCLAIMER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197261/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -5296,14 +5296,6 @@
         "diff": 5
     },
     {
-        "name": "WARHAMMER 40000： BATTLE JOURNAL [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003733479/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5325,6 +5317,14 @@
         "backorder": "",
         "oldprice": "10,695円",
         "newprice": "10,690円",
+        "diff": 5
+    },
+    {
+        "name": "WARHAMMER 40000： BATTLE JOURNAL [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003733479/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
