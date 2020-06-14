@@ -152,14 +152,6 @@
         "diff": 2900
     },
     {
-        "name": "KILL TEAM COMMANDER: VYSA KHARAVYXIS (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123080/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
         "name": "K/T COMMANDER: CRASKER MATTERZHEK ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004155613/",
         "backorder": "",
@@ -494,6 +486,14 @@
         "oldprice": "8,580円",
         "newprice": "7,420円",
         "diff": 1160
+    },
+    {
+        "name": "NECRON TRIARCH PRAETORIANS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769122/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "4,780円",
+        "diff": 1128
     },
     {
         "name": "TAU EMPIRE TY7 DEVILFISH [WARHAMMER 40,000]",
@@ -2792,6 +2792,14 @@
         "diff": 9
     },
     {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
         "backorder": "",
@@ -4370,7 +4378,7 @@
     {
         "name": "40K LIB CODEX： NECRONS ABR. HB JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003854762/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
@@ -7165,14 +7173,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "KILLZONE： SECTOR SANCTORIS JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004411441/",
-        "backorder": "",
-        "oldprice": "11,713円",
-        "newprice": "11,710円",
         "diff": 3
     },
     {
