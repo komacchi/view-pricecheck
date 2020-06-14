@@ -496,14 +496,6 @@
         "diff": 1160
     },
     {
-        "name": "NECRON TRIARCH PRAETORIANS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769122/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "4,780円",
-        "diff": 1128
-    },
-    {
         "name": "TAU EMPIRE TY7 DEVILFISH [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193965/",
         "backorder": "",
@@ -2800,14 +2792,6 @@
         "diff": 9
     },
     {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
         "backorder": "",
@@ -3990,6 +3974,14 @@
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
+    },
+    {
+        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
     },
     {
         "name": "GOTREK GURNISSON",
@@ -5200,14 +5192,6 @@
         "diff": 6
     },
     {
-        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "FANE OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
         "backorder": "",
@@ -5288,14 +5272,6 @@
         "diff": 5
     },
     {
-        "name": "AGE OF SIGMAR： BATTLE JOURNAL [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003733483/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5317,6 +5293,14 @@
         "backorder": "",
         "oldprice": "10,695円",
         "newprice": "10,690円",
+        "diff": 5
+    },
+    {
+        "name": "AGE OF SIGMAR： BATTLE JOURNAL [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003733483/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -6424,14 +6408,6 @@
         "diff": 3
     },
     {
-        "name": "40K IMPERIAL KNIGHTS： ARMIGER WARGLAIVES [キャラクタープラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003914941/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "10,590円",
-        "diff": 3
-    },
-    {
         "name": "Balewind Vortex",
         "itemUrl": "https://www.yodobashi.com/product/100000001003355915/",
         "backorder": "お取り寄せ",
@@ -6957,6 +6933,14 @@
         "backorder": "お取り寄せ",
         "oldprice": "5,093円",
         "newprice": "5,090円",
+        "diff": 3
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS： ARMIGER WARGLAIVES [キャラクタープラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003914941/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "10,590円",
         "diff": 3
     },
     {
