@@ -72,6 +72,14 @@
         "diff": 4190
     },
     {
+        "name": "KILL TEAM: THE EXALTED SCYTHE （ENGLISH） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099372/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "4,580円",
+        "diff": 4179
+    },
+    {
         "name": "WARHAMMER UNDERWORLDS: BEASTGRAVE ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150927/",
         "backorder": "",
@@ -1464,14 +1472,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
         "backorder": "",
@@ -1490,6 +1490,14 @@
     {
         "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -7322,7 +7330,7 @@
     {
         "name": "NECRON OVERLORD [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769125/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "2,852円",
         "newprice": "2,850円",
         "diff": 2
