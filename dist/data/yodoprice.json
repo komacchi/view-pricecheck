@@ -80,14 +80,6 @@
         "diff": 4179
     },
     {
-        "name": "WARHAMMER UNDERWORLDS: BEASTGRAVE ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005150927/",
-        "backorder": "",
-        "oldprice": "10,000円",
-        "newprice": "5,980円",
-        "diff": 4020
-    },
-    {
         "name": "CITADEL CRUSADE FIGURE CASE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194067/",
         "backorder": "お取り寄せ",
@@ -448,6 +440,14 @@
         "diff": 1223
     },
     {
+        "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059052/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "3,510円",
+        "diff": 1176
+    },
+    {
         "name": "STORMCAST ETERNALS LORD-ORDINATOR",
         "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
         "backorder": "",
@@ -472,14 +472,6 @@
         "diff": 1176
     },
     {
-        "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059052/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "3,510円",
-        "diff": 1176
-    },
-    {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
@@ -494,14 +486,6 @@
         "oldprice": "8,580円",
         "newprice": "7,420円",
         "diff": 1160
-    },
-    {
-        "name": "NECRON TRIARCH PRAETORIANS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769122/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "4,780円",
-        "diff": 1128
     },
     {
         "name": "TAU EMPIRE TY7 DEVILFISH [WARHAMMER 40,000]",
@@ -1040,14 +1024,6 @@
         "diff": 514
     },
     {
-        "name": "DAEMONS OF SLAANESH： THE MASQUE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004396204/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "3,560円",
-        "diff": 514
-    },
-    {
         "name": "CITADEL CREEPING VINES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003649609/",
         "backorder": "",
@@ -1480,14 +1456,6 @@
         "diff": 9
     },
     {
-        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
         "backorder": "",
@@ -1733,6 +1701,14 @@
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,630円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -3856,19 +3832,19 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL：SPIKE！ 2018 ALMANAC！ （ENG）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194382/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
         "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "BLOOD BOWL：SPIKE！ 2018 ALMANAC！ （ENG）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004194382/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -4162,7 +4138,7 @@
     {
         "name": "START COLLECTING! SLAVES TO DARKNESS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193984/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "12,936円",
         "newprice": "12,930円",
         "diff": 6
@@ -5280,14 +5256,6 @@
         "diff": 5
     },
     {
-        "name": "AOS ETB KHORNE BLOODBOUND MAGORE'S FIENDS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003903295/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5309,6 +5277,14 @@
         "backorder": "",
         "oldprice": "10,695円",
         "newprice": "10,690円",
+        "diff": 5
+    },
+    {
+        "name": "AOS ETB KHORNE BLOODBOUND MAGORE'S FIENDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003903295/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
