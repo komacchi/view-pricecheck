@@ -440,6 +440,14 @@
         "diff": 1223
     },
     {
+        "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "3,510円",
+        "diff": 1176
+    },
+    {
         "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059052/",
         "backorder": "",
@@ -458,14 +466,6 @@
     {
         "name": "ENDLESS SPELLS： HEDONITES OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396211/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "3,510円",
-        "diff": 1176
-    },
-    {
-        "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "3,510円",
@@ -1448,14 +1448,6 @@
         "diff": 9
     },
     {
-        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
         "backorder": "",
@@ -1701,6 +1693,14 @@
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,630円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2776,14 +2776,6 @@
         "diff": 9
     },
     {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
         "backorder": "",
@@ -3059,6 +3051,14 @@
         "name": "BATTLETOME： LEGIONS OF NAGASH (HB) (ENG) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003814029/",
         "backorder": "お取り寄せ",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "NECROMUNDA： UNDERHIVE BADZONE DELTA-7 [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003824722/",
+        "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
@@ -5520,19 +5520,19 @@
         "diff": 5
     },
     {
-        "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "START COLLECTING! DEATHWATCH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -6304,14 +6304,6 @@
         "diff": 3
     },
     {
-        "name": "AGE OF SIGMAR：OPEN WAR CARDS (ENG) [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658681/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
         "backorder": "",
@@ -6349,6 +6341,14 @@
         "backorder": "",
         "oldprice": "3,973円",
         "newprice": "3,970円",
+        "diff": 3
+    },
+    {
+        "name": "AGE OF SIGMAR：OPEN WAR CARDS (ENG) [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658681/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
         "diff": 3
     },
     {
@@ -7058,14 +7058,6 @@
     {
         "name": "KILL TEAM ORKS DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961713/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
-        "diff": 3
-    },
-    {
-        "name": "NECROMUNDA GOLIATH GANG DICE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003745732/",
         "backorder": "",
         "oldprice": "1,833円",
         "newprice": "1,830円",
