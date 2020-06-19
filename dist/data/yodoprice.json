@@ -160,6 +160,14 @@
         "diff": 2900
     },
     {
+        "name": "AOS： GENERAL'S HANDBOOK 2018 EN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922183/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "1,980円",
+        "diff": 2706
+    },
+    {
         "name": "WARSCROLL CARDS: STORMCAST ETERNALS ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003448580/",
         "backorder": "",
@@ -3080,14 +3088,6 @@
         "diff": 8
     },
     {
-        "name": "40K KILL TEAM CORE MANUAL JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949552/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
         "backorder": "",
@@ -3117,6 +3117,14 @@
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "AVENTIS FIRESTRIKE MAGISTER OF HAmmERHAL [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003961707/",
+        "backorder": "",
+        "oldprice": "16,398円",
+        "newprice": "16,390円",
         "diff": 8
     },
     {
@@ -3469,14 +3477,6 @@
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "AVENTIS FIRESTRIKE MAGISTER OF HAmmERHAL [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003961707/",
-        "backorder": "",
-        "oldprice": "16,398円",
-        "newprice": "16,390円",
         "diff": 8
     },
     {
@@ -3942,14 +3942,6 @@
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
-    },
-    {
-        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
     },
     {
         "name": "WARCRY： SHATTERD STORMVAULT",
@@ -5157,6 +5149,14 @@
         "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
         "diff": 6
     },
     {
