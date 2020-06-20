@@ -384,6 +384,14 @@
         "diff": 1478
     },
     {
+        "name": "BLOOD ANGELS SANGUINARY GUARD [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193817/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "4,580円",
+        "diff": 1328
+    },
+    {
         "name": "START COLLECTING! DAEMONS OF NURGLE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769166/",
         "backorder": "",
@@ -1312,6 +1320,14 @@
         "diff": 100
     },
     {
+        "name": "WH UNDERWORLDS： THE CHOSEN AXES (JPN)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003820174/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "3,980円",
+        "diff": 94
+    },
+    {
         "name": "WH U/WORLDS: STEELHEARTS CHAMPIONS （JPN） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099388/",
         "backorder": "",
@@ -1424,6 +1440,14 @@
         "diff": 9
     },
     {
+        "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
         "backorder": "",
@@ -1434,14 +1458,6 @@
     {
         "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2760,6 +2776,14 @@
         "diff": 9
     },
     {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
         "backorder": "",
@@ -3488,22 +3512,6 @@
         "diff": 8
     },
     {
-        "name": "AOS IDONETH DEEPKIN NAMARTI REAVERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003875457/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： CHAOTIC BEASTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
-        "diff": 7
-    },
-    {
         "name": "WARCRY： UNTAMED BEASTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
         "backorder": "",
@@ -3928,20 +3936,28 @@
         "diff": 7
     },
     {
-        "name": "DAEMONS/SLAANESH： THE CONTORTED EPITOME",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004396205/",
+        "name": "AOS IDONETH DEEPKIN NAMARTI REAVERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003875457/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
     },
     {
-        "name": "WARCRY： SHATTERD STORMVAULT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
+        "name": "WARCRY： CHAOTIC BEASTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
         "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "DAEMONS/SLAANESH： THE CONTORTED EPITOME",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004396205/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
     },
     {
         "name": "WARCRY： DEFILED RUINS",
@@ -4194,7 +4210,7 @@
     {
         "name": "EVERCHOSEN ARCHAON EXALTED GRAND MARSHAL",
         "itemUrl": "https://www.yodobashi.com/product/100000001003599087/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "23,426円",
         "newprice": "23,420円",
         "diff": 6
@@ -5152,6 +5168,14 @@
         "diff": 6
     },
     {
+        "name": "WARCRY： SHATTERD STORMVAULT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
         "name": "FANE OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
         "backorder": "",
@@ -5232,6 +5256,14 @@
         "diff": 5
     },
     {
+        "name": "KNIGHT PRECEPTOR CANIS REX",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
+        "backorder": "",
+        "oldprice": "16,805円",
+        "newprice": "16,800円",
+        "diff": 5
+    },
+    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5253,14 +5285,6 @@
         "backorder": "",
         "oldprice": "10,695円",
         "newprice": "10,690円",
-        "diff": 5
-    },
-    {
-        "name": "KNIGHT PRECEPTOR CANIS REX",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
-        "backorder": "",
-        "oldprice": "16,805円",
-        "newprice": "16,800円",
         "diff": 5
     },
     {
@@ -5381,6 +5405,14 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "AOS ETB FYRESLAYERS THE CHOSEN AXES [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003903297/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -5750,14 +5782,6 @@
         "oldprice": "3,565円",
         "newprice": "3,560円",
         "diff": 5
-    },
-    {
-        "name": "CODEX： IRON HANDS HB JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005135046/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
     },
     {
         "name": "CODEX： RAVEN GUARD HB JAPANESE",
@@ -6160,6 +6184,14 @@
         "diff": 4
     },
     {
+        "name": "CODEX： IRON HANDS HB JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005135046/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
+        "diff": 4
+    },
+    {
         "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961712/",
         "backorder": "",
@@ -6458,6 +6490,14 @@
     {
         "name": "DATACARDS： GREY KNIGHTS (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003645360/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "S/M ULTRAMARINES PRIMARIS UPGRADES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003649606/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -7240,14 +7280,6 @@
         "diff": 2
     },
     {
-        "name": "OFFICIO ASSASSINORUM CULEXUS ASSASSIN [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769117/",
-        "backorder": "",
-        "oldprice": "4,482円",
-        "newprice": "4,480円",
-        "diff": 2
-    },
-    {
         "name": "OFFICIO ASSASSINORUM VINDICARE ASSASSIN [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769116/",
         "backorder": "",
@@ -7317,6 +7349,14 @@
         "backorder": "",
         "oldprice": "2,241円",
         "newprice": "2,240円",
+        "diff": 1
+    },
+    {
+        "name": "EASY TO BUILD ASTRA MILITARUM CADIANS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769107/",
+        "backorder": "",
+        "oldprice": "1,161円",
+        "newprice": "1,160円",
         "diff": 1
     }
 ]
