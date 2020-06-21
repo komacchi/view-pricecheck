@@ -1440,14 +1440,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
         "backorder": "",
@@ -1458,6 +1450,14 @@
     {
         "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -7205,14 +7205,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL PROJECT BOX",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194069/",
-        "backorder": "",
-        "oldprice": "7,843円",
-        "newprice": "7,840円",
         "diff": 3
     },
     {
