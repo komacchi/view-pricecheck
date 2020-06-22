@@ -416,14 +416,6 @@
         "diff": 1273
     },
     {
-        "name": "SPACE MARINE VENERABLE DREADNOUGHT [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193844/",
-        "backorder": "",
-        "oldprice": "7,639円",
-        "newprice": "6,410円",
-        "diff": 1229
-    },
-    {
         "name": "TAU EMPIRE XV88 BROADSIDE BATTLESUIT [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769136/",
         "backorder": "",
@@ -3480,6 +3472,14 @@
         "diff": 8
     },
     {
+        "name": "WARCRY： CHAOTIC BEASTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
+        "diff": 7
+    },
+    {
         "name": "WARCRY： UNTAMED BEASTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
         "backorder": "",
@@ -3893,14 +3893,6 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： CHAOTIC BEASTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
         "diff": 7
     },
     {
@@ -6530,14 +6522,6 @@
     {
         "name": "DEATHRATTLE GRAVE GUARD",
         "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "ETB PRIMARIS REDEMPTOR DREADNOUGHT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003776665/",
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
