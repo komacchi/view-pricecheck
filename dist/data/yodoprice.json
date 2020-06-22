@@ -272,14 +272,6 @@
         "diff": 2127
     },
     {
-        "name": "40K SECTOR IMPERIALIS ADMINISTRATUM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949551/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "4,920円",
-        "diff": 2107
-    },
-    {
         "name": "S/E EVOCATORS ON CELESTIAL DRACOLINES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003981988/",
         "backorder": "",
@@ -384,17 +376,9 @@
         "diff": 1478
     },
     {
-        "name": "BLOOD ANGELS SANGUINARY GUARD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193817/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "4,580円",
-        "diff": 1328
-    },
-    {
         "name": "START COLLECTING! DAEMONS OF NURGLE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769166/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "12,936円",
         "newprice": "11,640円",
         "diff": 1296
@@ -490,14 +474,6 @@
     {
         "name": "NECRON TRIARCH PRAETORIANS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769122/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "4,780円",
-        "diff": 1128
-    },
-    {
-        "name": "TAU EMPIRE TY7 DEVILFISH [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193965/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "4,780円",
@@ -3472,6 +3448,14 @@
         "diff": 8
     },
     {
+        "name": "AOS IDONETH DEEPKIN NAMARTI REAVERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003875457/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "WARCRY： CHAOTIC BEASTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
         "backorder": "",
@@ -3536,19 +3520,19 @@
         "diff": 7
     },
     {
-        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,787円",
-        "newprice": "4,780円",
-        "diff": 7
-    },
-    {
         "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
         "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,787円",
+        "newprice": "4,780円",
         "diff": 7
     },
     {
@@ -3562,7 +3546,7 @@
     {
         "name": "S/MARINE TERMINATOR CLOSE COMBAT SQUAD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193845/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "6,417円",
         "newprice": "6,410円",
         "diff": 7
@@ -3888,20 +3872,20 @@
         "diff": 7
     },
     {
-        "name": "AOS IDONETH DEEPKIN NAMARTI REAVERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003875457/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "DAEMONS/SLAANESH： THE CONTORTED EPITOME",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396205/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
+    },
+    {
+        "name": "WARCRY： SHATTERD STORMVAULT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
     },
     {
         "name": "WARCRY： DEFILED RUINS",
@@ -5104,14 +5088,6 @@
         "diff": 6
     },
     {
-        "name": "WARCRY： SHATTERD STORMVAULT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
         "name": "FANE OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
         "backorder": "",
@@ -5192,14 +5168,6 @@
         "diff": 5
     },
     {
-        "name": "KNIGHT PRECEPTOR CANIS REX",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
-        "backorder": "",
-        "oldprice": "16,805円",
-        "newprice": "16,800円",
-        "diff": 5
-    },
-    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5221,6 +5189,14 @@
         "backorder": "",
         "oldprice": "10,695円",
         "newprice": "10,690円",
+        "diff": 5
+    },
+    {
+        "name": "KNIGHT PRECEPTOR CANIS REX",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
+        "backorder": "",
+        "oldprice": "16,805円",
+        "newprice": "16,800円",
         "diff": 5
     },
     {
@@ -5720,6 +5696,14 @@
         "diff": 5
     },
     {
+        "name": "CODEX： IRON HANDS HB JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005135046/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
+        "diff": 4
+    },
+    {
         "name": "CODEX： RAVEN GUARD HB JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005135044/",
         "backorder": "お取り寄せ",
@@ -6115,14 +6099,6 @@
         "name": "CODEX： WHITE SCARS HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903821/",
         "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
-        "name": "CODEX： IRON HANDS HB JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005135046/",
-        "backorder": "お取り寄せ",
         "oldprice": "4,074円",
         "newprice": "4,070円",
         "diff": 4
