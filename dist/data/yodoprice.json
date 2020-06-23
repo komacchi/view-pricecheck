@@ -704,14 +704,6 @@
         "diff": 619
     },
     {
-        "name": "SPACE WOLVES WOLF GUARD TERMINATORS [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193851/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "6,410円",
-        "diff": 617
-    },
-    {
         "name": "SPACE MARINE IRONCLAD DREADNOUGHT [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193848/",
         "backorder": "",
@@ -1088,6 +1080,14 @@
         "diff": 313
     },
     {
+        "name": "EASTERLING WARRIORS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036394/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "5,900円",
+        "diff": 313
+    },
+    {
         "name": "WARRIORS OF MINAS TIRITH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036392/",
         "backorder": "",
@@ -1190,6 +1190,14 @@
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
+    },
+    {
+        "name": "NECRONS TOMB BLADES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155630/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,700円",
+        "diff": 208
     },
     {
         "name": "BLOOD BOWL HALFLING TEAM CARD PACK ENG",
@@ -1594,6 +1602,22 @@
     {
         "name": "STORMCAST ETERNALS SEQUITORS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961708/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "40K KILL TEAM KROGSKULL'S BOYZ EN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949564/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "40K KILL TEAM FANGS OF ULFRICH EN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949562/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
@@ -3520,19 +3544,19 @@
         "diff": 7
     },
     {
-        "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
-        "diff": 7
-    },
-    {
         "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
         "backorder": "お取り寄せ",
         "oldprice": "4,787円",
         "newprice": "4,780円",
+        "diff": 7
+    },
+    {
+        "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
         "diff": 7
     },
     {
@@ -3880,6 +3904,14 @@
         "diff": 7
     },
     {
+        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
         "name": "WARCRY： SHATTERD STORMVAULT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
         "backorder": "",
@@ -4218,6 +4250,14 @@
     {
         "name": "WARHAMMER 40000： THERMIC PLASMA CONDUITS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003746346/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "NECROMUNDA BULKHEAD DOORS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003745734/",
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
@@ -5077,14 +5117,6 @@
         "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
         "diff": 6
     },
     {
@@ -6936,6 +6968,14 @@
         "diff": 3
     },
     {
+        "name": "NECROMUNDA GOLIATH GANG DICE SET",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003745732/",
+        "backorder": "",
+        "oldprice": "1,833円",
+        "newprice": "1,830円",
+        "diff": 3
+    },
+    {
         "name": "DATACARDS： CHAOS SPACE MARINES 2 (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004330404/",
         "backorder": "",
@@ -7109,6 +7149,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL PROJECT BOX",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194069/",
+        "backorder": "",
+        "oldprice": "7,843円",
+        "newprice": "7,840円",
         "diff": 3
     },
     {
