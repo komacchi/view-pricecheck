@@ -696,6 +696,14 @@
         "diff": 619
     },
     {
+        "name": "MUNITORIUM ARMOURED CONTAINERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155627/",
+        "backorder": "",
+        "oldprice": "7,639円",
+        "newprice": "7,020円",
+        "diff": 619
+    },
+    {
         "name": "SPACE MARINE IRONCLAD DREADNOUGHT [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193848/",
         "backorder": "",
@@ -6306,7 +6314,7 @@
     {
         "name": "40K IMPERIAL KNIGHTS： ARMIGER WARGLAIVES [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003914941/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "10,593円",
         "newprice": "10,590円",
         "diff": 3
@@ -7162,7 +7170,7 @@
     {
         "name": "A/IMPERIALIS IMPERIAL NAVY DICE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093505/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "2,343円",
         "newprice": "2,340円",
         "diff": 3
