@@ -464,16 +464,16 @@
         "diff": 680
     },
     {
-        "name": "THOUSAND SONS RUBRIC MARINES [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003382967/",
+        "name": "MUNITORIUM ARMOURED CONTAINERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155627/",
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,020円",
         "diff": 619
     },
     {
-        "name": "MUNITORIUM ARMOURED CONTAINERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155627/",
+        "name": "THOUSAND SONS RUBRIC MARINES [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003382967/",
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,020円",
@@ -608,6 +608,14 @@
         "diff": 516
     },
     {
+        "name": "NECRON IMMORTALS/DEATHMARKS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769123/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "4,780円",
+        "diff": 516
+    },
+    {
         "name": "RIDERS OF ROHAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036396/",
         "backorder": "",
@@ -621,14 +629,6 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,170円",
-        "diff": 516
-    },
-    {
-        "name": "NECRON IMMORTALS/DEATHMARKS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769123/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,780円",
         "diff": 516
     },
     {
@@ -1118,22 +1118,6 @@
         "oldprice": "764円",
         "newprice": "750円",
         "diff": 14
-    },
-    {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
     },
     {
         "name": "CONTRAST： AGGAROS DUNES （18ML） [シタデル コントラスト]",
@@ -2520,6 +2504,22 @@
         "diff": 9
     },
     {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
         "backorder": "",
@@ -2624,6 +2624,14 @@
         "diff": 8
     },
     {
+        "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CITADEL DRILL",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
         "backorder": "",
@@ -2653,14 +2661,6 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -3312,19 +3312,19 @@
         "diff": 7
     },
     {
-        "name": "CITADEL LARGE SHADE BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
-        "backorder": "",
-        "oldprice": "1,527円",
-        "newprice": "1,520円",
-        "diff": 7
-    },
-    {
         "name": "VAMPIRE COUNTS ZOMBIES [WARHAMMER]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194008/",
         "backorder": "",
         "oldprice": "4,787円",
         "newprice": "4,780円",
+        "diff": 7
+    },
+    {
+        "name": "CITADEL LARGE SHADE BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
+        "backorder": "",
+        "oldprice": "1,527円",
+        "newprice": "1,520円",
         "diff": 7
     },
     {
@@ -3678,14 +3678,6 @@
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
-    },
-    {
-        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
     },
     {
         "name": "GOTREK GURNISSON",
@@ -4130,7 +4122,7 @@
     {
         "name": "AOS BATTLETOME： NIGHTHAUNT SB JP [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003934434/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
@@ -4896,6 +4888,14 @@
         "diff": 6
     },
     {
+        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "FANE OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
         "backorder": "",
@@ -5010,6 +5010,14 @@
     {
         "name": "START COLLECTING！ T'AU EMPIRE [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692206/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
@@ -5218,14 +5226,6 @@
     {
         "name": "SECTOR MECHANICUS： DERELICT FACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004150893/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
@@ -5568,14 +5568,6 @@
         "diff": 4
     },
     {
-        "name": "CITADEL LARGE SCENERY BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194777/",
-        "backorder": "",
-        "oldprice": "1,324円",
-        "newprice": "1,320円",
-        "diff": 4
-    },
-    {
         "name": "D/GUARD PAINT SET＋ JPN/SIMP＋TRAD CHINESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217797/",
         "backorder": "",
@@ -5597,6 +5589,14 @@
         "backorder": "",
         "oldprice": "5,704円",
         "newprice": "5,700円",
+        "diff": 4
+    },
+    {
+        "name": "CITADEL LARGE SCENERY BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194777/",
+        "backorder": "",
+        "oldprice": "1,324円",
+        "newprice": "1,320円",
         "diff": 4
     },
     {
@@ -6024,6 +6024,14 @@
         "diff": 3
     },
     {
+        "name": "SPIKE！ JOURNAL： ISSUE 2 EN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003942797/",
+        "backorder": "",
+        "oldprice": "1,833円",
+        "newprice": "1,830円",
+        "diff": 3
+    },
+    {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
         "backorder": "",
@@ -6053,14 +6061,6 @@
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "SPIKE！ JOURNAL： ISSUE 2 EN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003942797/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
         "diff": 3
     },
     {
