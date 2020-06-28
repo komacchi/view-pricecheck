@@ -136,14 +136,6 @@
         "diff": 3347
     },
     {
-        "name": "KILL TEAM： THE SLICING NOOSE JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036375/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "3,680円",
-        "diff": 3347
-    },
-    {
         "name": "MIDDLE-EARTH SBG： BATTLE COMPANIES ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004390000/",
         "backorder": "",
@@ -336,28 +328,12 @@
         "diff": 2206
     },
     {
-        "name": "LEGOLAS GREENLEAF AND TAURIEL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004177952/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "2,480円",
-        "diff": 2206
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "2,480円",
         "diff": 2206
-    },
-    {
-        "name": "GENESTEALER CULTS LOCUS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004242682/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "1,880円",
-        "diff": 2194
     },
     {
         "name": "SECTOR IMPERIALIS： MANUFACTORUM",
@@ -4373,6 +4349,14 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
         "diff": 6
     },
     {
