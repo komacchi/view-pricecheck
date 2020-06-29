@@ -560,16 +560,16 @@
         "diff": 646
     },
     {
-        "name": "MUNITORIUM ARMOURED CONTAINERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155627/",
+        "name": "THOUSAND SONS RUBRIC MARINES [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003382967/",
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,020円",
         "diff": 619
     },
     {
-        "name": "THOUSAND SONS RUBRIC MARINES [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003382967/",
+        "name": "MUNITORIUM ARMOURED CONTAINERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155627/",
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,020円",
@@ -1240,14 +1240,6 @@
         "diff": 9
     },
     {
-        "name": "KHORNE BLOODBOUND BLOOD WARRIORS [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193990/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
         "backorder": "",
@@ -1269,6 +1261,14 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "KHORNE BLOODBOUND BLOOD WARRIORS [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193990/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -6016,14 +6016,6 @@
         "diff": 3
     },
     {
-        "name": "RETRIBUTOR ARMOUR SPRAY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194774/",
-        "backorder": "",
-        "oldprice": "3,973円",
-        "newprice": "3,970円",
-        "diff": 3
-    },
-    {
         "name": "BLOOD BOWL SPIKE！ JOURNAL ISSUE 1 ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881002/",
         "backorder": "",
@@ -6069,6 +6061,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "RETRIBUTOR ARMOUR SPRAY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194774/",
+        "backorder": "",
+        "oldprice": "3,973円",
+        "newprice": "3,970円",
         "diff": 3
     },
     {
