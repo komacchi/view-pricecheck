@@ -112,14 +112,6 @@
         "diff": 2728
     },
     {
-        "name": "AOS： GENERAL'S HANDBOOK 2018 EN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922183/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
         "name": "LOTR： EASTERLING KATAPHRAKTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036395/",
         "backorder": "",
@@ -166,14 +158,6 @@
         "oldprice": "4,686円",
         "newprice": "2,480円",
         "diff": 2206
-    },
-    {
-        "name": "DEATH ZONE： SEASON 2！ （ENG） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003563220/",
-        "backorder": "",
-        "oldprice": "4,176円",
-        "newprice": "2,280円",
-        "diff": 1896
     },
     {
         "name": "BLOOD BOWL： ELVEN UNION CARDS (ENG)",
@@ -288,16 +272,16 @@
         "diff": 1126
     },
     {
-        "name": "ORK BATTLEWAGON",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155620/",
+        "name": "ASTRA MILITARUM VALKYRIE [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193921/",
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "9,470円",
         "diff": 1123
     },
     {
-        "name": "ASTRA MILITARUM VALKYRIE [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193921/",
+        "name": "ORK BATTLEWAGON",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155620/",
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "9,470円",
@@ -578,7 +562,7 @@
     {
         "name": "SPACE MARINE IRONCLAD DREADNOUGHT [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193848/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "7,027円",
         "newprice": "6,410円",
         "diff": 617
@@ -2618,7 +2602,7 @@
     {
         "name": "A/I： IMPERIAL NAVY THUNDERBOLT FIGHTERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093506/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
@@ -2712,19 +2696,19 @@
         "diff": 8
     },
     {
-        "name": "STORMCAST ETERNALS LORD-CASTELLANT [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194047/",
-        "backorder": "",
-        "oldprice": "5,398円",
-        "newprice": "5,390円",
-        "diff": 8
-    },
-    {
         "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "STORMCAST ETERNALS LORD-CASTELLANT [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194047/",
+        "backorder": "",
+        "oldprice": "5,398円",
+        "newprice": "5,390円",
         "diff": 8
     },
     {
@@ -3504,14 +3488,6 @@
         "diff": 7
     },
     {
-        "name": "ORK MEGANOBZ",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155619/",
-        "backorder": "",
-        "oldprice": "7,537円",
-        "newprice": "7,530円",
-        "diff": 7
-    },
-    {
         "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
         "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
         "backorder": "",
@@ -3541,6 +3517,14 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "ORK MEGANOBZ",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155619/",
+        "backorder": "",
+        "oldprice": "7,537円",
+        "newprice": "7,530円",
         "diff": 7
     },
     {
@@ -3702,14 +3686,6 @@
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
-    },
-    {
-        "name": "GOTREK GURNISSON",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119656/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
     },
     {
         "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
@@ -3970,7 +3946,7 @@
     {
         "name": "START COLLECTING！ SPACE MARINES [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692180/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "12,936円",
         "newprice": "12,930円",
         "diff": 6
@@ -4042,14 +4018,6 @@
     {
         "name": "NIGHTHAUNT KELDREK： KNIGHT OF SHROUDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003814031/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "DARKOATH WARQUEEN MARAKARR BLOOD-SKY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003814028/",
         "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
@@ -4784,14 +4752,6 @@
         "diff": 6
     },
     {
-        "name": "WARCRY： BONESPLITTERS CARD PACK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844109/",
-        "backorder": "お取り寄せ",
-        "oldprice": "1,196円",
-        "newprice": "1,190円",
-        "diff": 6
-    },
-    {
         "name": "WARCRY CARRY CASE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844101/",
         "backorder": "",
@@ -4904,6 +4864,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
         "backorder": "",
@@ -4976,14 +4944,6 @@
         "diff": 5
     },
     {
-        "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
-        "backorder": "",
-        "oldprice": "5,195円",
-        "newprice": "5,190円",
-        "diff": 5
-    },
-    {
         "name": "KNIGHT PRECEPTOR CANIS REX",
         "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
         "backorder": "",
@@ -4997,6 +4957,14 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
+        "backorder": "",
+        "oldprice": "5,195円",
+        "newprice": "5,190円",
         "diff": 5
     },
     {
@@ -5453,14 +5421,6 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
-        "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
         "diff": 5
     },
     {
@@ -6061,14 +6021,6 @@
         "backorder": "",
         "oldprice": "3,973円",
         "newprice": "3,970円",
-        "diff": 3
-    },
-    {
-        "name": "Balewind Vortex",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003355915/",
-        "backorder": "お取り寄せ",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
         "diff": 3
     },
     {
@@ -6901,14 +6853,6 @@
         "backorder": "",
         "oldprice": "6,111円",
         "newprice": "6,110円",
-        "diff": 1
-    },
-    {
-        "name": "SKELETON WARRIORS [WARHAMMER]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194006/",
-        "backorder": "お取り寄せ",
-        "oldprice": "1,161円",
-        "newprice": "1,160円",
         "diff": 1
     },
     {
