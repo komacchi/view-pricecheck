@@ -392,6 +392,14 @@
         "diff": 926
     },
     {
+        "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "500円",
+        "diff": 926
+    },
+    {
         "name": "WHITE DWARF AUGUST 2019 JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004912669/",
         "backorder": "",
@@ -555,14 +563,6 @@
         "name": "SPACE WOLVES WOLF GUARD TERMINATORS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193851/",
         "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "6,410円",
-        "diff": 617
-    },
-    {
-        "name": "SPACE MARINE IRONCLAD DREADNOUGHT [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193848/",
-        "backorder": "お取り寄せ",
         "oldprice": "7,027円",
         "newprice": "6,410円",
         "diff": 617
@@ -4912,6 +4912,14 @@
         "diff": 5
     },
     {
+        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5090,14 +5098,6 @@
     {
         "name": "SECTOR MECHANICUS： DERELICT FACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004150893/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
@@ -5904,14 +5904,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL LARGE DRYBRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
         "name": "BLOOD BOWL SPIKE！ JOURNAL ISSUE 1 ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881002/",
         "backorder": "",
@@ -5957,6 +5949,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL LARGE DRYBRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
