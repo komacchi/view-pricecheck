@@ -392,14 +392,6 @@
         "diff": 926
     },
     {
-        "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "500円",
-        "diff": 926
-    },
-    {
         "name": "WHITE DWARF AUGUST 2019 JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004912669/",
         "backorder": "",
@@ -3728,6 +3720,14 @@
         "diff": 6
     },
     {
+        "name": "WHITE DWARF SEPTEMBER 2018 (JAPANESE)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004049770/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "1,420円",
+        "diff": 6
+    },
+    {
         "name": "CALIBAN GREEN SPRAY",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
         "backorder": "",
@@ -4912,14 +4912,6 @@
         "diff": 5
     },
     {
-        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5098,6 +5090,14 @@
     {
         "name": "SECTOR MECHANICUS： DERELICT FACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004150893/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
