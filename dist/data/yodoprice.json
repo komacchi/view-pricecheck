@@ -2656,6 +2656,14 @@
         "diff": 8
     },
     {
+        "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CITADEL DRILL",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
         "backorder": "",
@@ -2685,14 +2693,6 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -3256,14 +3256,6 @@
         "diff": 8
     },
     {
-        "name": "WARCRY： THE SPLINTERED FANG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "BLACKSTONE FORTRESS： ESCALATION ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082604/",
         "backorder": "",
@@ -3642,6 +3634,14 @@
     {
         "name": "WARCRY： CYPHER LORDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "WARCRY： THE SPLINTERED FANG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -4920,6 +4920,14 @@
         "diff": 5
     },
     {
+        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
         "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
         "backorder": "",
@@ -5032,14 +5040,6 @@
         "diff": 5
     },
     {
-        "name": "AOS ETB FYRESLAYERS THE CHOSEN AXES [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003903297/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "AOS ETB KHORNE BLOODBOUND GARREK'S REAVERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003903296/",
         "backorder": "",
@@ -5098,14 +5098,6 @@
     {
         "name": "SECTOR MECHANICUS： DERELICT FACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004150893/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "START COLLECTING! DEATHWATCH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
@@ -5816,14 +5808,6 @@
         "diff": 4
     },
     {
-        "name": "A/IMPERIALIS IMPERIAL NAVY DICE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093505/",
-        "backorder": "お取り寄せ",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "A/I： RYNN’S WORLD AIR WAR CAMPAIGN BOOK",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093498/",
         "backorder": "",
@@ -5912,6 +5896,14 @@
         "diff": 3
     },
     {
+        "name": "CITADEL LARGE DRYBRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
         "name": "BLOOD BOWL SPIKE！ JOURNAL ISSUE 1 ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881002/",
         "backorder": "",
@@ -5957,14 +5949,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL LARGE DRYBRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
         "diff": 3
     },
     {
@@ -6717,6 +6701,14 @@
         "backorder": "",
         "oldprice": "7,843円",
         "newprice": "7,840円",
+        "diff": 3
+    },
+    {
+        "name": "A/IMPERIALIS IMPERIAL NAVY DICE SET",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093505/",
+        "backorder": "お取り寄せ",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
         "diff": 3
     },
     {
