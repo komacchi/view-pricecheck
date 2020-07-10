@@ -2544,6 +2544,14 @@
         "diff": 8
     },
     {
+        "name": "DOMINION OF SIGMAR: TIMEWORN RUINS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004424379/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CITADEL DRILL",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
         "backorder": "",
@@ -2682,14 +2690,6 @@
     {
         "name": "40K CODEX IMPERIAL KNIGHTS HB JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003908564/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "DOMINION OF SIGMAR: TIMEWORN RUINS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004424379/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -4389,6 +4389,14 @@
         "backorder": "",
         "oldprice": "2,546円",
         "newprice": "2,540円",
+        "diff": 6
+    },
+    {
+        "name": "ASTRA MILITARUM SPEARHEAD DETACHMENT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620118/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
         "diff": 6
     },
     {
