@@ -594,7 +594,7 @@
     {
         "name": "TYRANID HORMAGAUNT BROOD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193939/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,170円",
         "diff": 516
@@ -5712,14 +5712,6 @@
         "diff": 3
     },
     {
-        "name": "AOS ETB CASTIGATORS WITH GRYPH-HOUND",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922190/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
         "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
         "backorder": "",
@@ -5746,6 +5738,14 @@
     {
         "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AOS ETB CASTIGATORS WITH GRYPH-HOUND",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922190/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -6077,14 +6077,6 @@
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "10,590円",
-        "diff": 3
-    },
-    {
-        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
         "diff": 3
     },
     {
