@@ -920,14 +920,6 @@
         "diff": 154
     },
     {
-        "name": "DEATHWATCH KILL TEAM [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769119/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,190円",
-        "diff": 106
-    },
-    {
         "name": "AGE OF SIGMAR: GAMING BOOK JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159310/",
         "backorder": "",
@@ -1304,14 +1296,6 @@
         "diff": 9
     },
     {
-        "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "SECTOR IMPERIALIS： MANUFACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
         "backorder": "",
@@ -1325,6 +1309,14 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -5704,14 +5696,6 @@
         "diff": 3
     },
     {
-        "name": "AOS ETB： STORMCAST ETERNALS SEQUITORS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922191/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
         "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
         "backorder": "",
@@ -5738,6 +5722,14 @@
     {
         "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AOS ETB： STORMCAST ETERNALS SEQUITORS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922191/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
