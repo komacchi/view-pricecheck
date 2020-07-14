@@ -80,14 +80,6 @@
         "diff": 2728
     },
     {
-        "name": "CODEX： CRAFTWORLDS (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003720735/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "3,180円",
-        "diff": 2728
-    },
-    {
         "name": "CRAFTWORLDS WRAITHGUARD [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692194/",
         "backorder": "",
@@ -366,14 +358,6 @@
         "oldprice": "10,593円",
         "newprice": "9,780円",
         "diff": 813
-    },
-    {
-        "name": "BLOOD BOWL THE GOUGED EYE DICE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003631325/",
-        "backorder": "",
-        "oldprice": "1,630円",
-        "newprice": "880円",
-        "diff": 750
     },
     {
         "name": "ADEPTUS TITANICUS GRAND MASTER ED. （JPN）",
@@ -1032,14 +1016,6 @@
         "diff": 9
     },
     {
-        "name": "BLOOD BOWL： WOOD ELF TEAM DICE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691619/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
-        "diff": 9
-    },
-    {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
         "backorder": "",
@@ -1061,6 +1037,14 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "BLOOD BOWL： WOOD ELF TEAM DICE SET",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691619/",
+        "backorder": "お取り寄せ",
+        "oldprice": "2,139円",
+        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -4376,11 +4360,11 @@
         "diff": 6
     },
     {
-        "name": "ASTRA MILITARUM SPEARHEAD DETACHMENT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620118/",
+        "name": "K/T COMMANDER: CRASKER MATTERZHEK ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004155613/",
         "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -6122,7 +6106,7 @@
     {
         "name": "BLOOD BOWL OGRE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003463468/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "2,852円",
         "newprice": "2,850円",
         "diff": 2
