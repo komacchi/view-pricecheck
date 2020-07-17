@@ -3154,7 +3154,7 @@
     {
         "name": "AOS IDONETH DEEPKIN AKHELIAN GUARD",
         "itemUrl": "https://www.yodobashi.com/product/100000001003891531/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
@@ -3365,14 +3365,6 @@
         "backorder": "",
         "oldprice": "1,196円",
         "newprice": "1,190円",
-        "diff": 6
-    },
-    {
-        "name": "WARCRY： CORPSEWRACK MAUSOLEUM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844102/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
         "diff": 6
     },
     {
@@ -3808,14 +3800,6 @@
         "diff": 6
     },
     {
-        "name": "AGE OF SIGMAR： OBJECTIVE MARKERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922177/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "FANE OF SLAANESH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
         "backorder": "",
@@ -3829,6 +3813,14 @@
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "AGE OF SIGMAR： OBJECTIVE MARKERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922177/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4368,6 +4360,14 @@
         "diff": 6
     },
     {
+        "name": "ACASTUS KNIGHT COMMAND TERMINAL PK  ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691616/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "START COLLECTING！ THOUSAND SONS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691610/",
         "backorder": "",
@@ -4866,14 +4866,6 @@
     {
         "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
-        "name": "ACASTUS KNIGHT COMMAND TERMINAL PK  ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691616/",
         "backorder": "",
         "oldprice": "3,565円",
         "newprice": "3,560円",
