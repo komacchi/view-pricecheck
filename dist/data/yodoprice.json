@@ -152,14 +152,6 @@
         "diff": 1274
     },
     {
-        "name": "TAU EMPIRE XV88 BROADSIDE BATTLESUIT [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769136/",
-        "backorder": "",
-        "oldprice": "7,639円",
-        "newprice": "6,410円",
-        "diff": 1229
-    },
-    {
         "name": "ADEPTUS MECHANICUS ONAGER DUNECRAWLER [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193976/",
         "backorder": "",
@@ -4954,7 +4946,7 @@
     {
         "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "6,824円",
         "newprice": "6,820円",
         "diff": 4
@@ -5672,14 +5664,6 @@
         "diff": 3
     },
     {
-        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "DEATHWATCH UPGRADES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
         "backorder": "",
@@ -5690,6 +5674,14 @@
     {
         "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -5981,14 +5973,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "KILLZONE： SECTOR SANCTORIS ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004411440/",
-        "backorder": "",
-        "oldprice": "11,713円",
-        "newprice": "11,710円",
         "diff": 3
     },
     {
