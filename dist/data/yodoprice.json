@@ -3544,6 +3544,14 @@
         "diff": 6
     },
     {
+        "name": "SPACE MARINES BATTALION DETACHMENT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620108/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
         "name": "40K SECTOR IMPERIALIS RUINS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949548/",
         "backorder": "",
@@ -3682,7 +3690,7 @@
     {
         "name": "SPACE MARINES PRIMARIS LIBRARIAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003614949/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "5,296円",
         "newprice": "5,290円",
         "diff": 6
