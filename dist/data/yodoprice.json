@@ -624,14 +624,6 @@
         "diff": 514
     },
     {
-        "name": "NIGHTHAUNT LIEKORON THE EXECUTIONER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003981989/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "3,560円",
-        "diff": 514
-    },
-    {
         "name": "GLOOMSPITE GITZ LOONBOSS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217803/",
         "backorder": "",
@@ -3752,14 +3744,6 @@
         "diff": 6
     },
     {
-        "name": "40K IMPERIAL KNIGHTS KNIGHT VALIANT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908569/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
         "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
         "backorder": "",
@@ -3786,6 +3770,14 @@
     {
         "name": "NECRONS OUTRIDER DETACHMENT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620123/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS KNIGHT VALIANT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908569/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
@@ -4306,14 +4298,6 @@
     {
         "name": "CHAOS SPACE MARINES BATTALION DETACHMENT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620111/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "SPACE MARINES BATTALION DETACHMENT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620108/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
@@ -5874,14 +5858,6 @@
     {
         "name": "KILLZONE：SECTOR FRONTERIS (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004236059/",
-        "backorder": "",
-        "oldprice": "11,713円",
-        "newprice": "11,710円",
-        "diff": 3
-    },
-    {
-        "name": "KILLZONE：SECTOR FRONTERIS (JAPANESE)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004236058/",
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "11,710円",
