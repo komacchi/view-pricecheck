@@ -144,14 +144,6 @@
         "diff": 1274
     },
     {
-        "name": "TAU EMPIRE XV88 BROADSIDE BATTLESUIT [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769136/",
-        "backorder": "",
-        "oldprice": "7,639円",
-        "newprice": "6,410円",
-        "diff": 1229
-    },
-    {
         "name": "ADEPTUS MECHANICUS ONAGER DUNECRAWLER [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193976/",
         "backorder": "",
@@ -3744,14 +3736,6 @@
         "diff": 6
     },
     {
-        "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
         "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
         "backorder": "",
@@ -3778,6 +3762,14 @@
     {
         "name": "NECRONS OUTRIDER DETACHMENT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620123/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
@@ -4570,7 +4562,7 @@
     {
         "name": "START COLLECTING！ STORMCAST VANGUARD [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003824725/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
