@@ -24,14 +24,6 @@
         "diff": 3928
     },
     {
-        "name": "GATHERING STORM RISE OF THE PRIMARCH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003470239/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "3,880円",
-        "diff": 3147
-    },
-    {
         "name": "CODEX：ORKS （HB） （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140919/",
         "backorder": "",
@@ -1248,19 +1240,19 @@
         "diff": 9
     },
     {
-        "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
         "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -1282,6 +1274,14 @@
     {
         "name": "40K KILL TEAM FANGS OF ULFRICH EN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949562/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "40K KILL TEAM FANGS OF ULFRICH JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949561/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
@@ -2344,14 +2344,6 @@
         "diff": 9
     },
     {
-        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "BLOOD BOWL： INDUCEMENTS CARDS  ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691614/",
         "backorder": "",
@@ -2704,6 +2696,14 @@
         "diff": 8
     },
     {
+        "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
         "backorder": "",
@@ -2952,20 +2952,20 @@
         "diff": 8
     },
     {
+        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CITADEL MEDIUM BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194073/",
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
         "diff": 8
-    },
-    {
-        "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
     },
     {
         "name": "AOS IDONETH DEEPKIN NAMARTI THRALLS",
@@ -3056,6 +3056,14 @@
         "diff": 7
     },
     {
+        "name": "DEATH GUARD FOETID BLOAT-DRONE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003703248/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
         "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
         "backorder": "",
@@ -3136,6 +3144,14 @@
         "diff": 7
     },
     {
+        "name": "AOS NIGHTHAUNT GRIMGHAST REAPERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003934441/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
+        "diff": 7
+    },
+    {
         "name": "A/TITANICUS ACASTUS KNIGHTS PORPHYRION",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691615/",
         "backorder": "",
@@ -3160,19 +3176,19 @@
         "diff": 7
     },
     {
-        "name": "AOS NIGHTHAUNT GRIMGHAST REAPERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003934441/",
+        "name": "AOS KURDOSS VALENTIAN THE CRAVEN KING",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949456/",
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
         "diff": 7
     },
     {
-        "name": "AOS KURDOSS VALENTIAN THE CRAVEN KING",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949456/",
+        "name": "40K SECTOR IMPERIALIS ADMINISTRATUM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949551/",
         "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -3213,6 +3229,14 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "WARLORD TITAN WITH PLASMA ANNIHILATOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004177956/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
         "diff": 7
     },
     {
@@ -3296,11 +3320,27 @@
         "diff": 7
     },
     {
+        "name": "DOMINION OF SIGMAR: SHATTERED TEMPLE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004424376/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
+        "diff": 7
+    },
+    {
         "name": "WARHAMMER 40000： APOCALYPSE DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620104/",
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -3736,6 +3776,30 @@
         "diff": 6
     },
     {
+        "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS KNIGHT VALIANT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908569/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "AOS ENDLESS SPELLS： STORMCAST ETERNALS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003934447/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
         "backorder": "",
@@ -3765,30 +3829,6 @@
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "40K IMPERIAL KNIGHTS KNIGHT VALIANT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908569/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "AOS ENDLESS SPELLS： STORMCAST ETERNALS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003934447/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4136,6 +4176,22 @@
         "diff": 6
     },
     {
+        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "FYRESLAYERS MAGMIC INVOCATIONS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364229/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "CHAOS SPACE MARINES DARK APOSTLE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004364221/",
         "backorder": "",
@@ -4326,14 +4382,6 @@
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
-    },
-    {
-        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
     },
     {
         "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
@@ -4728,6 +4776,14 @@
         "diff": 5
     },
     {
+        "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
         "name": "CITADEL CRUSADE CASE XL",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620130/",
         "backorder": "",
@@ -4837,6 +4893,14 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -5000,14 +5064,6 @@
         "diff": 4
     },
     {
-        "name": "CRAFTWORLDS SPIRITSEER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691611/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "AGE OF SIGMAR： SCENERY DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003922187/",
         "backorder": "",
@@ -5021,6 +5077,14 @@
         "backorder": "",
         "oldprice": "2,954円",
         "newprice": "2,950円",
+        "diff": 4
+    },
+    {
+        "name": "CRAFTWORLDS SPIRITSEER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691611/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -5101,14 +5165,6 @@
         "backorder": "",
         "oldprice": "5,704円",
         "newprice": "5,700円",
-        "diff": 4
-    },
-    {
-        "name": "WH UNDERWORLDS: ZARBAG'S GITZ （ENGLISH） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099386/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -5624,22 +5680,6 @@
         "diff": 3
     },
     {
-        "name": "DEATHWATCH UPGRADES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
-        "diff": 3
-    },
-    {
-        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "40K DATASHEETS IMPERIAL KNIGHTS ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003908567/",
         "backorder": "",
@@ -5685,6 +5725,22 @@
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "10,590円",
+        "diff": 3
+    },
+    {
+        "name": "DEATHWATCH UPGRADES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
+        "backorder": "",
+        "oldprice": "1,833円",
+        "newprice": "1,830円",
+        "diff": 3
+    },
+    {
+        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
         "diff": 3
     },
     {
@@ -5768,6 +5824,14 @@
         "diff": 3
     },
     {
+        "name": "KILLZONE： DEATH WORLD FOREST ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036370/",
+        "backorder": "",
+        "oldprice": "11,713円",
+        "newprice": "11,710円",
+        "diff": 3
+    },
+    {
         "name": "KILL TEAM： ELUCIDIAN STARSTRIDERS DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004065842/",
         "backorder": "",
@@ -5805,14 +5869,6 @@
         "backorder": "",
         "oldprice": "21,083円",
         "newprice": "21,080円",
-        "diff": 3
-    },
-    {
-        "name": "DARK ANGELS UPGRADES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004155622/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
         "diff": 3
     },
     {
@@ -6085,6 +6141,14 @@
         "backorder": "",
         "oldprice": "2,241円",
         "newprice": "2,240円",
+        "diff": 1
+    },
+    {
+        "name": "DEATHWORLD FOREST",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003448578/",
+        "backorder": "",
+        "oldprice": "18,741円",
+        "newprice": "18,740円",
         "diff": 1
     },
     {
