@@ -24,6 +24,14 @@
         "diff": 3928
     },
     {
+        "name": "MORANNON ORCS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036389/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "3,080円",
+        "diff": 3133
+    },
+    {
         "name": "CODEX：ORKS （HB） （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140919/",
         "backorder": "",
@@ -1248,14 +1256,6 @@
         "diff": 9
     },
     {
-        "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "STORMCAST ETERNALS SEQUITORS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961708/",
         "backorder": "",
@@ -1266,6 +1266,14 @@
     {
         "name": "40K KILL TEAM KROGSKULL'S BOYZ EN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949564/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "40K KILL TEAM KROGSKULL'S BOYZ JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949563/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
@@ -2472,14 +2480,6 @@
         "diff": 8
     },
     {
-        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "DOMINION OF SIGMAR: TIMEWORN RUINS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004424379/",
         "backorder": "",
@@ -2749,6 +2749,14 @@
         "backorder": "",
         "oldprice": "16,398円",
         "newprice": "16,390円",
+        "diff": 8
+    },
+    {
+        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -4952,6 +4960,14 @@
         "diff": 4
     },
     {
+        "name": "AOS WH UNDERWORLDS：THE FARSTRIDERS ENG [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003864548/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
+        "diff": 4
+    },
+    {
         "name": "AOS WH UNDERWORLDS：MAGORE'S FIENDS ENG [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003864546/",
         "backorder": "",
@@ -4962,14 +4978,6 @@
     {
         "name": "D/GUARD PAINT SET＋ JPN/SIMP＋TRAD CHINESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217797/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
-        "name": "AOS WH UNDERWORLDS：THE FARSTRIDERS ENG [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003864548/",
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
@@ -5456,14 +5464,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL COMBAT CARDS： S/MARINES + CHAOS [カードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003770532/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "SPACE MARINES PRIMARIS REPULSOR [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003640636/",
         "backorder": "",
@@ -5485,14 +5485,6 @@
         "backorder": "",
         "oldprice": "21,083円",
         "newprice": "21,080円",
-        "diff": 3
-    },
-    {
-        "name": "ADEPTUS TITANICUS： DOOM OF MOLECH ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390002/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
         "diff": 3
     },
     {
@@ -5648,6 +5640,14 @@
         "diff": 3
     },
     {
+        "name": "CITADEL COMBAT CARDS： S/MARINES + CHAOS [カードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003770532/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
         "backorder": "",
@@ -5709,6 +5709,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "ADEPTUS TITANICUS： DOOM OF MOLECH ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390002/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
         "diff": 3
     },
     {
