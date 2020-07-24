@@ -232,14 +232,6 @@
         "diff": 1063
     },
     {
-        "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "1,280円",
-        "diff": 1063
-    },
-    {
         "name": "WARSCROLL CARDS： FYRESLAYERS (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004364228/",
         "backorder": "",
@@ -258,6 +250,14 @@
     {
         "name": "WARSCROLL CARDS： SYLVANETH ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396200/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
+        "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "1,280円",
@@ -432,16 +432,16 @@
         "diff": 619
     },
     {
-        "name": "ORKS SHOKKJUMP DRAGSTA [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004314099/",
+        "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "6,410円",
         "diff": 617
     },
     {
-        "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
+        "name": "ORKS SHOKKJUMP DRAGSTA [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004314099/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "6,410円",
@@ -1048,14 +1048,6 @@
         "diff": 9
     },
     {
-        "name": "SECTOR IMPERIALIS： MANUFACTORUM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "CITADEL FILE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
         "backorder": "",
@@ -1245,6 +1237,14 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "SECTOR IMPERIALIS： MANUFACTORUM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2344,6 +2344,14 @@
         "diff": 9
     },
     {
+        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "BLOOD BOWL： INDUCEMENTS CARDS  ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691614/",
         "backorder": "",
@@ -2952,20 +2960,20 @@
         "diff": 8
     },
     {
-        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CITADEL MEDIUM BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194073/",
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
         "diff": 8
+    },
+    {
+        "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
     },
     {
         "name": "AOS IDONETH DEEPKIN NAMARTI THRALLS",
@@ -3080,14 +3088,6 @@
         "diff": 7
     },
     {
-        "name": "CHAOS SPACE MARINES NOCTILITH CROWN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004330411/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
         "backorder": "",
@@ -3149,6 +3149,14 @@
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "CHAOS SPACE MARINES NOCTILITH CROWN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004330411/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -3333,14 +3341,6 @@
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
-        "diff": 7
-    },
-    {
-        "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -4384,6 +4384,14 @@
         "diff": 6
     },
     {
+        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
         "backorder": "",
@@ -4896,14 +4904,6 @@
         "diff": 5
     },
     {
-        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "CORAX WHITE SPRAY (JAPAN/CHINA) [プラモデル用 塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003356681/",
         "backorder": "",
@@ -5064,6 +5064,14 @@
         "diff": 4
     },
     {
+        "name": "CRAFTWORLDS SPIRITSEER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691611/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
+        "diff": 4
+    },
+    {
         "name": "AGE OF SIGMAR： SCENERY DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003922187/",
         "backorder": "",
@@ -5077,14 +5085,6 @@
         "backorder": "",
         "oldprice": "2,954円",
         "newprice": "2,950円",
-        "diff": 4
-    },
-    {
-        "name": "CRAFTWORLDS SPIRITSEER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691611/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -5712,22 +5712,6 @@
         "diff": 3
     },
     {
-        "name": "AOS ETB NIGHTHAUNT GLAIVEWRAITH STALKERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922188/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "AGE OF SIGMAR： MALIGN SORCERY JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922184/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "10,590円",
-        "diff": 3
-    },
-    {
         "name": "DEATHWATCH UPGRADES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
         "backorder": "",
@@ -5741,6 +5725,22 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AOS ETB NIGHTHAUNT GLAIVEWRAITH STALKERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922188/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AGE OF SIGMAR： MALIGN SORCERY JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922184/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "10,590円",
         "diff": 3
     },
     {
