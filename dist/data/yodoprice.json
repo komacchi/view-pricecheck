@@ -1240,19 +1240,19 @@
         "diff": 9
     },
     {
-        "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "SECTOR IMPERIALIS： MANUFACTORUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2488,14 +2488,6 @@
         "diff": 8
     },
     {
-        "name": "DAEMONS OF SLAANESH：INFERNAL ENRAPTURESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004396208/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CITADEL DRILL",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
         "backorder": "",
@@ -2634,6 +2626,14 @@
     {
         "name": "40K CODEX IMPERIAL KNIGHTS HB JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003908564/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "DAEMONS OF SLAANESH：INFERNAL ENRAPTURESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004396208/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -5304,6 +5304,14 @@
         "diff": 4
     },
     {
+        "name": "BLACK LIBRARY CALENDAR 2018 [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003733494/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "BLOOD BOWL： WOOD ELVES PITCH & DUGOUTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691621/",
         "backorder": "",
@@ -5477,14 +5485,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
-        "backorder": "",
-        "oldprice": "21,083円",
-        "newprice": "21,080円",
         "diff": 3
     },
     {
@@ -5696,19 +5696,11 @@
         "diff": 3
     },
     {
-        "name": "AOS ETB： STORMCAST ETERNALS SEQUITORS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922191/",
+        "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
         "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "AOS ETB CASTIGATORS WITH GRYPH-HOUND",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003922190/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
+        "oldprice": "21,083円",
+        "newprice": "21,080円",
         "diff": 3
     },
     {
@@ -5730,6 +5722,22 @@
     {
         "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AOS ETB： STORMCAST ETERNALS SEQUITORS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922191/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AOS ETB CASTIGATORS WITH GRYPH-HOUND",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922190/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -6058,14 +6066,6 @@
     {
         "name": "DATACARDS： CHAOS KNIGHTS ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637237/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "BLACK LIBRARY CALENDAR 2018 [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003733494/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
