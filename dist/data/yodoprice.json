@@ -440,16 +440,16 @@
         "diff": 619
     },
     {
-        "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
+        "name": "ORKS SHOKKJUMP DRAGSTA [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004314099/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "6,410円",
         "diff": 617
     },
     {
-        "name": "ORKS SHOKKJUMP DRAGSTA [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004314099/",
+        "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "6,410円",
@@ -1056,6 +1056,14 @@
         "diff": 9
     },
     {
+        "name": "SECTOR IMPERIALIS： MANUFACTORUM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "CITADEL FILE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
         "backorder": "",
@@ -1237,14 +1245,6 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "SECTOR IMPERIALIS： MANUFACTORUM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -3792,6 +3792,14 @@
         "diff": 6
     },
     {
+        "name": "AOS ENDLESS SPELLS： STORMCAST ETERNALS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003934447/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "S/M PRIMARIS LIEUTENANT WITH POWER SWORD",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059053/",
         "backorder": "",
@@ -3821,14 +3829,6 @@
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "AOS ENDLESS SPELLS： STORMCAST ETERNALS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003934447/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -5688,6 +5688,14 @@
         "diff": 3
     },
     {
+        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
         "backorder": "",
@@ -5696,11 +5704,11 @@
         "diff": 3
     },
     {
-        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
@@ -6045,14 +6053,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
         "diff": 3
     },
     {
