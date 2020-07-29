@@ -784,14 +784,6 @@
         "diff": 313
     },
     {
-        "name": "SPIKE！ JOURNAL：ISSUE 4（ENGLISH）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194383/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "1,830円",
-        "diff": 309
-    },
-    {
         "name": "SPIKE! JOURNAL: ISSUE 5 ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004424383/",
         "backorder": "",
@@ -4442,7 +4434,7 @@
     {
         "name": "START COLLECTING! DEATHWATCH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
