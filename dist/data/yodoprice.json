@@ -712,14 +712,6 @@
         "diff": 408
     },
     {
-        "name": "CITADEL PALETTE PAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194764/",
-        "backorder": "",
-        "oldprice": "1,273円",
-        "newprice": "917円",
-        "diff": 356
-    },
-    {
         "name": "NECROMUNDA VAN SAAR GANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881008/",
         "backorder": "",
@@ -2512,14 +2504,6 @@
         "diff": 8
     },
     {
-        "name": "40K LIB CODEX： NECRONS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "40K LIB CODEX： DRUKHARI HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003860529/",
         "backorder": "",
@@ -2946,6 +2930,14 @@
     {
         "name": "CODEX： TYRANIDS (HB) (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003733480/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "40K LIB CODEX： NECRONS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -3557,14 +3549,6 @@
         "backorder": "",
         "oldprice": "4,176円",
         "newprice": "4,170円",
-        "diff": 6
-    },
-    {
-        "name": "WARHAMMER 40000： KNOW NO FEAR （JAPANESE） [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622188/",
-        "backorder": "",
-        "oldprice": "10,186円",
-        "newprice": "10,180円",
         "diff": 6
     },
     {
@@ -4664,14 +4648,6 @@
         "diff": 5
     },
     {
-        "name": "AGE OF SIGMAR： LOONCURSE ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004396202/",
-        "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
-    },
-    {
         "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
         "backorder": "",
@@ -5192,14 +5168,6 @@
         "diff": 4
     },
     {
-        "name": "WHU： THUNDRIK’S PROFITEERS JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390010/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "FYRESLAYERS DICE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001004364224/",
         "backorder": "",
@@ -5477,22 +5445,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "WARHAMMER 40000： FIRST STRIKE （JAPANESE） [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622189/",
-        "backorder": "お取り寄せ",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "GETTING STARTED WITH WARHAMMER 40K （JPN） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622190/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
         "diff": 3
     },
     {
@@ -6048,6 +6000,14 @@
         "diff": 2
     },
     {
+        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
+        "backorder": "",
+        "oldprice": "8,352円",
+        "newprice": "8,350円",
+        "diff": 2
+    },
+    {
         "name": "OFFICIO ASSASSINORUM VINDICARE ASSASSIN [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769116/",
         "backorder": "",
@@ -6093,14 +6053,6 @@
         "backorder": "",
         "oldprice": "1,161円",
         "newprice": "1,160円",
-        "diff": 1
-    },
-    {
-        "name": "Citadel Base Paint Set [アクリル系塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194145/",
-        "backorder": "",
-        "oldprice": "6,111円",
-        "newprice": "6,110円",
         "diff": 1
     },
     {
