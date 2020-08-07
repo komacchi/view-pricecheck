@@ -288,14 +288,6 @@
         "diff": 926
     },
     {
-        "name": "ホワイトドワーフ 2019年2月号 日本語版 WHITE DWARF FEBRUARY 2019 (JAPANESE)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004236066/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "500円",
-        "diff": 926
-    },
-    {
         "name": "WHITE DWARF AUGUST 2019 JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004912669/",
         "backorder": "",
@@ -4370,7 +4362,7 @@
     {
         "name": "AOS ETB KHORNE BLOODBOUND MAGORE'S FIENDS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003903295/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "3,565円",
         "newprice": "3,560円",
         "diff": 5
