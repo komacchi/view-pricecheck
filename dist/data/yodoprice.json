@@ -144,16 +144,16 @@
         "diff": 1223
     },
     {
-        "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
+        "name": "ウォーハンマー 40,000：Inquisitor - Martyr [PS4ソフト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004057282/",
         "backorder": "",
         "oldprice": "8,580円",
         "newprice": "7,420円",
         "diff": 1160
     },
     {
-        "name": "ウォーハンマー 40,000：Inquisitor - Martyr [PS4ソフト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004057282/",
+        "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
         "oldprice": "8,580円",
         "newprice": "7,420円",
@@ -2600,6 +2600,14 @@
         "diff": 8
     },
     {
+        "name": "CITADEL MEDIUM SHADE BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
+        "backorder": "",
+        "oldprice": "1,018円",
+        "newprice": "1,010円",
+        "diff": 8
+    },
+    {
         "name": "GANDALF THE WHITE ＆ PEREGRIN TOOK",
         "itemUrl": "https://www.yodobashi.com/product/100000001004177950/",
         "backorder": "",
@@ -2917,14 +2925,6 @@
         "backorder": "",
         "oldprice": "3,768円",
         "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL MEDIUM SHADE BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
-        "backorder": "",
-        "oldprice": "1,018円",
-        "newprice": "1,010円",
         "diff": 8
     },
     {
@@ -4458,7 +4458,7 @@
     {
         "name": "STORMCAST ETERNALS GRYPH-HOUNDS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003448576/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "3,565円",
         "newprice": "3,560円",
         "diff": 5
@@ -4909,14 +4909,6 @@
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
-        "diff": 4
-    },
-    {
-        "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
-        "backorder": "お取り寄せ",
-        "oldprice": "6,824円",
-        "newprice": "6,820円",
         "diff": 4
     },
     {
@@ -6008,11 +6000,11 @@
         "diff": 2
     },
     {
-        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
+        "name": "CITADEL X-SMALL ARTIFICER LAYER BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194083/",
         "backorder": "",
-        "oldprice": "8,352円",
-        "newprice": "8,350円",
+        "oldprice": "2,852円",
+        "newprice": "2,850円",
         "diff": 2
     },
     {
@@ -6034,14 +6026,6 @@
     {
         "name": "WARCRY： BATTLEPLAN CARDS ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844097/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
-    },
-    {
-        "name": "CITADEL X-SMALL ARTIFICER LAYER BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194083/",
         "backorder": "",
         "oldprice": "2,852円",
         "newprice": "2,850円",
