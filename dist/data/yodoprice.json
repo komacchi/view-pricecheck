@@ -1090,7 +1090,7 @@
     {
         "name": "SPACE MARINES ROBOUTE GUILLIMAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
         "diff": 9
@@ -3834,14 +3834,6 @@
     {
         "name": "SLAVES TO DARKNESS GODSWORN WARBAND",
         "itemUrl": "https://www.yodobashi.com/product/100000001004194378/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "NECRONS DOMINION SPEARHEAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194376/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
