@@ -312,14 +312,6 @@
         "diff": 1023
     },
     {
-        "name": "WHITE DWARF MAY 2020 (JAPANESE) [ホワイトドワーフ　2020年5月号（日本語版）]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005663866/",
-        "backorder": "",
-        "oldprice": "1,430円",
-        "newprice": "500円",
-        "diff": 930
-    },
-    {
         "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
         "backorder": "",
@@ -968,14 +960,6 @@
         "diff": 9
     },
     {
-        "name": "GOLIATH GANG CARDS (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003745735/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
-        "diff": 9
-    },
-    {
         "name": "MORDHEIM TURF",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194765/",
         "backorder": "",
@@ -1013,14 +997,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CITADEL FILE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -2437,14 +2413,6 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL DRILL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-        "backorder": "",
-        "oldprice": "2,648円",
-        "newprice": "2,640円",
         "diff": 8
     },
     {
@@ -4328,6 +4296,14 @@
         "diff": 6
     },
     {
+        "name": "DARKOATH WARQUEEN MARAKARR BLOOD-SKY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003814028/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "INDEX:IMPERIUM 1 (JAPANESE) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003591853/",
         "backorder": "",
@@ -5098,7 +5074,7 @@
     {
         "name": "WH UNDERWORLDS： MOLLOG'S MOB (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004224661/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
         "diff": 4
@@ -5312,14 +5288,6 @@
         "diff": 3
     },
     {
-        "name": "40K IMPERIAL KNIGHTS ARMIGER HELVERINS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908568/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "10,590円",
-        "diff": 3
-    },
-    {
         "name": "KILLZONE： DEATH WORLD FOREST JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036369/",
         "backorder": "",
@@ -5365,6 +5333,14 @@
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
+        "diff": 3
+    },
+    {
+        "name": "DEATHWATCH UPGRADES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
+        "backorder": "",
+        "oldprice": "1,833円",
+        "newprice": "1,830円",
         "diff": 3
     },
     {
@@ -5957,6 +5933,14 @@
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "WARHAMMER 40000： FIRST STRIKE （JAPANESE） [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622189/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
         "diff": 3
     },
     {
