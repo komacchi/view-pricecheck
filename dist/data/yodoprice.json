@@ -304,6 +304,14 @@
         "diff": 1023
     },
     {
+        "name": "WHITE DWARF MAY 2020 (JAPANESE) [ホワイトドワーフ　2020年5月号（日本語版）]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005663866/",
+        "backorder": "",
+        "oldprice": "1,430円",
+        "newprice": "500円",
+        "diff": 930
+    },
+    {
         "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
         "backorder": "",
@@ -549,6 +557,14 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,170円",
+        "diff": 516
+    },
+    {
+        "name": "NECRON IMMORTALS/DEATHMARKS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769123/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "4,780円",
         "diff": 516
     },
     {
@@ -989,14 +1005,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CITADEL FILE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -5277,6 +5285,14 @@
         "backorder": "",
         "oldprice": "1,833円",
         "newprice": "1,830円",
+        "diff": 3
+    },
+    {
+        "name": "40K IMPERIAL KNIGHTS ARMIGER HELVERINS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908568/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "10,590円",
         "diff": 3
     },
     {
