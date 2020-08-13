@@ -144,6 +144,14 @@
         "diff": 1585
     },
     {
+        "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
+        "backorder": "",
+        "oldprice": "8,580円",
+        "newprice": "7,190円",
+        "diff": 1390
+    },
+    {
         "name": "WH UNDERWORLDS: GARREK'S REAVERS （JPN） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099380/",
         "backorder": "",
@@ -170,14 +178,6 @@
     {
         "name": "ウォーハンマー 40,000：Inquisitor - Martyr [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004057282/",
-        "backorder": "",
-        "oldprice": "8,580円",
-        "newprice": "7,420円",
-        "diff": 1160
-    },
-    {
-        "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
         "oldprice": "8,580円",
         "newprice": "7,420円",
@@ -302,14 +302,6 @@
         "oldprice": "11,713円",
         "newprice": "10,690円",
         "diff": 1023
-    },
-    {
-        "name": "WHITE DWARF MAY 2020 (JAPANESE) [ホワイトドワーフ　2020年5月号（日本語版）]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005663866/",
-        "backorder": "",
-        "oldprice": "1,430円",
-        "newprice": "500円",
-        "diff": 930
     },
     {
         "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
@@ -1005,6 +997,14 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "CITADEL FILE SET",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
+        "backorder": "",
+        "oldprice": "2,139円",
+        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -3573,14 +3573,6 @@
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "NECROMUNDA BULKHEAD DOORS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003745734/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,290円",
         "diff": 6
     },
     {
