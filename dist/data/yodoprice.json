@@ -202,7 +202,7 @@
     {
         "name": "ASTRA MILITARUM CHIMERA [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193919/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "5,908円",
         "newprice": "4,780円",
         "diff": 1128
@@ -326,6 +326,14 @@
         "oldprice": "11,713円",
         "newprice": "10,690円",
         "diff": 1023
+    },
+    {
+        "name": "WHITE DWARF MAY 2020 (JAPANESE) [ホワイトドワーフ　2020年5月号（日本語版）]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005663866/",
+        "backorder": "",
+        "oldprice": "1,430円",
+        "newprice": "500円",
+        "diff": 930
     },
     {
         "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
@@ -944,6 +952,14 @@
         "diff": 94
     },
     {
+        "name": "WH U/WORLDS: STEELHEARTS CHAMPIONS （JPN） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099388/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "3,980円",
+        "diff": 94
+    },
+    {
         "name": "WARSCROLL CARDS: CITIES OF SIGMAR ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159314/",
         "backorder": "",
@@ -1218,6 +1234,14 @@
     {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -1824,14 +1848,6 @@
         "diff": 9
     },
     {
-        "name": "AIR： KISLEV FLESH （24ML） [シタデル エアー]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468993/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "AIR： KARAK STONE （24ML） [シタデル エアー]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468992/",
         "backorder": "",
@@ -2282,14 +2298,6 @@
     {
         "name": "CONTRAST： AKHELIAN GREEN （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469044/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -3002,7 +3010,7 @@
     {
         "name": "DEATH GUARD FOETID BLOAT-DRONE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003703248/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
@@ -3672,6 +3680,14 @@
         "diff": 6
     },
     {
+        "name": "WHITE DWARF JANUARY 2018 (JAPANESE)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003776669/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "1,420円",
+        "diff": 6
+    },
+    {
         "name": "40K LIB CODEX： CHAOS SPACE MARINES ABR HB JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003860532/",
         "backorder": "",
@@ -4152,6 +4168,14 @@
         "diff": 6
     },
     {
+        "name": "CITADEL GREY SEER SPRAY 400ML （GLOBAL） [シタデル スプレー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469070/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "2,540円",
+        "diff": 6
+    },
+    {
         "name": "WHITE DWARF JUNE 2019 JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004484807/",
         "backorder": "",
@@ -4187,14 +4211,6 @@
         "name": "T'AU EMPIRE VANGUARD DETACHMENT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620125/",
         "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "NECRONS OUTRIDER DETACHMENT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620123/",
-        "backorder": "お取り寄せ",
         "oldprice": "23,426円",
         "newprice": "23,420円",
         "diff": 6
@@ -4373,14 +4389,6 @@
         "backorder": "お取り寄せ",
         "oldprice": "10,186円",
         "newprice": "10,180円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -4578,14 +4586,6 @@
     {
         "name": "AOS WARSCROLL CARDS： STORMCAST ETERNALS JP [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003934445/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
-        "name": "AOS ETB NIGHTHAUNT DREADBLADE HARROWS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949455/",
         "backorder": "",
         "oldprice": "3,565円",
         "newprice": "3,560円",
@@ -6050,7 +6050,7 @@
     {
         "name": "AOS KHORNE BLOODBOUND GOREBLADE WARBAND",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949452/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "11,713円",
         "newprice": "11,710円",
         "diff": 3
