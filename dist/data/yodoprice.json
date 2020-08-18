@@ -1232,22 +1232,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "GENESTEALER CULTS ATALAN JACKALS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004242687/",
         "backorder": "",
@@ -2312,6 +2296,22 @@
         "diff": 9
     },
     {
+        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
         "backorder": "",
@@ -2461,14 +2461,6 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL DRILL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-        "backorder": "",
-        "oldprice": "2,648円",
-        "newprice": "2,640円",
         "diff": 8
     },
     {
@@ -2640,19 +2632,19 @@
         "diff": 8
     },
     {
-        "name": "GANDALF THE WHITE ＆ PEREGRIN TOOK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004177950/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CITADEL MEDIUM SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
+        "diff": 8
+    },
+    {
+        "name": "GANDALF THE WHITE ＆ PEREGRIN TOOK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004177950/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -4296,6 +4288,14 @@
         "diff": 6
     },
     {
+        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
         "backorder": "",
@@ -4888,14 +4888,6 @@
         "diff": 5
     },
     {
-        "name": "CITADEL PAINTING MAT [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003733490/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "HARLEQUIN STARWEAVER [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769127/",
         "backorder": "",
@@ -4949,14 +4941,6 @@
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
-        "diff": 4
-    },
-    {
-        "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
-        "backorder": "お取り寄せ",
-        "oldprice": "6,824円",
-        "newprice": "6,820円",
         "diff": 4
     },
     {
@@ -6013,14 +5997,6 @@
         "backorder": "お取り寄せ",
         "oldprice": "2,852円",
         "newprice": "2,850円",
-        "diff": 2
-    },
-    {
-        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
-        "backorder": "",
-        "oldprice": "8,352円",
-        "newprice": "8,350円",
         "diff": 2
     },
     {
