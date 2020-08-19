@@ -168,14 +168,6 @@
         "diff": 1274
     },
     {
-        "name": "TAU EMPIRE XV88 BROADSIDE BATTLESUIT [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769136/",
-        "backorder": "",
-        "oldprice": "7,639円",
-        "newprice": "6,410円",
-        "diff": 1229
-    },
-    {
         "name": "ADEPTUS MECHANICUS ONAGER DUNECRAWLER [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193976/",
         "backorder": "",
@@ -213,14 +205,6 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "4,170円",
-        "diff": 1126
-    },
-    {
-        "name": "SPACE WOLVES FENRISIAN WOLF PACK [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769100/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,686円",
-        "newprice": "3,560円",
         "diff": 1126
     },
     {
@@ -1218,14 +1202,6 @@
     {
         "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2290,6 +2266,14 @@
     {
         "name": "CONTRAST： AKHELIAN GREEN （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469044/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -4349,14 +4333,6 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL LAYER PAINT SET [プラモデル用 塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003370756/",
-        "backorder": "お取り寄せ",
-        "oldprice": "10,186円",
-        "newprice": "10,180円",
         "diff": 6
     },
     {
