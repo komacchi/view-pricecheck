@@ -424,14 +424,6 @@
         "diff": 723
     },
     {
-        "name": "WH UNDERWORLDS：SPITECLAW’S SWARM SLEEVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003820177/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "500円",
-        "diff": 723
-    },
-    {
         "name": "WH/UW： STEELHEART'S CHAMPIONS SLEEVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003708593/",
         "backorder": "",
@@ -958,6 +950,14 @@
         "oldprice": "764円",
         "newprice": "750円",
         "diff": 14
+    },
+    {
+        "name": "CONTRAST： AGGAROS DUNES （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469050/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
     },
     {
         "name": "CONTRAST： AKHELIAN GREEN （18ML） [シタデル コントラスト]",
@@ -2266,14 +2266,6 @@
     {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： AGGAROS DUNES （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469050/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
