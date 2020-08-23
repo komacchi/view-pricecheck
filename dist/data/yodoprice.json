@@ -448,14 +448,6 @@
         "diff": 616
     },
     {
-        "name": "DAEMONS OF TZEENTCH BLUE HORRORS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003435739/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,680円",
-        "diff": 616
-    },
-    {
         "name": "WHU： THORNS OF THE BRIAR QUEEN SLEEVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004089178/",
         "backorder": "",
@@ -1072,6 +1064,14 @@
         "diff": 9
     },
     {
+        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -1112,11 +1112,43 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
+        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235333/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2176,46 +2208,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade REIKLAND FLESHSHADE GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235333/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "CP TECHNICAL： HEXWRAITH FLAME",
         "itemUrl": "https://www.yodobashi.com/product/100000001003922193/",
         "backorder": "",
@@ -3000,6 +2992,14 @@
         "diff": 7
     },
     {
+        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
+        "backorder": "",
+        "oldprice": "7,537円",
+        "newprice": "7,530円",
+        "diff": 7
+    },
+    {
         "name": "ORK MEGANOBZ",
         "itemUrl": "https://www.yodobashi.com/product/100000001004155619/",
         "backorder": "",
@@ -3205,14 +3205,6 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
-        "backorder": "",
-        "oldprice": "7,537円",
-        "newprice": "7,530円",
         "diff": 7
     },
     {
