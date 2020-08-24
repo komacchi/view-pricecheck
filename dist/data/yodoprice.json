@@ -112,6 +112,14 @@
         "diff": 2206
     },
     {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "2,480円",
+        "diff": 2206
+    },
+    {
         "name": "BLOOD BOWL： ELVEN UNION CARDS (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003760517/",
         "backorder": "",
@@ -216,6 +224,22 @@
         "diff": 1123
     },
     {
+        "name": "WARSCROLL CARDS：IRONJAWZ (ENGLISH) [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658694/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
+        "name": "DATACARDS: SPACE MARINES (ENG)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003636062/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
         "name": "DATACARDS： CHAOS SPACE MARINES (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003645356/",
         "backorder": "",
@@ -232,8 +256,40 @@
         "diff": 1063
     },
     {
+        "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
         "name": "40K LIB DATACARDS： DRUKHARI ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
+        "name": "WARSCROLL CARDS： FYRESLAYERS (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364228/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
+        "name": "WARSCROLLS： HEDONITES OF SLAANESH ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004396214/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,280円",
+        "diff": 1063
+    },
+    {
+        "name": "WARSCROLL CARDS： SYLVANETH ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004396200/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "1,280円",
@@ -450,6 +506,22 @@
     {
         "name": "WHU： THORNS OF THE BRIAR QUEEN SLEEVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004089178/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "680円",
+        "diff": 543
+    },
+    {
+        "name": "WHU： THUNDRIK’S PROFITEERS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390012/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "680円",
+        "diff": 543
+    },
+    {
+        "name": "WHU： YLTHARI’S GUARDIANS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390008/",
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "680円",
@@ -2504,19 +2576,19 @@
         "diff": 8
     },
     {
-        "name": "CITADEL MEDIUM SHADE BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
-        "backorder": "",
-        "oldprice": "1,018円",
-        "newprice": "1,010円",
-        "diff": 8
-    },
-    {
         "name": "CODEX：ORKS （HB） （JAPANESE）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140918/",
         "backorder": "お取り寄せ",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "CITADEL MEDIUM SHADE BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
+        "backorder": "",
+        "oldprice": "1,018円",
+        "newprice": "1,010円",
         "diff": 8
     },
     {
