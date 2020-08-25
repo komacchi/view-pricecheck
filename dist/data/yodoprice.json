@@ -4256,14 +4256,6 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： KNOW NO FEAR （JAPANESE） [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622188/",
-        "backorder": "",
-        "oldprice": "10,186円",
-        "newprice": "10,180円",
-        "diff": 6
-    },
-    {
         "name": "DARKOATH WARQUEEN MARAKARR BLOOD-SKY",
         "itemUrl": "https://www.yodobashi.com/product/100000001003814028/",
         "backorder": "",
@@ -5042,7 +5034,7 @@
     {
         "name": "WH UNDERWORLDS： MOLLOG'S MOB (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004224661/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,074円",
         "newprice": "4,070円",
         "diff": 4
@@ -5869,6 +5861,14 @@
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "11,710円",
+        "diff": 3
+    },
+    {
+        "name": "WARHAMMER 40000： FIRST STRIKE （JAPANESE） [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622189/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
         "diff": 3
     },
     {
