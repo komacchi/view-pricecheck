@@ -112,20 +112,28 @@
         "diff": 1123
     },
     {
-        "name": "SPACE MARINE BIKE SQUAD [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769091/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,270円",
-        "diff": 1026
-    },
-    {
         "name": "TAU XV95 GHOSTKEEL BATTLESUIT [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692205/",
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "10,690円",
         "diff": 1023
+    },
+    {
+        "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "500円",
+        "diff": 926
+    },
+    {
+        "name": "WHITE DWARF AUGUST 2019 JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004912669/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "500円",
+        "diff": 926
     },
     {
         "name": "TAU EMPIRE XV25 STEALTH BATTLESUITS [プラモデル]",
@@ -174,6 +182,46 @@
         "oldprice": "41,046円",
         "newprice": "40,300円",
         "diff": 746
+    },
+    {
+        "name": "AOS WH/UW： THE FARSTRIDERS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003869861/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "500円",
+        "diff": 723
+    },
+    {
+        "name": "WH UNDERWORLDS: IRONSKULL'S BOYZ SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003726368/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "500円",
+        "diff": 723
+    },
+    {
+        "name": "WH UNDERWORLDS： GARREK'S REAVERS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003708592/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "500円",
+        "diff": 723
+    },
+    {
+        "name": "WH UNDERWORLDS： THE CHOSEN AXES SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003820178/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "500円",
+        "diff": 723
+    },
+    {
+        "name": "WH/UW： STEELHEART'S CHAMPIONS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003708593/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "500円",
+        "diff": 723
     },
     {
         "name": "WHU: ZARBAG'S GITZ DICE SET [プラモデル用品]",
@@ -261,14 +309,6 @@
         "backorder": "お取り寄せ",
         "oldprice": "6,417円",
         "newprice": "5,900円",
-        "diff": 517
-    },
-    {
-        "name": "SPACE MARINE DEVASTATOR SQUAD [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769093/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "6,510円",
         "diff": 517
     },
     {
@@ -544,16 +584,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -566,22 +606,6 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
-    },
-    {
-        "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159313/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
-        "backorder": "",
-        "oldprice": "4,700円",
-        "newprice": "4,600円",
-        "diff": 100
     },
     {
         "name": "AGE OF SIGMAR: GAMING BOOK JAPANESE",
@@ -605,6 +629,22 @@
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
+        "diff": 100
+    },
+    {
+        "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159313/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
+        "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
+        "backorder": "",
+        "oldprice": "4,700円",
+        "newprice": "4,600円",
         "diff": 100
     },
     {
@@ -693,6 +733,14 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "CITADEL FILE SET",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
+        "backorder": "",
+        "oldprice": "2,139円",
+        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -832,6 +880,14 @@
         "diff": 9
     },
     {
+        "name": "KILL TEAM： KILL TEAM MORDELAI JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036372/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -901,14 +957,6 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "KILL TEAM： KILL TEAM MORDELAI JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036372/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2125,6 +2173,14 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
+        "diff": 8
+    },
+    {
+        "name": "CITADEL DRILL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
+        "backorder": "",
+        "oldprice": "2,648円",
+        "newprice": "2,640円",
         "diff": 8
     },
     {
@@ -4048,14 +4104,6 @@
         "diff": 5
     },
     {
-        "name": "AOS ETB STORMCAST ETERNALS CELESTAR BALLISTA",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949460/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "CORAX WHITE SPRAY (JAPAN/CHINA) [プラモデル用 塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003356681/",
         "backorder": "",
@@ -4557,6 +4605,14 @@
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
+        "diff": 4
+    },
+    {
+        "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
+        "backorder": "お取り寄せ",
+        "oldprice": "6,824円",
+        "newprice": "6,820円",
         "diff": 4
     },
     {
@@ -5274,7 +5330,7 @@
     {
         "name": "AGE OF SIGMAR STORM STRIKE EN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949444/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "5,093円",
         "newprice": "5,090円",
         "diff": 3
@@ -5581,6 +5637,14 @@
         "backorder": "お取り寄せ",
         "oldprice": "2,852円",
         "newprice": "2,850円",
+        "diff": 2
+    },
+    {
+        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
+        "backorder": "",
+        "oldprice": "8,352円",
+        "newprice": "8,350円",
         "diff": 2
     },
     {
