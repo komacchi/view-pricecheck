@@ -488,14 +488,6 @@
         "diff": 616
     },
     {
-        "name": "WHU： THORNS OF THE BRIAR QUEEN SLEEVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004089178/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "680円",
-        "diff": 543
-    },
-    {
         "name": "WHU： THUNDRIK’S PROFITEERS SLEEVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004390012/",
         "backorder": "",
@@ -510,6 +502,14 @@
         "oldprice": "1,223円",
         "newprice": "680円",
         "diff": 543
+    },
+    {
+        "name": "SPACE MARINE DEVASTATOR SQUAD [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769093/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "6,510円",
+        "diff": 517
     },
     {
         "name": "SPACE MARINE ASSAULT SQUAD [プラモデル]",
@@ -774,14 +774,6 @@
         "oldprice": "7,027円",
         "newprice": "6,720円",
         "diff": 307
-    },
-    {
-        "name": "SPACE MARINE LAND SPEEDER STORM [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193846/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,380円",
-        "diff": 306
     },
     {
         "name": "DRUKHARI VENOM [キャラクタープラモデル]",
@@ -4432,6 +4424,14 @@
         "diff": 5
     },
     {
+        "name": "AOS ETB STORMCAST ETERNALS CELESTAR BALLISTA",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949460/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "40K GENERIC SECTOR IMPERIALIS BASILICANUM",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949549/",
         "backorder": "",
@@ -5565,14 +5565,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "KILL TEAM DRUKHARI DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036374/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
         "diff": 3
     },
     {
