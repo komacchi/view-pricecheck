@@ -184,14 +184,6 @@
         "diff": 1160
     },
     {
-        "name": "ASTRA MILITARUM CHIMERA [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193919/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "4,780円",
-        "diff": 1128
-    },
-    {
         "name": "TAU EMPIRE PATHFINDER TEAM [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692204/",
         "backorder": "",
@@ -776,14 +768,6 @@
         "diff": 307
     },
     {
-        "name": "SPACE MARINE LAND SPEEDER STORM [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193846/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,380円",
-        "diff": 306
-    },
-    {
         "name": "DRUKHARI VENOM [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692184/",
         "backorder": "",
@@ -1173,14 +1157,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2242,6 +2218,14 @@
     {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -5821,14 +5805,6 @@
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "11,710円",
-        "diff": 3
-    },
-    {
-        "name": "WARHAMMER 40000： FIRST STRIKE （JAPANESE） [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622189/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
         "diff": 3
     },
     {
