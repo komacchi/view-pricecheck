@@ -768,16 +768,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -790,6 +790,14 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
+    },
+    {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
     },
     {
         "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
@@ -818,14 +826,6 @@
     {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
@@ -3024,14 +3024,6 @@
         "diff": 7
     },
     {
-        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
-        "backorder": "",
-        "oldprice": "7,537円",
-        "newprice": "7,530円",
-        "diff": 7
-    },
-    {
         "name": "ORK MEGANOBZ",
         "itemUrl": "https://www.yodobashi.com/product/100000001004155619/",
         "backorder": "",
@@ -3237,6 +3229,14 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
+        "backorder": "",
+        "oldprice": "7,537円",
+        "newprice": "7,530円",
         "diff": 7
     },
     {
