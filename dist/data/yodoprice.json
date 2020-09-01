@@ -792,14 +792,6 @@
         "diff": 208
     },
     {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
         "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159313/",
         "backorder": "",
@@ -826,6 +818,14 @@
     {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
