@@ -104,14 +104,6 @@
         "diff": 2220
     },
     {
-        "name": "THEODEN KING OF ROHAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004177953/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "2,480円",
-        "diff": 2206
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
@@ -768,16 +760,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -790,6 +782,14 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
+    },
+    {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
     },
     {
         "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
@@ -818,14 +818,6 @@
     {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
@@ -986,7 +978,7 @@
     {
         "name": "STORMCAST ETERNALS JUDICATORS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003448573/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "8,759円",
         "newprice": "8,750円",
         "diff": 9
@@ -1088,14 +1080,6 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -1128,19 +1112,11 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
+        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
         "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2202,6 +2178,22 @@
     {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -5117,14 +5109,6 @@
         "backorder": "",
         "oldprice": "1,833円",
         "newprice": "1,830円",
-        "diff": 3
-    },
-    {
-        "name": "STORMCAST ETERNALS PROSECUTORS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003448575/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "10,590円",
         "diff": 3
     },
     {
