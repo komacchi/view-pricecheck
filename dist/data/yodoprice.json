@@ -784,6 +784,14 @@
         "diff": 208
     },
     {
+        "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159313/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
         "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
         "backorder": "",
@@ -810,14 +818,6 @@
     {
         "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159313/",
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
@@ -1080,14 +1080,6 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -1152,19 +1144,11 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
+        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
         "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade REIKLAND FLESHSHADE GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235333/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2226,6 +2210,22 @@
     {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235333/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
