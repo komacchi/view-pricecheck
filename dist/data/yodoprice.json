@@ -1,13 +1,5 @@
 [
     {
-        "name": "KILL TEAM: COMMANDERS (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004135276/",
-        "backorder": "",
-        "oldprice": "8,250円",
-        "newprice": "3,480円",
-        "diff": 4770
-    },
-    {
         "name": "CITADEL CRUSADE FIGURE CASE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194067/",
         "backorder": "",
@@ -266,14 +258,6 @@
     {
         "name": "LIB. WHITE DWARF. WHITE DWARF MARCH 2018 （ホワイトドワーフ　2018年3月号） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003833263/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "500円",
-        "diff": 926
-    },
-    {
-        "name": "WHITE DWARF AUGUST 2019 JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004912669/",
         "backorder": "",
         "oldprice": "1,426円",
         "newprice": "500円",
@@ -1056,14 +1040,6 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （ENG） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099375/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -1112,8 +1088,8 @@
         "diff": 9
     },
     {
-        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
+        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （ENG） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099375/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
@@ -4173,6 +4149,14 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "DARKOATH WARQUEEN MARAKARR BLOOD-SKY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003814028/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
