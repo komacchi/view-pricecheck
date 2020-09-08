@@ -112,14 +112,6 @@
         "diff": 2206
     },
     {
-        "name": "SPIKE！ JOURNAL：ISSUE 4（ENGLISH）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194383/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "500円",
-        "diff": 1639
-    },
-    {
         "name": "AGE OF SIGMAR： BATTLE JOURNAL [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003733483/",
         "backorder": "",
@@ -760,16 +752,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -782,6 +774,14 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
+    },
+    {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
     },
     {
         "name": "BATTLETOME: CITIES OF SIGMAR HB ENG",
@@ -810,14 +810,6 @@
     {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
         "oldprice": "5,900円",
         "newprice": "5,800円",
@@ -1072,14 +1064,6 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
         "backorder": "",
@@ -1136,11 +1120,11 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
+        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
         "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2210,6 +2194,14 @@
     {
         "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -4184,14 +4176,6 @@
         "diff": 6
     },
     {
-        "name": "DARKOATH WARQUEEN MARAKARR BLOOD-SKY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003814028/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "INDEX:IMPERIUM 1 (JAPANESE) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003591853/",
         "backorder": "",
@@ -5757,14 +5741,6 @@
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "GETTING STARTED WITH WARHAMMER 40K （JPN） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622190/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
         "diff": 3
     },
     {
