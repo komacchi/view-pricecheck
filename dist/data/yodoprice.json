@@ -736,16 +736,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -1077,6 +1077,14 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -3674,6 +3682,14 @@
     {
         "name": "IDONETH DEEPKIN DEEPSURGE RAIDING PARTY",
         "itemUrl": "https://www.yodobashi.com/product/100000001004194381/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "SLAVES TO DARKNESS GODSWORN WARBAND",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004194378/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
