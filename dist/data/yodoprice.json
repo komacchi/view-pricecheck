@@ -152,14 +152,6 @@
         "diff": 1160
     },
     {
-        "name": "TAU EMPIRE PATHFINDER TEAM [キャラクタープラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003692204/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,170円",
-        "diff": 1126
-    },
-    {
         "name": "ASTRA MILITARUM VALKYRIE [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193921/",
         "backorder": "",
@@ -736,16 +728,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -885,14 +877,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CITADEL FILE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -1050,6 +1034,14 @@
     {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2312,22 +2304,6 @@
         "diff": 8
     },
     {
-        "name": "CITADEL DRILL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-        "backorder": "",
-        "oldprice": "2,648円",
-        "newprice": "2,640円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL MEDIUM LAYER BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
-        "backorder": "",
-        "oldprice": "1,018円",
-        "newprice": "1,010円",
-        "diff": 8
-    },
-    {
         "name": "STORMCAST ETERNALS LORD-CASTELLANT [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194047/",
         "backorder": "",
@@ -3349,14 +3325,6 @@
         "backorder": "",
         "oldprice": "2,546円",
         "newprice": "2,540円",
-        "diff": 6
-    },
-    {
-        "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
-        "backorder": "",
-        "oldprice": "7,436円",
-        "newprice": "7,430円",
         "diff": 6
     },
     {
@@ -4736,22 +4704,6 @@
         "diff": 4
     },
     {
-        "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
-        "backorder": "お取り寄せ",
-        "oldprice": "6,824円",
-        "newprice": "6,820円",
-        "diff": 4
-    },
-    {
-        "name": "CITADEL EXTRA LARGE BASE BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194075/",
-        "backorder": "",
-        "oldprice": "1,324円",
-        "newprice": "1,320円",
-        "diff": 4
-    },
-    {
         "name": "CITADEL LARGE SCENERY BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194777/",
         "backorder": "",
@@ -5178,14 +5130,6 @@
     {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL MEDIUM SCENERY BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194778/",
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "1,220円",
@@ -5680,6 +5624,14 @@
         "diff": 3
     },
     {
+        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "DATACARDS： CHAOS KNIGHTS ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637237/",
         "backorder": "",
@@ -5726,14 +5678,6 @@
         "oldprice": "11,713円",
         "newprice": "11,710円",
         "diff": 3
-    },
-    {
-        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
-        "backorder": "",
-        "oldprice": "8,352円",
-        "newprice": "8,350円",
-        "diff": 2
     },
     {
         "name": "CITADEL X-SMALL ARTIFICER LAYER BRUSH",
