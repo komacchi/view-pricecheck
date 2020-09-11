@@ -328,14 +328,6 @@
         "diff": 723
     },
     {
-        "name": "WH UNDERWORLDS： GARREK'S REAVERS SLEEVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003708592/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "500円",
-        "diff": 723
-    },
-    {
         "name": "WH UNDERWORLDS： THE CHOSEN AXES SLEEVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003820178/",
         "backorder": "",
@@ -464,6 +456,14 @@
         "diff": 517
     },
     {
+        "name": "TYRANID HORMAGAUNT BROOD [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193939/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,686円",
+        "newprice": "4,170円",
+        "diff": 516
+    },
+    {
         "name": "TYRANID TERMAGANT BROOD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193938/",
         "backorder": "",
@@ -491,14 +491,6 @@
         "name": "TYRANID GARGOYLE BROOD [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193936/",
         "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,170円",
-        "diff": 516
-    },
-    {
-        "name": "TYRANID HORMAGAUNT BROOD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193939/",
-        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,170円",
         "diff": 516
@@ -752,6 +744,14 @@
         "diff": 208
     },
     {
+        "name": "KING OF THE DEAD & HERALDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
         "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
@@ -781,14 +781,6 @@
         "backorder": "",
         "oldprice": "4,700円",
         "newprice": "4,600円",
-        "diff": 100
-    },
-    {
-        "name": "KING OF THE DEAD & HERALDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
         "diff": 100
     },
     {
@@ -1069,14 +1061,6 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2168,6 +2152,14 @@
         "diff": 9
     },
     {
+        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
         "backorder": "",
@@ -2298,6 +2290,14 @@
     {
         "name": "CITADEL MEDIUM BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194073/",
+        "backorder": "",
+        "oldprice": "1,018円",
+        "newprice": "1,010円",
+        "diff": 8
+    },
+    {
+        "name": "CITADEL MEDIUM LAYER BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
@@ -3106,14 +3106,6 @@
     {
         "name": "WARCRY： THE SPLINTERED FANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： CORVUS CABAL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903805/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -4912,14 +4904,6 @@
         "diff": 4
     },
     {
-        "name": "SKAVEN DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004252344/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "AGE OF SIGMAR： STORMCAST ETERNALS DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003934442/",
         "backorder": "",
@@ -5104,14 +5088,6 @@
         "diff": 3
     },
     {
-        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5130,6 +5106,14 @@
     {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM SCENERY BRUSH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194778/",
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "1,220円",
@@ -5621,14 +5605,6 @@
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "10,590円",
-        "diff": 3
-    },
-    {
-        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
         "diff": 3
     },
     {
