@@ -152,6 +152,14 @@
         "diff": 1160
     },
     {
+        "name": "TAU EMPIRE PATHFINDER TEAM [キャラクタープラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003692204/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "4,170円",
+        "diff": 1126
+    },
+    {
         "name": "ASTRA MILITARUM VALKYRIE [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193921/",
         "backorder": "",
@@ -1061,6 +1069,14 @@
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2152,14 +2168,6 @@
         "diff": 9
     },
     {
-        "name": "STORMCAST ETERNALS VANGUARD-HUNTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003448577/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
         "backorder": "",
@@ -2290,14 +2298,6 @@
     {
         "name": "CITADEL MEDIUM BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194073/",
-        "backorder": "",
-        "oldprice": "1,018円",
-        "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL MEDIUM LAYER BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
@@ -2813,14 +2813,6 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE KHINERAI",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003838128/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
         "diff": 7
     },
     {
@@ -5088,6 +5080,14 @@
         "diff": 3
     },
     {
+        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5653,6 +5653,14 @@
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "11,710円",
+        "diff": 3
+    },
+    {
+        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
         "diff": 3
     },
     {
