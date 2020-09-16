@@ -104,6 +104,14 @@
         "diff": 2206
     },
     {
+        "name": "BLOOD BOWL： ELVEN UNION CARDS (ENG)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003760517/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "1,880円",
+        "diff": 1685
+    },
+    {
         "name": "AGE OF SIGMAR： BATTLE JOURNAL [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003733483/",
         "backorder": "",
@@ -528,14 +536,6 @@
         "diff": 514
     },
     {
-        "name": "CITADEL BARBED BRACKEN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003649610/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "3,560円",
-        "diff": 514
-    },
-    {
         "name": "GLOOMSPITE GITZ LOONBOSS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217803/",
         "backorder": "",
@@ -752,6 +752,14 @@
         "diff": 208
     },
     {
+        "name": "KING OF THE DEAD & HERALDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
         "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
         "backorder": "",
@@ -781,14 +789,6 @@
         "backorder": "",
         "oldprice": "4,700円",
         "newprice": "4,600円",
-        "diff": 100
-    },
-    {
-        "name": "KING OF THE DEAD & HERALDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
         "diff": 100
     },
     {
@@ -2968,19 +2968,19 @@
         "diff": 7
     },
     {
-        "name": "THE HOBBIT： GREAT EAGLES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
         "backorder": "",
         "oldprice": "7,537円",
         "newprice": "7,530円",
+        "diff": 7
+    },
+    {
+        "name": "THE HOBBIT： GREAT EAGLES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
         "diff": 7
     },
     {
@@ -4186,7 +4186,7 @@
     {
         "name": "START COLLECTING! DEATHWATCH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
@@ -4282,7 +4282,7 @@
     {
         "name": "START COLLECTING！ STORMCAST VANGUARD [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003824725/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
