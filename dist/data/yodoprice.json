@@ -1032,6 +1032,14 @@
         "diff": 9
     },
     {
+        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
@@ -2208,14 +2216,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
         "backorder": "",
@@ -2301,14 +2301,6 @@
         "backorder": "",
         "oldprice": "1,018円",
         "newprice": "1,010円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL DRILL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-        "backorder": "",
-        "oldprice": "2,648円",
-        "newprice": "2,640円",
         "diff": 8
     },
     {
@@ -2960,19 +2952,19 @@
         "diff": 7
     },
     {
-        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
-        "backorder": "",
-        "oldprice": "7,537円",
-        "newprice": "7,530円",
-        "diff": 7
-    },
-    {
         "name": "THE HOBBIT： GREAT EAGLES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
+        "backorder": "",
+        "oldprice": "7,537円",
+        "newprice": "7,530円",
         "diff": 7
     },
     {
@@ -4040,6 +4032,22 @@
         "diff": 6
     },
     {
+        "name": "START COLLECTING! MALIGNANTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004233605/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "START COLLECTING! SKAVEN PESTILENS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004233604/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
         "name": "START COLLECTING! DAEMONS OF TZEENTCH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233603/",
         "backorder": "",
@@ -5101,6 +5109,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
