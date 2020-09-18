@@ -1040,6 +1040,14 @@
         "diff": 9
     },
     {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
@@ -2304,6 +2312,14 @@
         "diff": 8
     },
     {
+        "name": "CITADEL DRILL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
+        "backorder": "",
+        "oldprice": "2,648円",
+        "newprice": "2,640円",
+        "diff": 8
+    },
+    {
         "name": "CITADEL MEDIUM LAYER BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
         "backorder": "",
@@ -2952,19 +2968,19 @@
         "diff": 7
     },
     {
-        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
-        "backorder": "",
-        "oldprice": "7,537円",
-        "newprice": "7,530円",
-        "diff": 7
-    },
-    {
         "name": "THE HOBBIT： GREAT EAGLES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "IRONJAWZ ORRUK ARDBOYZ [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194028/",
+        "backorder": "",
+        "oldprice": "7,537円",
+        "newprice": "7,530円",
         "diff": 7
     },
     {
@@ -5445,6 +5461,14 @@
         "backorder": "",
         "oldprice": "21,083円",
         "newprice": "21,080円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL HOBBY PROJECT BOX",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004177957/",
+        "backorder": "",
+        "oldprice": "11,713円",
+        "newprice": "11,710円",
         "diff": 3
     },
     {
