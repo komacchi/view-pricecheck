@@ -1032,14 +1032,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
@@ -2968,6 +2960,14 @@
         "diff": 7
     },
     {
+        "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "THE HOBBIT： GREAT EAGLES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
         "backorder": "",
@@ -3170,14 +3170,6 @@
     {
         "name": "SPACE MARINES PRIMARIS ELIMINATORS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005135041/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -3533,6 +3525,14 @@
         "backorder": "",
         "oldprice": "10,186円",
         "newprice": "10,180円",
+        "diff": 6
+    },
+    {
+        "name": "SPACE MARINES PRIMARIS CHAPLAIN [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003640635/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
         "diff": 6
     },
     {
@@ -4117,14 +4117,6 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "SPACE MARINES PRIMARIS CHAPLAIN [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003640635/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,290円",
         "diff": 6
     },
     {
@@ -5686,14 +5678,6 @@
         "oldprice": "2,343円",
         "newprice": "2,340円",
         "diff": 3
-    },
-    {
-        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
-        "backorder": "",
-        "oldprice": "8,352円",
-        "newprice": "8,350円",
-        "diff": 2
     },
     {
         "name": "CITADEL X-SMALL ARTIFICER LAYER BRUSH",
