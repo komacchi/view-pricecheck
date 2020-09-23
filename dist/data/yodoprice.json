@@ -160,14 +160,6 @@
         "diff": 1390
     },
     {
-        "name": "SPIKE！ JOURNAL： ISSUE 2 EN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003942797/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "500円",
-        "diff": 1333
-    },
-    {
         "name": "TAU EMPIRE XV88 BROADSIDE BATTLESUIT [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769136/",
         "backorder": "",
@@ -837,14 +829,6 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "CITADEL FILE SET",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194095/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
         "diff": 9
     },
     {
@@ -2272,22 +2256,6 @@
         "diff": 8
     },
     {
-        "name": "CITADEL DRILL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-        "backorder": "",
-        "oldprice": "2,648円",
-        "newprice": "2,640円",
-        "diff": 8
-    },
-    {
-        "name": "CITADEL MEDIUM LAYER BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
-        "backorder": "",
-        "oldprice": "1,018円",
-        "newprice": "1,010円",
-        "diff": 8
-    },
-    {
         "name": "STORMCAST ETERNALS LORD-CASTELLANT [WARHAMMER AGE OF SIGMAR]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194047/",
         "backorder": "",
@@ -3301,14 +3269,6 @@
         "backorder": "",
         "oldprice": "2,546円",
         "newprice": "2,540円",
-        "diff": 6
-    },
-    {
-        "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
-        "backorder": "",
-        "oldprice": "7,436円",
-        "newprice": "7,430円",
         "diff": 6
     },
     {
@@ -4680,22 +4640,6 @@
         "diff": 4
     },
     {
-        "name": "DEATHWING COMMAND SQUAD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193823/",
-        "backorder": "お取り寄せ",
-        "oldprice": "6,824円",
-        "newprice": "6,820円",
-        "diff": 4
-    },
-    {
-        "name": "CITADEL EXTRA LARGE BASE BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194075/",
-        "backorder": "",
-        "oldprice": "1,324円",
-        "newprice": "1,320円",
-        "diff": 4
-    },
-    {
         "name": "CITADEL LARGE SCENERY BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194777/",
         "backorder": "",
@@ -5120,14 +5064,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM SCENERY BRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194778/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
         "name": "RETRIBUTOR ARMOUR SPRAY",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194774/",
         "backorder": "",
@@ -5162,6 +5098,14 @@
     {
         "name": "EASY TO BUILD DEATH GUARD PLAGUE MARINES [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622193/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "EASY TO BUILD S/MARINES PRIMARIS REIVERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622192/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -5408,19 +5352,19 @@
         "diff": 3
     },
     {
-        "name": "WHU： STORMSIRE’S CURSEBREAKERS SLEEVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004089180/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
         "name": "AOS KHORNE BLOODBOUND GOREBLADE WARBAND",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949452/",
         "backorder": "",
         "oldprice": "11,713円",
         "newprice": "11,710円",
+        "diff": 3
+    },
+    {
+        "name": "WHU： STORMSIRE’S CURSEBREAKERS SLEEVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004089180/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
@@ -5662,14 +5606,6 @@
         "oldprice": "5,093円",
         "newprice": "5,090円",
         "diff": 3
-    },
-    {
-        "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193935/",
-        "backorder": "",
-        "oldprice": "8,352円",
-        "newprice": "8,350円",
-        "diff": 2
     },
     {
         "name": "CITADEL X-SMALL ARTIFICER LAYER BRUSH",
