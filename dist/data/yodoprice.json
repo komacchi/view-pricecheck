@@ -2264,14 +2264,6 @@
         "diff": 8
     },
     {
-        "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CITADEL MEDIUM SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194076/",
         "backorder": "",
@@ -2290,6 +2282,14 @@
     {
         "name": "40K LIB CODEX： NECRONS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -4410,14 +4410,6 @@
     {
         "name": "START COLLECTING！ THOUSAND SONS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691610/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
