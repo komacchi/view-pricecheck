@@ -3624,14 +3624,6 @@
         "diff": 6
     },
     {
-        "name": "SLAVES TO DARKNESS GODSWORN WARBAND",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194378/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
         "name": "NECRONS DOMINION SPEARHEAD",
         "itemUrl": "https://www.yodobashi.com/product/100000001004194376/",
         "backorder": "",
@@ -4568,6 +4560,14 @@
         "diff": 5
     },
     {
+        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
         "name": "START COLLECTING! BLOOD ANGELS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233607/",
         "backorder": "",
@@ -4800,19 +4800,19 @@
         "diff": 4
     },
     {
-        "name": "NECROMUNDA： UNDERHIVE (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003745730/",
-        "backorder": "",
-        "oldprice": "17,824円",
-        "newprice": "17,820円",
-        "diff": 4
-    },
-    {
         "name": "WH U/WORLDS: STEELHEARTS CHAMPIONS （ENG） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099389/",
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
+        "diff": 4
+    },
+    {
+        "name": "NECROMUNDA： UNDERHIVE (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003745730/",
+        "backorder": "",
+        "oldprice": "17,824円",
+        "newprice": "17,820円",
         "diff": 4
     },
     {
