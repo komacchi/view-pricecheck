@@ -376,14 +376,6 @@
         "diff": 617
     },
     {
-        "name": "AGE OF SIGMAR： 60/90MM OVAL BASES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003235322/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,680円",
-        "diff": 616
-    },
-    {
         "name": "THE REIKLAND REAVERS BLOOD BOWL TEAM [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003463467/",
         "backorder": "",
@@ -395,6 +387,14 @@
         "name": "SECTOR IMPERIALIS 32MM ROUND BASES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193813/",
         "backorder": "お取り寄せ",
+        "oldprice": "5,296円",
+        "newprice": "4,680円",
+        "diff": 616
+    },
+    {
+        "name": "AGE OF SIGMAR： 60/90MM OVAL BASES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235322/",
+        "backorder": "",
         "oldprice": "5,296円",
         "newprice": "4,680円",
         "diff": 616
@@ -432,16 +432,16 @@
         "diff": 516
     },
     {
-        "name": "RIDERS OF ROHAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036396/",
+        "name": "LOTR： KNIGHTS OF MINAS TIRITH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036391/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,170円",
         "diff": 516
     },
     {
-        "name": "LOTR： KNIGHTS OF MINAS TIRITH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036391/",
+        "name": "RIDERS OF ROHAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036396/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,170円",
@@ -1000,22 +1000,6 @@
         "diff": 9
     },
     {
-        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
         "backorder": "",
@@ -1096,6 +1080,22 @@
         "diff": 9
     },
     {
+        "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "GENESTEALER CULTS ATALAN JACKALS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004242687/",
         "backorder": "",
@@ -1144,8 +1144,24 @@
         "diff": 9
     },
     {
+        "name": "AIR： WHITE SCAR （24ML） [シタデル エアー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469002/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "CONTRAST： IYANDEN YELLOW （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469035/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "CONTRAST： VOLUPUS PINK （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469039/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -1194,6 +1210,14 @@
     {
         "name": "CONTRAST： GRYPH-CHARGER GREY （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469060/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "CONTRAST： TERRADON TURQUOISE （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469068/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -1282,14 +1306,6 @@
     {
         "name": "TECHNICAL： LAHMIAN MEDIUM （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468941/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： TERRADON TURQUOISE （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469068/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -1426,14 +1442,6 @@
     {
         "name": "CONTRAST： SHYISH PURPLE （18ML） [シタデル コントラスト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469040/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "CONTRAST： VOLUPUS PINK （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469039/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -1714,14 +1722,6 @@
     {
         "name": "AIR： IRONBREAKER （24ML） [シタデル エアー]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469003/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "AIR： WHITE SCAR （24ML） [シタデル エアー]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469002/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2632,19 +2632,19 @@
         "diff": 8
     },
     {
-        "name": "ASTRA MILITARUM BANEBLADE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620117/",
-        "backorder": "",
-        "oldprice": "14,158円",
-        "newprice": "14,150円",
-        "diff": 8
-    },
-    {
         "name": "WH40K APOCALYPSE MOVEMENT TRAYS  32MM",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620106/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "ASTRA MILITARUM BANEBLADE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620117/",
+        "backorder": "",
+        "oldprice": "14,158円",
+        "newprice": "14,150円",
         "diff": 8
     },
     {
@@ -4152,14 +4152,6 @@
         "diff": 5
     },
     {
-        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "CORAX WHITE SPRAY (JAPAN/CHINA) [プラモデル用 塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003356681/",
         "backorder": "",
@@ -4608,14 +4600,6 @@
         "diff": 5
     },
     {
-        "name": "HARLEQUIN STARWEAVER [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769127/",
-        "backorder": "",
-        "oldprice": "5,704円",
-        "newprice": "5,700円",
-        "diff": 4
-    },
-    {
         "name": "NECROMUNDA： GANG WAR 1 (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003745738/",
         "backorder": "",
@@ -4693,6 +4677,14 @@
         "backorder": "",
         "oldprice": "6,824円",
         "newprice": "6,820円",
+        "diff": 4
+    },
+    {
+        "name": "HARLEQUIN STARWEAVER [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769127/",
+        "backorder": "",
+        "oldprice": "5,704円",
+        "newprice": "5,700円",
         "diff": 4
     },
     {
@@ -4800,19 +4792,19 @@
         "diff": 4
     },
     {
-        "name": "WH U/WORLDS: STEELHEARTS CHAMPIONS （ENG） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099389/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
-        "diff": 4
-    },
-    {
         "name": "NECROMUNDA： UNDERHIVE (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003745730/",
         "backorder": "",
         "oldprice": "17,824円",
         "newprice": "17,820円",
+        "diff": 4
+    },
+    {
+        "name": "WH U/WORLDS: STEELHEARTS CHAMPIONS （ENG） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099389/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -5408,14 +5400,6 @@
         "diff": 3
     },
     {
-        "name": "WARHAMMER 40000: WAKE THE DEAD （ENGLISH） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099369/",
-        "backorder": "",
-        "oldprice": "21,083円",
-        "newprice": "21,080円",
-        "diff": 3
-    },
-    {
         "name": "AOS KHORNE BLOODBOUND GOREBLADE WARBAND",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949452/",
         "backorder": "",
@@ -5429,6 +5413,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "WARHAMMER 40000: WAKE THE DEAD （ENGLISH） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099369/",
+        "backorder": "",
+        "oldprice": "21,083円",
+        "newprice": "21,080円",
         "diff": 3
     },
     {
