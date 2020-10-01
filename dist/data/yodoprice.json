@@ -2392,16 +2392,16 @@
         "diff": 8
     },
     {
-        "name": "40K LIB CODEX： NECRONS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
+        "name": "CODEX： DEATH GUARD (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003680739/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
     },
     {
-        "name": "CODEX： DEATH GUARD (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003680739/",
+        "name": "40K LIB CODEX： NECRONS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -2896,19 +2896,19 @@
         "diff": 7
     },
     {
-        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
-        "backorder": "",
-        "oldprice": "4,787円",
-        "newprice": "4,780円",
-        "diff": 7
-    },
-    {
         "name": "SPACE MARINES PRIMARIS INCEPTORS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003649605/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
+        "backorder": "",
+        "oldprice": "4,787円",
+        "newprice": "4,780円",
         "diff": 7
     },
     {
@@ -3042,6 +3042,14 @@
     {
         "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "GLOOMSPITE GITZ GOBBAPALOOZA",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004217802/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -3738,14 +3746,6 @@
     {
         "name": "IDONETH DEEPKIN DEEPSURGE RAIDING PARTY",
         "itemUrl": "https://www.yodobashi.com/product/100000001004194381/",
-        "backorder": "",
-        "oldprice": "23,426円",
-        "newprice": "23,420円",
-        "diff": 6
-    },
-    {
-        "name": "NECRONS DOMINION SPEARHEAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004194376/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
