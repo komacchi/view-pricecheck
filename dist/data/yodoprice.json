@@ -160,6 +160,14 @@
         "diff": 1160
     },
     {
+        "name": "NECRON TRIARCH PRAETORIANS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769122/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "4,780円",
+        "diff": 1128
+    },
+    {
         "name": "TAU EMPIRE PATHFINDER TEAM [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692204/",
         "backorder": "",
@@ -362,6 +370,14 @@
     {
         "name": "BLOOD BOWL： THE SKAVENBLIGHT SCRAMBLERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004155615/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "4,680円",
+        "diff": 616
+    },
+    {
+        "name": "DAEMONS OF TZEENTCH BLUE HORRORS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003435739/",
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "4,680円",
@@ -736,126 +752,6 @@
         "diff": 14
     },
     {
-        "name": "TECHNICAL： STIRLAND MUD （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468948/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： MARTIAN IRONEARTH （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468946/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： AGRELLAN BADLAND （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468945/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： AGRELLAN EARTH （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468944/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： MORDANT EARTH （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468943/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： VALHALLAN BLIZZARD （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468954/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： ASTROGRANITE DEBRIS （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468953/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： ASTROGRANITE （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468952/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： ARMAGEDDON DUNES （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468951/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： ARMAGEDDON DUST （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468950/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： STIRLAND BATTLEMIRE （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468949/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： STORMSHIELD （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468956/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： CONTRAST MEDIUM （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468955/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "TECHNICAL： LAHMIAN MEDIUM （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468941/",
         "backorder": "",
@@ -1048,11 +944,11 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "name": "40K KILL TEAM FANGS OF ULFRICH JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949561/",
         "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2104,11 +2000,123 @@
         "diff": 9
     },
     {
-        "name": "40K KILL TEAM FANGS OF ULFRICH JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003949561/",
+        "name": "TECHNICAL： STIRLAND MUD （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468948/",
         "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： MARTIAN IRONEARTH （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468946/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： AGRELLAN BADLAND （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468945/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： AGRELLAN EARTH （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468944/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： MORDANT EARTH （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468943/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： VALHALLAN BLIZZARD （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468954/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： ASTROGRANITE DEBRIS （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468953/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： ASTROGRANITE （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468952/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： ARMAGEDDON DUNES （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468951/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： ARMAGEDDON DUST （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468950/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： STIRLAND BATTLEMIRE （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468949/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： STORMSHIELD （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468956/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： CONTRAST MEDIUM （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468955/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2400,14 +2408,6 @@
         "diff": 8
     },
     {
-        "name": "40K LIB CODEX： NECRONS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CODEX： DEATH GUARD (HB) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003680739/",
         "backorder": "",
@@ -2434,6 +2434,22 @@
     {
         "name": "CODEX： DARK ANGELS (HB) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003765895/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "40K LIB CODEX： NECRONS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -2571,6 +2587,14 @@
         "name": "CODEX：ORKS （HB） （JAPANESE）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140918/",
         "backorder": "お取り寄せ",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "CODEX：ORKS （HB） （ENGLISH）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004140919/",
+        "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
@@ -2722,14 +2746,6 @@
     {
         "name": "KILL TEAM： ELITES ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004411432/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -3112,14 +3128,6 @@
         "diff": 7
     },
     {
-        "name": "CITADEL WRAITHBONE SPRAY 400ML （GLOBAL） [シタデル スプレー]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469069/",
-        "backorder": "",
-        "oldprice": "2,546円",
-        "newprice": "2,540円",
-        "diff": 6
-    },
-    {
         "name": "CITADEL GREY SEER SPRAY 400ML （GLOBAL） [シタデル スプレー]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469070/",
         "backorder": "",
@@ -3154,6 +3162,14 @@
     {
         "name": "T'AU EMPIRE VANGUARD DETACHMENT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620125/",
+        "backorder": "",
+        "oldprice": "23,426円",
+        "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "CRAFTWORLDS VANGUARD DETACHMENT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620115/",
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
@@ -3512,19 +3528,27 @@
         "diff": 6
     },
     {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
-        "diff": 6
-    },
-    {
         "name": "START COLLECTING! CRAFTWORLDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003720739/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "40K LIB CODEX： NECRONS ABR. HB JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003854762/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
         "diff": 6
     },
     {
@@ -4024,16 +4048,24 @@
         "diff": 6
     },
     {
-        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+        "name": "CITADEL WRAITHBONE SPRAY 400ML （GLOBAL） [シタデル スプレー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469069/",
         "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,290円",
+        "oldprice": "2,546円",
+        "newprice": "2,540円",
         "diff": 6
     },
     {
         "name": "START COLLECTING！ ORKS [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692179/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "START COLLECTING！ SPACE MARINES [キャラクタープラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003692180/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
@@ -4320,22 +4352,6 @@
         "diff": 5
     },
     {
-        "name": "CITADEL PAINTING MAT [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003733490/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
-        "name": "NIGHTVAULT FORBIDDEN CHAMBERS BOARD PACK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004267501/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "WARSCROLLS： DISCIPLES OF TZEENTCH ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003669633/",
         "backorder": "",
@@ -4349,6 +4365,22 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "CITADEL PAINTING MAT [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003733490/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
+        "name": "NIGHTVAULT FORBIDDEN CHAMBERS BOARD PACK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004267501/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -4570,6 +4602,14 @@
     {
         "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "START COLLECTING！ KHARADRON OVERLORDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003824724/",
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
@@ -5080,6 +5120,22 @@
         "diff": 3
     },
     {
+        "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
         "backorder": "",
@@ -5176,22 +5232,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "DATACARDS： ADEPTUS MECHANICUS (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003688010/",
         "backorder": "",
@@ -5245,6 +5285,30 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
+        "backorder": "",
+        "oldprice": "21,083円",
+        "newprice": "21,080円",
+        "diff": 3
+    },
+    {
+        "name": "ADEPTUS TITANICUS： DOOM OF MOLECH ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004390002/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
         "diff": 3
     },
     {
@@ -5605,22 +5669,6 @@
         "backorder": "",
         "oldprice": "6,213円",
         "newprice": "6,210円",
-        "diff": 3
-    },
-    {
-        "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
-        "backorder": "",
-        "oldprice": "21,083円",
-        "newprice": "21,080円",
-        "diff": 3
-    },
-    {
-        "name": "ADEPTUS TITANICUS： DOOM OF MOLECH ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390002/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
         "diff": 3
     },
     {
