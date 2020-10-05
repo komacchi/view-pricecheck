@@ -706,7 +706,7 @@
     {
         "name": "BATTLETOME: CITIES OF SIGMAR SB JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159312/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,700円",
         "newprice": "4,600円",
         "diff": 100
@@ -750,6 +750,14 @@
         "oldprice": "764円",
         "newprice": "750円",
         "diff": 14
+    },
+    {
+        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
     },
     {
         "name": "TECHNICAL： LAHMIAN MEDIUM （24ML） [シタデル テクニカル]",
@@ -2112,14 +2120,6 @@
         "diff": 9
     },
     {
-        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "ASTRA MILITARUM BANEBLADE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004620117/",
         "backorder": "",
@@ -2432,14 +2432,6 @@
         "diff": 8
     },
     {
-        "name": "CODEX： DARK ANGELS (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003765895/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "40K LIB CODEX： NECRONS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
         "backorder": "",
@@ -2450,6 +2442,14 @@
     {
         "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "CODEX： DARK ANGELS (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003765895/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
