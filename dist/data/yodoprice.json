@@ -280,14 +280,6 @@
         "diff": 723
     },
     {
-        "name": "WHU: ZARBAG'S GITZ DICE SET [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099387/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "743円",
-        "diff": 683
-    },
-    {
         "name": "WH UNDERWORLDS: SKAETH'S WILD HUNT DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150934/",
         "backorder": "",
@@ -386,7 +378,7 @@
     {
         "name": "LOTR： KNIGHTS OF MINAS TIRITH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036391/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,170円",
         "diff": 516
@@ -736,22 +728,6 @@
         "diff": 14
     },
     {
-        "name": "B/STONE FORTRESS： TRAITOR COMMAND ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637242/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "B/STONE FORTRESS： TRAITOR COMMAND JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637241/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "SPIKE！ JOURNAL： ISSUE 6  ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691613/",
         "backorder": "",
@@ -1018,14 +994,6 @@
     {
         "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "KILL TEAM: THE EXALTED SCYTHE （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099371/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
@@ -2104,44 +2072,28 @@
         "diff": 9
     },
     {
-        "name": "SPACE MARINES ROBOUTE GUILLIMAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
+        "name": "B/STONE FORTRESS： TRAITOR COMMAND ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637242/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
         "diff": 9
     },
     {
-        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
+        "name": "B/STONE FORTRESS： TRAITOR COMMAND JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637241/",
         "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
     },
     {
-        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  40MM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620107/",
+        "name": "SPACE MARINES ROBOUTE GUILLIMAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
         "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  32MM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620106/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "CHAOS KNIGHTS： KNIGHT DESECRATOR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637240/",
-        "backorder": "",
-        "oldprice": "16,398円",
-        "newprice": "16,390円",
-        "diff": 8
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
     },
     {
         "name": "CODEX： CHAOS KNIGHTS HB ENGLISH",
@@ -2736,6 +2688,38 @@
         "diff": 8
     },
     {
+        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  25MM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620105/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  40MM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620107/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "WH40K APOCALYPSE MOVEMENT TRAYS  32MM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620106/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "CHAOS KNIGHTS： KNIGHT DESECRATOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637240/",
+        "backorder": "",
+        "oldprice": "16,398円",
+        "newprice": "16,390円",
+        "diff": 8
+    },
+    {
         "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
         "backorder": "",
@@ -2872,6 +2856,14 @@
         "diff": 7
     },
     {
+        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
+        "backorder": "",
+        "oldprice": "4,787円",
+        "newprice": "4,780円",
+        "diff": 7
+    },
+    {
         "name": "CITADEL LARGE SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
         "backorder": "",
@@ -2909,14 +2901,6 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
-        "backorder": "",
-        "oldprice": "4,787円",
-        "newprice": "4,780円",
         "diff": 7
     },
     {
@@ -3368,14 +3352,6 @@
         "diff": 6
     },
     {
-        "name": "40K LIB CODEX： NECRONS ABR. HB JP",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003854762/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
         "backorder": "",
@@ -3536,19 +3512,19 @@
         "diff": 6
     },
     {
-        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,290円",
-        "diff": 6
-    },
-    {
         "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
         "diff": 6
     },
     {
@@ -3794,14 +3770,6 @@
     {
         "name": "START COLLECTING！ IDONETH DEEPKIN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233602/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "WARHAMMER 40000：KILL TEAM ARENA (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004236061/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
@@ -4704,19 +4672,19 @@
         "diff": 4
     },
     {
-        "name": "NECROMUNDA： UNDERHIVE (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003745730/",
-        "backorder": "",
-        "oldprice": "17,824円",
-        "newprice": "17,820円",
-        "diff": 4
-    },
-    {
         "name": "BLOOD BOWL： ELF PITCH ＆ DUGOUTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003760515/",
         "backorder": "",
         "oldprice": "5,704円",
         "newprice": "5,700円",
+        "diff": 4
+    },
+    {
+        "name": "NECROMUNDA： UNDERHIVE (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003745730/",
+        "backorder": "",
+        "oldprice": "17,824円",
+        "newprice": "17,820円",
         "diff": 4
     },
     {
@@ -4974,14 +4942,6 @@
         "oldprice": "6,824円",
         "newprice": "6,820円",
         "diff": 4
-    },
-    {
-        "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620129/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "10,590円",
-        "diff": 3
     },
     {
         "name": "DATACARDS： CHAOS KNIGHTS ENGLISH",
@@ -5693,6 +5653,14 @@
         "backorder": "",
         "oldprice": "6,213円",
         "newprice": "6,210円",
+        "diff": 3
+    },
+    {
+        "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620129/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "10,590円",
         "diff": 3
     },
     {
