@@ -1,5 +1,13 @@
 [
     {
+        "name": "WARHAMMER 40000：KILL TEAM ARENA (ENG)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004236061/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "5,980円",
+        "diff": 6956
+    },
+    {
         "name": "MIDDLE-EARTH SBG RULES MANUAL ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036377/",
         "backorder": "",
@@ -712,6 +720,14 @@
         "diff": 60
     },
     {
+        "name": "WHU: GRASHRAK'S DESPOILERS DICE PACK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005150936/",
+        "backorder": "",
+        "oldprice": "1,800円",
+        "newprice": "1,740円",
+        "diff": 60
+    },
+    {
         "name": "WARSCROLL CARDS: ORRUK WARCLANS ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159318/",
         "backorder": "",
@@ -726,22 +742,6 @@
         "oldprice": "764円",
         "newprice": "750円",
         "diff": 14
-    },
-    {
-        "name": "B/STONE FORTRESS： TRAITOR COMMAND ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637242/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
-        "name": "B/STONE FORTRESS： TRAITOR COMMAND JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637241/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
     },
     {
         "name": "SPIKE！ JOURNAL： ISSUE 6  ENGLISH",
@@ -1880,8 +1880,8 @@
         "diff": 9
     },
     {
-        "name": "CONTRAST： GRYPH-CHARGER GREY （18ML） [シタデル コントラスト]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469060/",
+        "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2088,6 +2088,14 @@
         "diff": 9
     },
     {
+        "name": "B/STONE FORTRESS： TRAITOR COMMAND JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637241/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "SPACE MARINES ROBOUTE GUILLIMAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
         "backorder": "",
@@ -2210,14 +2218,6 @@
     {
         "name": "IRON HANDS FEIRROS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005135040/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -3048,14 +3048,6 @@
         "diff": 7
     },
     {
-        "name": "GLOOMSPITE GITZ GOBBAPALOOZA",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217802/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "MIDDLE-EARTH SBG： GONDOR AT WAR (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004224658/",
         "backorder": "",
@@ -3408,6 +3400,14 @@
         "diff": 6
     },
     {
+        "name": "MECHANICUS STANDARD GREY SPRAY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194768/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "2,540円",
+        "diff": 6
+    },
+    {
         "name": "LEADBELCHER SPRAY",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194767/",
         "backorder": "",
@@ -3520,19 +3520,19 @@
         "diff": 6
     },
     {
-        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "5,290円",
-        "diff": 6
-    },
-    {
         "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
         "diff": 6
     },
     {
@@ -5176,22 +5176,6 @@
         "diff": 3
     },
     {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "EASY TO BUILD S/MARINES PRIMARIS REIVERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622192/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "SPACE MARINES PRIMARIS REPULSOR [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003640636/",
         "backorder": "",
@@ -5381,6 +5365,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "AGE OF SIGMAR： MALIGN SORCERY JP",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003922184/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "10,590円",
         "diff": 3
     },
     {
