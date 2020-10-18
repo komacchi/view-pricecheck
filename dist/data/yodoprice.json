@@ -736,6 +736,14 @@
         "diff": 14
     },
     {
+        "name": "TECHNICAL： CONTRAST MEDIUM （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468955/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
         "backorder": "",
@@ -2096,14 +2104,6 @@
         "diff": 9
     },
     {
-        "name": "TECHNICAL： CONTRAST MEDIUM （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468955/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "SPACE MARINES ROBOUTE GUILLIMAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
         "backorder": "",
@@ -2424,16 +2424,16 @@
         "diff": 8
     },
     {
-        "name": "CODEX： DARK ANGELS (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003765895/",
+        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
     },
     {
-        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
+        "name": "CODEX： DARK ANGELS (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003765895/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -3090,6 +3090,14 @@
     {
         "name": "SYLL'ESSKE： THE VENGEFUL ALLEGIANCE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396207/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "DAEMONS/SLAANESH： THE CONTORTED EPITOME",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004396205/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -3837,14 +3845,6 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
-        "diff": 6
-    },
-    {
-        "name": "ENDLESS SPELLS： FLESH-EATER COURTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004252355/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4773,6 +4773,14 @@
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
+        "diff": 4
+    },
+    {
+        "name": "BLOOD BOWL DARK ELF PITCH ＆ DUGOUTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003942802/",
+        "backorder": "",
+        "oldprice": "5,704円",
+        "newprice": "5,700円",
         "diff": 4
     },
     {
