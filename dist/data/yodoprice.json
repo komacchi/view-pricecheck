@@ -80,14 +80,6 @@
         "diff": 1843
     },
     {
-        "name": "DATACARDS： CHAOS SPACE MARINES (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003645356/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "500円",
-        "diff": 1843
-    },
-    {
         "name": "WARSCROLLS： HEDONITES OF SLAANESH ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004396214/",
         "backorder": "",
@@ -936,19 +928,19 @@
         "diff": 9
     },
     {
-        "name": "NURGLE ROTBRINGERS PUTRID BLIGHTKINGS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769151/",
-        "backorder": "",
-        "oldprice": "7,639円",
-        "newprice": "7,630円",
-        "diff": 9
-    },
-    {
         "name": "40K KILL TEAM FANGS OF ULFRICH JP",
         "itemUrl": "https://www.yodobashi.com/product/100000001003949561/",
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "NURGLE ROTBRINGERS PUTRID BLIGHTKINGS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769151/",
+        "backorder": "",
+        "oldprice": "7,639円",
+        "newprice": "7,630円",
         "diff": 9
     },
     {
@@ -2448,14 +2440,6 @@
         "diff": 8
     },
     {
-        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "CODEX： THOUSAND SONS (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003807305/",
         "backorder": "",
@@ -3118,6 +3102,14 @@
         "oldprice": "4,787円",
         "newprice": "4,780円",
         "diff": 7
+    },
+    {
+        "name": "CITADEL GREY SEER SPRAY 400ML （GLOBAL） [シタデル スプレー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469070/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "2,540円",
+        "diff": 6
     },
     {
         "name": "WHITE DWARF JUNE 2019 JAPANESE",
@@ -4010,14 +4002,6 @@
     {
         "name": "CITADEL WRAITHBONE SPRAY 400ML （GLOBAL） [シタデル スプレー]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004469069/",
-        "backorder": "",
-        "oldprice": "2,546円",
-        "newprice": "2,540円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL GREY SEER SPRAY 400ML （GLOBAL） [シタデル スプレー]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004469070/",
         "backorder": "",
         "oldprice": "2,546円",
         "newprice": "2,540円",
