@@ -40,14 +40,6 @@
         "diff": 4770
     },
     {
-        "name": "KILL TEAM： FRACTAL BLADES ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004411436/",
-        "backorder": "",
-        "oldprice": "9,370円",
-        "newprice": "4,880円",
-        "diff": 4490
-    },
-    {
         "name": "KILL TEAM: ADVANCE TEAM STARPULSE （ENG） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099375/",
         "backorder": "",
@@ -170,14 +162,6 @@
     {
         "name": "KILL TEAM COMMANDER: VYSA KHARAVYXIS (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004123079/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "2,480円",
-        "diff": 2206
-    },
-    {
-        "name": "KILL TEAM COMMANDER: MAGOS DALATHRUST (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123073/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "2,480円",
@@ -998,14 +982,6 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
-    },
-    {
-        "name": "Citadel Air AVERLAND SUNSET [アクリル系塗料 12ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194830/",
-        "backorder": "",
-        "oldprice": "601円",
-        "newprice": "500円",
-        "diff": 101
     },
     {
         "name": "Citadel Air DRYAD BARK [アクリル系塗料 12ml]",
@@ -3072,6 +3048,14 @@
         "diff": 8
     },
     {
+        "name": "AOS IDONETH DEEPKIN NAMARTI THRALLS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003869857/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "WARCRY： CYPHER LORDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
         "backorder": "",
@@ -3448,14 +3432,6 @@
         "diff": 7
     },
     {
-        "name": "AOS IDONETH DEEPKIN NAMARTI THRALLS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003869857/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "WARCRY： IDONETH DEEPKIN CARD PACK",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844112/",
         "backorder": "",
@@ -3800,19 +3776,19 @@
         "diff": 6
     },
     {
-        "name": "LORD-CELESTANT GAVRIEL SUREHEART",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003776668/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "START COLLECTING！ SPACE MARINES [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692180/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "LORD-CELESTANT GAVRIEL SUREHEART",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003776668/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4296,6 +4272,14 @@
         "diff": 6
     },
     {
+        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
+        "diff": 5
+    },
+    {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
         "backorder": "",
@@ -4728,14 +4712,6 @@
         "diff": 5
     },
     {
-        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
-    },
-    {
         "name": "CODEX： WHITE SCARS HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903821/",
         "backorder": "",
@@ -5013,14 +4989,6 @@
         "backorder": "",
         "oldprice": "4,074円",
         "newprice": "4,070円",
-        "diff": 4
-    },
-    {
-        "name": "AGE OF SIGMAR： STORMCAST ETERNALS DICE [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003934442/",
-        "backorder": "",
-        "oldprice": "2,954円",
-        "newprice": "2,950円",
         "diff": 4
     },
     {
