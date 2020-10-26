@@ -992,14 +992,6 @@
         "diff": 101
     },
     {
-        "name": "Citadel Air EVIL SUNZ SCARLET [アクリル系塗料 12ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194809/",
-        "backorder": "",
-        "oldprice": "601円",
-        "newprice": "500円",
-        "diff": 101
-    },
-    {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
         "backorder": "",
@@ -3752,19 +3744,19 @@
         "diff": 6
     },
     {
-        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "START COLLECTING！ SPACE MARINES [キャラクタープラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003692180/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4256,6 +4248,14 @@
         "diff": 6
     },
     {
+        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
         "backorder": "",
@@ -4688,14 +4688,6 @@
         "diff": 5
     },
     {
-        "name": "ADEPTUS TITANICUS LOYALIST LEGIONS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691623/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "CODEX： WHITE SCARS HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903821/",
         "backorder": "",
@@ -5022,6 +5014,14 @@
         "oldprice": "2,954円",
         "newprice": "2,950円",
         "diff": 4
+    },
+    {
+        "name": "BLOOD BOWL： WOOD ELVES PITCH & DUGOUTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691621/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "6,210円",
+        "diff": 3
     },
     {
         "name": "NECROMUNDA ENFORCER PATROL DICE SET",
@@ -5637,14 +5637,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "BLOOD BOWL： WOOD ELVES PITCH & DUGOUTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691621/",
-        "backorder": "",
-        "oldprice": "6,213円",
-        "newprice": "6,210円",
         "diff": 3
     },
     {
