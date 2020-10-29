@@ -1096,6 +1096,14 @@
         "diff": 9
     },
     {
+        "name": "SPACE MARINES ROBOUTE GUILLIMAN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "CITADEL FINE DETAIL CUTTERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194092/",
         "backorder": "",
@@ -1245,14 +1253,6 @@
         "backorder": "",
         "oldprice": "7,639円",
         "newprice": "7,630円",
-        "diff": 9
-    },
-    {
-        "name": "SPACE MARINES ROBOUTE GUILLIMAN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003799779/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -3160,14 +3160,6 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "TZEENTCH ARCANITES KAIRIC ACOLYTES [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003420261/",
         "backorder": "",
@@ -3666,7 +3658,7 @@
     {
         "name": "SPACE MARINES PRIMARIS LIBRARIAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003614949/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
         "diff": 6
@@ -4501,6 +4493,14 @@
         "backorder": "",
         "oldprice": "3,565円",
         "newprice": "3,560円",
+        "diff": 5
+    },
+    {
+        "name": "40K GENERIC SECTOR IMPERIALIS BASILICANUM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949549/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
         "diff": 5
     },
     {
