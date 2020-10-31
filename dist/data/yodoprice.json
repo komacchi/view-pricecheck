@@ -1,5 +1,13 @@
 [
     {
+        "name": "ADEPTUS TITANICUS GRAND MASTER ED. （JPN）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003997674/",
+        "backorder": "",
+        "oldprice": "41,046円",
+        "newprice": "21,180円",
+        "diff": 19866
+    },
+    {
         "name": "WARHAMMER 40000：KILL TEAM ARENA (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004236061/",
         "backorder": "",
@@ -48,12 +56,28 @@
         "diff": 3970
     },
     {
+        "name": "AOS IDONETH DEEPKIN NAMARTI THRALLS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003869857/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "3,280円",
+        "diff": 3747
+    },
+    {
         "name": "CODEX： CHAOS SPACE MARINES (HB) (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003645355/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "2,280円",
         "diff": 3628
+    },
+    {
+        "name": "WARHAMMER 40000： APOCALYPSE DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620104/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "3,080円",
+        "diff": 3337
     },
     {
         "name": "CITADEL BATTLE FIGURE CASE",
@@ -2464,6 +2488,14 @@
         "diff": 9
     },
     {
+        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "ULTRAMARINES CHIEF LIBRARIAN TIGURIUS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903815/",
         "backorder": "",
@@ -3037,14 +3069,6 @@
         "backorder": "",
         "oldprice": "3,768円",
         "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -5264,22 +5288,6 @@
         "diff": 3
     },
     {
-        "name": "DEATHRATTLE GRAVE GUARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL COMBAT CARDS： S/MARINES + CHAOS [カードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003770532/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5290,6 +5298,22 @@
     {
         "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "DEATHRATTLE GRAVE GUARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL COMBAT CARDS： S/MARINES + CHAOS [カードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003770532/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
