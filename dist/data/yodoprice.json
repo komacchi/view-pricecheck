@@ -1,13 +1,5 @@
 [
     {
-        "name": "ADEPTUS TITANICUS GRAND MASTER ED. （JPN）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003997674/",
-        "backorder": "",
-        "oldprice": "41,046円",
-        "newprice": "21,180円",
-        "diff": 19866
-    },
-    {
         "name": "WARHAMMER 40000：KILL TEAM ARENA (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004236061/",
         "backorder": "",
@@ -214,14 +206,6 @@
         "oldprice": "4,686円",
         "newprice": "2,580円",
         "diff": 2106
-    },
-    {
-        "name": "CODEX： WHITE SCARS HB ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903821/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "1,980円",
-        "diff": 2094
     },
     {
         "name": "WARSCROLL CARDS：IRONJAWZ (ENGLISH) [プラモデル用品]",
@@ -914,7 +898,7 @@
     {
         "name": "NECROMUNDA VAN SAAR GANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881008/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "6,213円",
         "newprice": "5,900円",
         "diff": 313
@@ -2536,6 +2520,22 @@
         "diff": 8
     },
     {
+        "name": "A/I： ORK AIR WAAAGH! FIGHTA BOMMERZ",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093503/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "A/IMPERIALIS： ORK AIR WAAAGH! DAKKAJETS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093502/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "A/I AIRCRFT & ACES： ORK AIR WAAAGH! CRDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093500/",
         "backorder": "",
@@ -4000,14 +4000,6 @@
         "diff": 6
     },
     {
-        "name": "START COLLECTING! SKELETON HORDE [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769158/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
         "name": "GENESTEALER CULTS JACKAL ALPHUS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004242688/",
         "backorder": "",
@@ -5096,14 +5088,6 @@
         "diff": 3
     },
     {
-        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
         "backorder": "",
@@ -5117,14 +5101,6 @@
         "backorder": "",
         "oldprice": "1,223円",
         "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "B/STONE FORTRESS： ADVANCED ARSENAL JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004637243/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
         "diff": 3
     },
     {
@@ -5288,22 +5264,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "DEATHRATTLE GRAVE GUARD",
         "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
         "backorder": "",
@@ -5314,6 +5274,22 @@
     {
         "name": "CITADEL COMBAT CARDS： S/MARINES + CHAOS [カードゲーム]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003770532/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
