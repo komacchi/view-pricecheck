@@ -192,6 +192,14 @@
         "diff": 2106
     },
     {
+        "name": "CODEX： WHITE SCARS HB ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903821/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "1,980円",
+        "diff": 2094
+    },
+    {
         "name": "WARSCROLL CARDS：IRONJAWZ (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003658694/",
         "backorder": "",
@@ -1106,6 +1114,14 @@
     {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2440,6 +2456,14 @@
         "diff": 9
     },
     {
+        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "ULTRAMARINES CHIEF LIBRARIAN TIGURIUS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903815/",
         "backorder": "",
@@ -3029,14 +3053,6 @@
         "backorder": "",
         "oldprice": "3,768円",
         "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -4232,6 +4248,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
         "backorder": "",
@@ -5008,6 +5032,14 @@
         "diff": 3
     },
     {
+        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
+        "backorder": "お取り寄せ",
+        "oldprice": "6,213円",
+        "newprice": "6,210円",
+        "diff": 3
+    },
+    {
         "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961712/",
         "backorder": "",
@@ -5224,6 +5256,22 @@
         "diff": 3
     },
     {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "DEATHRATTLE GRAVE GUARD",
         "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
         "backorder": "",
@@ -5242,22 +5290,6 @@
     {
         "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
