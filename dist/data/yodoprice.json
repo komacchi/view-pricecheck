@@ -880,14 +880,6 @@
         "diff": 408
     },
     {
-        "name": "CITADEL PALETTE PAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194764/",
-        "backorder": "",
-        "oldprice": "1,273円",
-        "newprice": "917円",
-        "diff": 356
-    },
-    {
         "name": "NECROMUNDA VAN SAAR GANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881008/",
         "backorder": "お取り寄せ",
@@ -3056,6 +3048,14 @@
         "diff": 8
     },
     {
+        "name": "WARCRY： CYPHER LORDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "WARCRY： THE SPLINTERED FANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
         "backorder": "",
@@ -3400,20 +3400,20 @@
         "diff": 7
     },
     {
-        "name": "WARCRY： CYPHER LORDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
         "backorder": "",
         "oldprice": "15,277円",
         "newprice": "15,270円",
         "diff": 7
+    },
+    {
+        "name": "WARCRY： IDONETH DEEPKIN CARD PACK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844112/",
+        "backorder": "",
+        "oldprice": "1,196円",
+        "newprice": "1,190円",
+        "diff": 6
     },
     {
         "name": "WARCRY CARRY CASE",
@@ -3744,22 +3744,6 @@
         "diff": 6
     },
     {
-        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "LORD-CELESTANT GAVRIEL SUREHEART",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003776668/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "SPACE MARINES： ULTRAMARINES DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
         "backorder": "",
@@ -3773,6 +3757,22 @@
         "backorder": "",
         "oldprice": "1,936円",
         "newprice": "1,930円",
+        "diff": 6
+    },
+    {
+        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "LORD-CELESTANT GAVRIEL SUREHEART",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003776668/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4240,14 +4240,6 @@
         "diff": 6
     },
     {
-        "name": "WARCRY： IDONETH DEEPKIN CARD PACK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844112/",
-        "backorder": "",
-        "oldprice": "1,196円",
-        "newprice": "1,190円",
-        "diff": 6
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
@@ -4450,7 +4442,7 @@
     {
         "name": "START COLLECTING! DEATHWATCH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769121/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
@@ -5064,14 +5056,6 @@
         "diff": 3
     },
     {
-        "name": "DEATHWATCH UPGRADES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003470237/",
-        "backorder": "お取り寄せ",
-        "oldprice": "1,833円",
-        "newprice": "1,830円",
-        "diff": 3
-    },
-    {
         "name": "EASY TO BUILD DEATH GUARD POXWALKERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622194/",
         "backorder": "",
@@ -5656,6 +5640,14 @@
         "diff": 3
     },
     {
+        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
+        "backorder": "",
+        "oldprice": "2,852円",
+        "newprice": "2,850円",
+        "diff": 2
+    },
+    {
         "name": "BLOOD BOWL OGRE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003463468/",
         "backorder": "",
@@ -5698,14 +5690,6 @@
     {
         "name": "WARCRY： BATTLEPLAN CARDS ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844097/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
-    },
-    {
-        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
         "backorder": "",
         "oldprice": "2,852円",
         "newprice": "2,850円",
