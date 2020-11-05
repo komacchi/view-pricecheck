@@ -3752,6 +3752,14 @@
         "diff": 6
     },
     {
+        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "SPACE MARINES： ULTRAMARINES DICE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
         "backorder": "",
@@ -3765,14 +3773,6 @@
         "backorder": "",
         "oldprice": "1,936円",
         "newprice": "1,930円",
-        "diff": 6
-    },
-    {
-        "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -5640,14 +5640,6 @@
         "diff": 3
     },
     {
-        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
-    },
-    {
         "name": "BLOOD BOWL OGRE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003463468/",
         "backorder": "",
@@ -5690,6 +5682,14 @@
     {
         "name": "WARCRY： BATTLEPLAN CARDS ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844097/",
+        "backorder": "",
+        "oldprice": "2,852円",
+        "newprice": "2,850円",
+        "diff": 2
+    },
+    {
+        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
         "backorder": "",
         "oldprice": "2,852円",
         "newprice": "2,850円",
