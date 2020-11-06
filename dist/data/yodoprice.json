@@ -880,14 +880,6 @@
         "diff": 408
     },
     {
-        "name": "CITADEL PALETTE PAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194764/",
-        "backorder": "",
-        "oldprice": "1,273円",
-        "newprice": "917円",
-        "diff": 356
-    },
-    {
         "name": "NECROMUNDA VAN SAAR GANG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881008/",
         "backorder": "お取り寄せ",
@@ -4256,6 +4248,14 @@
         "diff": 6
     },
     {
+        "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
         "backorder": "",
@@ -4688,14 +4688,6 @@
         "diff": 5
     },
     {
-        "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
         "name": "CODEX： WHITE SCARS HB JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903820/",
         "backorder": "",
@@ -4965,14 +4957,6 @@
         "backorder": "",
         "oldprice": "2,954円",
         "newprice": "2,950円",
-        "diff": 4
-    },
-    {
-        "name": "WHU： THUNDRIK’S PROFITEERS ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004390011/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
         "diff": 4
     },
     {
