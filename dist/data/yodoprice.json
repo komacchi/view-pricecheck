@@ -368,6 +368,14 @@
         "diff": 1296
     },
     {
+        "name": "WH UNDERWORLDS: GARREK'S REAVERS （JPN） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099380/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "2,800円",
+        "diff": 1274
+    },
+    {
         "name": "CALIBAN GREEN SPRAY",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
         "backorder": "",
@@ -478,6 +486,14 @@
         "oldprice": "2,343円",
         "newprice": "1,280円",
         "diff": 1063
+    },
+    {
+        "name": "SPACE MARINE BIKE SQUAD [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769091/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "4,270円",
+        "diff": 1026
     },
     {
         "name": "TAU XV95 GHOSTKEEL BATTLESUIT [キャラクタープラモデル]",
@@ -752,6 +768,14 @@
         "diff": 514
     },
     {
+        "name": "CITADEL BARBED BRACKEN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003649610/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "3,560円",
+        "diff": 514
+    },
+    {
         "name": "DEATH GUARD NAUSEOUS ROTBONE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003703245/",
         "backorder": "お取り寄せ",
@@ -856,6 +880,14 @@
         "diff": 509
     },
     {
+        "name": "VAMPIRE COUNTS TOMB BANSHEE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,890円",
+        "diff": 453
+    },
+    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -950,6 +982,14 @@
         "oldprice": "7,027円",
         "newprice": "6,720円",
         "diff": 307
+    },
+    {
+        "name": "SPACE MARINE LAND SPEEDER STORM [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193846/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,380円",
+        "diff": 306
     },
     {
         "name": "DRUKHARI VENOM [キャラクタープラモデル]",
@@ -1088,11 +1128,11 @@
         "diff": 14
     },
     {
-        "name": "SPIKE！ JOURNAL： ISSUE 6  ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691613/",
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
         "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "2,130円",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -2448,36 +2488,12 @@
         "diff": 9
     },
     {
-        "name": "BLOOD BOWL： INDUCEMENTS CARDS  ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691614/",
+        "name": "SPIKE！ JOURNAL： ISSUE 6  ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691613/",
         "backorder": "",
-        "oldprice": "3,768円",
-        "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "ULTRAMARINES CHIEF LIBRARIAN TIGURIUS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903815/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903809/",
-        "backorder": "",
-        "oldprice": "6,518円",
-        "newprice": "6,510円",
-        "diff": 8
+        "oldprice": "2,139円",
+        "newprice": "2,130円",
+        "diff": 9
     },
     {
         "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
@@ -3048,20 +3064,36 @@
         "diff": 8
     },
     {
-        "name": "WARCRY： CYPHER LORDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
+        "name": "BLOOD BOWL： INDUCEMENTS CARDS  ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691614/",
         "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
+        "oldprice": "3,768円",
+        "newprice": "3,760円",
+        "diff": 8
     },
     {
-        "name": "WARCRY： THE SPLINTERED FANG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
+        "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
         "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "ULTRAMARINES CHIEF LIBRARIAN TIGURIUS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903815/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903809/",
+        "backorder": "",
+        "oldprice": "6,518円",
+        "newprice": "6,510円",
+        "diff": 8
     },
     {
         "name": "WARCRY： CORVUS CABAL",
@@ -3400,6 +3432,22 @@
         "diff": 7
     },
     {
+        "name": "WARCRY： CYPHER LORDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844103/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "WARCRY： THE SPLINTERED FANG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
         "backorder": "",
@@ -3408,19 +3456,11 @@
         "diff": 7
     },
     {
-        "name": "WARCRY： IDONETH DEEPKIN CARD PACK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844112/",
+        "name": "WARCRY： SHATTERD STORMVAULT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
         "backorder": "",
-        "oldprice": "1,196円",
-        "newprice": "1,190円",
-        "diff": 6
-    },
-    {
-        "name": "WARCRY CARRY CASE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844101/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
         "diff": 6
     },
     {
@@ -3744,22 +3784,6 @@
         "diff": 6
     },
     {
-        "name": "SPACE MARINES： ULTRAMARINES DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
-        "diff": 6
-    },
-    {
         "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
         "backorder": "",
@@ -3773,6 +3797,22 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "SPACE MARINES： ULTRAMARINES DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -4240,28 +4280,28 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "name": "WARCRY： IDONETH DEEPKIN CARD PACK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844112/",
+        "backorder": "",
+        "oldprice": "1,196円",
+        "newprice": "1,190円",
+        "diff": 6
+    },
+    {
+        "name": "WARCRY CARRY CASE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844101/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
     },
     {
-        "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
-    },
-    {
-        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "14,050円",
-        "diff": 5
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
     },
     {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
@@ -4685,6 +4725,22 @@
         "backorder": "",
         "oldprice": "3,565円",
         "newprice": "3,560円",
+        "diff": 5
+    },
+    {
+        "name": "ADEPTUS TITANICUS TRAITOR LEGIONS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691618/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
+        "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
+        "backorder": "",
+        "oldprice": "14,055円",
+        "newprice": "14,050円",
         "diff": 5
     },
     {
@@ -5224,22 +5280,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "DEATHRATTLE GRAVE GUARD",
         "itemUrl": "https://www.yodobashi.com/product/100000001003775296/",
         "backorder": "",
@@ -5258,6 +5298,22 @@
     {
         "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
@@ -5624,22 +5680,6 @@
         "diff": 3
     },
     {
-        "name": "WARCRY： BATTLEPLAN CARDS ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844097/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
-    },
-    {
-        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
-    },
-    {
         "name": "BLOOD BOWL OGRE [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003463468/",
         "backorder": "",
@@ -5677,6 +5717,22 @@
         "backorder": "",
         "oldprice": "3,412円",
         "newprice": "3,410円",
+        "diff": 2
+    },
+    {
+        "name": "WARCRY： BATTLEPLAN CARDS ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844097/",
+        "backorder": "",
+        "oldprice": "2,852円",
+        "newprice": "2,850円",
+        "diff": 2
+    },
+    {
+        "name": "WARCRY： BATTLEPLAN CARDS JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004844096/",
+        "backorder": "",
+        "oldprice": "2,852円",
+        "newprice": "2,850円",
         "diff": 2
     },
     {
