@@ -2496,6 +2496,14 @@
         "diff": 9
     },
     {
+        "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903809/",
+        "backorder": "",
+        "oldprice": "6,518円",
+        "newprice": "6,510円",
+        "diff": 8
+    },
+    {
         "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
         "backorder": "",
@@ -3088,12 +3096,12 @@
         "diff": 8
     },
     {
-        "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903809/",
+        "name": "WARCRY： THE SPLINTERED FANG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
         "backorder": "",
-        "oldprice": "6,518円",
-        "newprice": "6,510円",
-        "diff": 8
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
     },
     {
         "name": "WARCRY： CORVUS CABAL",
@@ -3440,14 +3448,6 @@
         "diff": 7
     },
     {
-        "name": "WARCRY： THE SPLINTERED FANG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903807/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
         "backorder": "",
@@ -3613,14 +3613,6 @@
         "backorder": "",
         "oldprice": "5,296円",
         "newprice": "5,290円",
-        "diff": 6
-    },
-    {
-        "name": "START COLLECTING！ ORKS [キャラクタープラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003692179/",
-        "backorder": "お取り寄せ",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
         "diff": 6
     },
     {
@@ -3805,14 +3797,6 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -5296,14 +5280,6 @@
         "diff": 3
     },
     {
-        "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5314,6 +5290,14 @@
     {
         "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
