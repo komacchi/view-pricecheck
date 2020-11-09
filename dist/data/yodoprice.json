@@ -1160,14 +1160,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
@@ -3464,6 +3456,14 @@
         "diff": 7
     },
     {
+        "name": "START COLLECTING! DAEMONS OF KHORNE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004233606/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
         "name": "START COLLECTING! MALIGNANTS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233605/",
         "backorder": "",
@@ -4274,14 +4274,6 @@
     {
         "name": "WARCRY： SHATTERD STORMVAULT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "START COLLECTING! DAEMONS OF KHORNE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004233606/",
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
@@ -5296,14 +5288,6 @@
         "diff": 3
     },
     {
-        "name": "40K LIB DATACARDS： DRUKHARI ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5314,6 +5298,14 @@
     {
         "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "40K LIB DATACARDS： DRUKHARI ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
