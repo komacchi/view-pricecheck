@@ -416,14 +416,6 @@
         "diff": 1123
     },
     {
-        "name": "WARSCROLL CARDS: ORRUK WARCLANS ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159318/",
-        "backorder": "",
-        "oldprice": "2,350円",
-        "newprice": "1,280円",
-        "diff": 1070
-    },
-    {
         "name": "DATACARDS： THOUSAND SONS (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003807306/",
         "backorder": "",
@@ -862,6 +854,14 @@
         "oldprice": "7,639円",
         "newprice": "7,130円",
         "diff": 509
+    },
+    {
+        "name": "VAMPIRE COUNTS TOMB BANSHEE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,890円",
+        "diff": 453
     },
     {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
@@ -2488,6 +2488,14 @@
         "diff": 9
     },
     {
+        "name": "A/I： IMPERIAL NAVY MARAUDER BOMBERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093507/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "A/I： AIRCRAFT AND ACES： IMP. NAVY CARDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093504/",
         "backorder": "",
@@ -3074,14 +3082,6 @@
     {
         "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "A/I： IMPERIAL NAVY MARAUDER BOMBERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093507/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
