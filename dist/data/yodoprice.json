@@ -856,14 +856,6 @@
         "diff": 509
     },
     {
-        "name": "VAMPIRE COUNTS TOMB BANSHEE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "1,890円",
-        "diff": 453
-    },
-    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -2488,6 +2480,14 @@
         "diff": 9
     },
     {
+        "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "A/I： IMPERIAL NAVY MARAUDER BOMBERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093507/",
         "backorder": "",
@@ -3080,14 +3080,6 @@
         "diff": 8
     },
     {
-        "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
         "backorder": "",
@@ -3576,14 +3568,6 @@
         "diff": 6
     },
     {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
-        "diff": 6
-    },
-    {
         "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
         "backorder": "",
@@ -3757,6 +3741,14 @@
         "backorder": "",
         "oldprice": "1,426円",
         "newprice": "1,420円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -4296,6 +4288,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "backorder": "お取り寄せ",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
         "name": "WARCRY： MONSTERS & MERCENARIES ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119653/",
         "backorder": "",
@@ -4365,14 +4365,6 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "ETB DEATH GUARD MYPHITIC BLIGHT-HAULER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003776666/",
-        "backorder": "お取り寄せ",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -4723,14 +4715,6 @@
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
         "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
-    },
-    {
-        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
-        "backorder": "お取り寄せ",
         "oldprice": "22,305円",
         "newprice": "22,300円",
         "diff": 5
