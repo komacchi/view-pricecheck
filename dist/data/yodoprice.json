@@ -1112,6 +1112,14 @@
         "diff": 14
     },
     {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "MORDHEIM TURF",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194765/",
         "backorder": "",
@@ -2472,24 +2480,8 @@
         "diff": 9
     },
     {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "A/I： IMPERIAL NAVY MARAUDER BOMBERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093507/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -2501,22 +2493,6 @@
         "backorder": "",
         "oldprice": "3,768円",
         "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "A/I： ORK AIR WAAAGH! FIGHTA BOMMERZ",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093503/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "A/IMPERIALIS： ORK AIR WAAAGH! DAKKAJETS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093502/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
         "diff": 8
     },
     {
@@ -3048,14 +3024,6 @@
         "diff": 8
     },
     {
-        "name": "BLOOD BOWL： INDUCEMENTS CARDS  ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004691614/",
-        "backorder": "",
-        "oldprice": "3,768円",
-        "newprice": "3,760円",
-        "diff": 8
-    },
-    {
         "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
         "backorder": "",
@@ -3086,6 +3054,14 @@
         "oldprice": "8,148円",
         "newprice": "8,140円",
         "diff": 8
+    },
+    {
+        "name": "BLACKSTONE FORTRESS： ESCALATION ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082604/",
+        "backorder": "お取り寄せ",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
+        "diff": 7
     },
     {
         "name": "WARCRY： CHAOTIC BEASTS",
@@ -3432,14 +3408,6 @@
         "diff": 7
     },
     {
-        "name": "BLACKSTONE FORTRESS： ESCALATION ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082604/",
-        "backorder": "お取り寄せ",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
         "backorder": "",
@@ -3565,6 +3533,14 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -3741,14 +3717,6 @@
         "backorder": "",
         "oldprice": "1,426円",
         "newprice": "1,420円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -4288,6 +4256,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
         "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
         "backorder": "お取り寄せ",
@@ -4709,14 +4685,6 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
-        "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
         "diff": 5
     },
     {
