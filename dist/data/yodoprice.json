@@ -2832,6 +2832,14 @@
         "diff": 8
     },
     {
+        "name": "COLLEGIATE ARCANE MYSTIC BATTLE WIZARDS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003658684/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "GLOOMSPITE GITZ SNEAKY SNUFFLERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004217799/",
         "backorder": "",
@@ -3248,6 +3256,14 @@
         "diff": 7
     },
     {
+        "name": "40K SECTOR IMPERIALIS ADMINISTRATUM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949551/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
         "name": "NIGHTHAUNT DREADSCYTHE HARRIDANS",
         "itemUrl": "https://www.yodobashi.com/product/100000001003981986/",
         "backorder": "",
@@ -3306,6 +3322,14 @@
     {
         "name": "BLOOD BOWL：SPIKE！ 2018 ALMANAC！ （ENG）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004194382/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "THORIN OAKENSHIELD ＆ COMPANY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004177951/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -3430,30 +3454,6 @@
         "oldprice": "15,277円",
         "newprice": "15,270円",
         "diff": 7
-    },
-    {
-        "name": "START COLLECTING! DAEMONS OF TZEENTCH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004233603/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "SPACE MARINES： WHITE SCARS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
     },
     {
         "name": "WARCRY： DEFILED RUINS",
@@ -3744,22 +3744,6 @@
         "diff": 6
     },
     {
-        "name": "SPACE MARINES： ULTRAMARINES DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
-        "diff": 6
-    },
-    {
         "name": "40K IMPERIAL KNIGHTS KNIGHT CASTELLAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001003908570/",
         "backorder": "",
@@ -3773,6 +3757,22 @@
         "backorder": "",
         "oldprice": "23,426円",
         "newprice": "23,420円",
+        "diff": 6
+    },
+    {
+        "name": "SPACE MARINES： ULTRAMARINES DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -3829,6 +3829,22 @@
         "backorder": "",
         "oldprice": "10,186円",
         "newprice": "10,180円",
+        "diff": 6
+    },
+    {
+        "name": "40K SECTOR IMPERIALIS RUINS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003949548/",
+        "backorder": "",
+        "oldprice": "5,296円",
+        "newprice": "5,290円",
+        "diff": 6
+    },
+    {
+        "name": "STORMCAST ETERNALS LORD-ORDINATOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4264,6 +4280,30 @@
         "diff": 6
     },
     {
+        "name": "START COLLECTING! DAEMONS OF TZEENTCH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004233603/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "SPACE MARINES： WHITE SCARS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
@@ -4693,6 +4733,14 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
@@ -5264,22 +5312,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "40K DATACARDS DEATHWATCH ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003887463/",
         "backorder": "",
@@ -5298,6 +5330,22 @@
     {
         "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
