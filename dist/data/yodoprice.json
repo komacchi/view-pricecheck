@@ -3456,6 +3456,14 @@
         "diff": 7
     },
     {
+        "name": "SPACE MARINES： WHITE SCARS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "WARCRY： DEFILED RUINS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119655/",
         "backorder": "",
@@ -4291,14 +4299,6 @@
         "name": "PRIMARIS LIBRARIAN IN PHOBOS ARMOUR",
         "itemUrl": "https://www.yodobashi.com/product/100000001005059051/",
         "backorder": "お取り寄せ",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "SPACE MARINES： WHITE SCARS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
-        "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
@@ -5328,14 +5328,6 @@
         "diff": 3
     },
     {
-        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5346,6 +5338,14 @@
     {
         "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "40K DATACARDS IMPERIAL KNIGHTS ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003908566/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
