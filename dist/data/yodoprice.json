@@ -1152,6 +1152,14 @@
         "diff": 9
     },
     {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
         "backorder": "",
@@ -3456,14 +3464,6 @@
         "diff": 7
     },
     {
-        "name": "SPACE MARINES： WHITE SCARS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "WARCRY： DEFILED RUINS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005119655/",
         "backorder": "",
@@ -4304,20 +4304,20 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "name": "SPACE MARINES： WHITE SCARS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
     },
     {
-        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
     },
     {
         "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
@@ -4733,6 +4733,14 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
+        "diff": 5
+    },
+    {
+        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
         "diff": 5
     },
     {
