@@ -552,14 +552,6 @@
         "diff": 890
     },
     {
-        "name": "KILL TEAM： ELUCIDIAN STARSTRIDERS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004065842/",
-        "backorder": "",
-        "oldprice": "1,833円",
-        "newprice": "980円",
-        "diff": 853
-    },
-    {
         "name": "BLOOD BOWL SPIKE！ JOURNAL ISSUE 1 ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003881002/",
         "backorder": "",
@@ -1150,6 +1142,14 @@
         "oldprice": "764円",
         "newprice": "750円",
         "diff": 14
+    },
+    {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
     },
     {
         "name": "MORDHEIM TURF",
@@ -2509,14 +2509,6 @@
         "backorder": "",
         "oldprice": "2,139円",
         "newprice": "2,130円",
-        "diff": 9
-    },
-    {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
         "diff": 9
     },
     {
@@ -4280,14 +4272,6 @@
         "diff": 6
     },
     {
-        "name": "WARCRY： SHATTERD STORMVAULT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
         "name": "START COLLECTING! DAEMONS OF KHORNE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233606/",
         "backorder": "",
@@ -5160,14 +5144,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
         "backorder": "",
@@ -5365,6 +5341,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
