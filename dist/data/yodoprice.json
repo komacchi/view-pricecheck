@@ -1144,14 +1144,6 @@
         "diff": 14
     },
     {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "MORDHEIM TURF",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194765/",
         "backorder": "",
@@ -1165,6 +1157,70 @@
         "backorder": "",
         "oldprice": "8,759円",
         "newprice": "8,750円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRAKENHOF NIGHTSHADE [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194727/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade NULN OIL GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235335/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "Citadel Shade REIKLAND FLESHSHADE GLOSS [アクリル系塗料 24ml]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003235333/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
         "diff": 9
     },
     {
@@ -2376,6 +2432,54 @@
         "diff": 9
     },
     {
+        "name": "AIR： CASTE THINNER （24ML） [シタデル エアー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468990/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： STORMSHIELD （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468956/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： ASTROGRANITE （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468952/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： AGRELLAN BADLAND （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468945/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： 'ARDCOAT （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468942/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
+        "name": "TECHNICAL： LAHMIAN MEDIUM （24ML） [シタデル テクニカル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004468941/",
+        "backorder": "",
+        "oldprice": "1,059円",
+        "newprice": "1,050円",
+        "diff": 9
+    },
+    {
         "name": "B/STONE FORTRESS： TRAITOR COMMAND ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637242/",
         "backorder": "",
@@ -2398,38 +2502,6 @@
         "oldprice": "2,139円",
         "newprice": "2,130円",
         "diff": 9
-    },
-    {
-        "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "A/I： AIRCRAFT AND ACES： IMP. NAVY CARDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093504/",
-        "backorder": "",
-        "oldprice": "3,768円",
-        "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "A/I AIRCRFT & ACES： ORK AIR WAAAGH! CRDS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093500/",
-        "backorder": "",
-        "oldprice": "3,768円",
-        "newprice": "3,760円",
-        "diff": 8
-    },
-    {
-        "name": "IRON HANDS FEIRROS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005135040/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
     },
     {
         "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
@@ -2984,52 +3056,44 @@
         "diff": 8
     },
     {
+        "name": "A/I： IMPERIAL NAVY MARAUDER DESTROYERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093508/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "A/I： AIRCRAFT AND ACES： IMP. NAVY CARDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093504/",
+        "backorder": "",
+        "oldprice": "3,768円",
+        "newprice": "3,760円",
+        "diff": 8
+    },
+    {
+        "name": "A/I AIRCRFT & ACES： ORK AIR WAAAGH! CRDS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093500/",
+        "backorder": "",
+        "oldprice": "3,768円",
+        "newprice": "3,760円",
+        "diff": 8
+    },
+    {
+        "name": "IRON HANDS FEIRROS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005135040/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
         "backorder": "",
         "oldprice": "8,148円",
         "newprice": "8,140円",
         "diff": 8
-    },
-    {
-        "name": "BLACKSTONE FORTRESS： ESCALATION ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082604/",
-        "backorder": "お取り寄せ",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： CHAOTIC BEASTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "6,410円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： UNTAMED BEASTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "WARCRY： IRON GOLEM",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119657/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "SPACE MARINES PRIMARIS ELIMINATORS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005135041/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
     },
     {
         "name": "CODEX: SPACE MARINES (HB) (ENGLISH)",
@@ -3128,14 +3192,6 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "AOS. DARK ELF. DAUGHTERS OF KHAINE MELUSAI",
         "itemUrl": "https://www.yodobashi.com/product/100000001003838129/",
         "backorder": "",
@@ -3197,6 +3253,14 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
         "diff": 7
     },
     {
@@ -3368,60 +3432,44 @@
         "diff": 7
     },
     {
-        "name": "SPACE MARINES： WHITE SCARS DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "SPACE MARINES： ULTRAMARINES DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "WARCRY： DEFILED RUINS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119655/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
-        "name": "WARCRY： SHATTERD STORMVAULT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
+        "name": "BLACKSTONE FORTRESS： ESCALATION ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082604/",
         "backorder": "お取り寄せ",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
+        "diff": 7
     },
     {
-        "name": "PRIMARIS LIEUTENANT IN PHOBOS ARMOUR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005135038/",
+        "name": "WARCRY： CHAOTIC BEASTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119659/",
         "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
+        "oldprice": "6,417円",
+        "newprice": "6,410円",
+        "diff": 7
     },
     {
-        "name": "WHITE DWARF SEPTEMBER 2019 JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005130043/",
+        "name": "WARCRY： UNTAMED BEASTS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
         "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "1,420円",
-        "diff": 6
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "WARCRY： IRON GOLEM",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119657/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "SPACE MARINES PRIMARIS ELIMINATORS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005135041/",
+        "backorder": "",
+        "oldprice": "7,027円",
+        "newprice": "7,020円",
+        "diff": 7
     },
     {
         "name": "WHITE DWARF SEPTEMBER 2018 (JAPANESE)",
@@ -3784,6 +3832,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
         "backorder": "",
@@ -4096,6 +4152,14 @@
         "diff": 6
     },
     {
+        "name": "CITADEL GREY SEER SPRAY 400ML （GLOBAL） [シタデル スプレー]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004469070/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "2,540円",
+        "diff": 6
+    },
+    {
         "name": "WHITE DWARF JUNE 2019 JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001004484807/",
         "backorder": "",
@@ -4208,44 +4272,60 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "name": "SPACE MARINES： WHITE SCARS DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
     },
     {
-        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
+        "name": "SPACE MARINES： ULTRAMARINES DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903824/",
         "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
+        "name": "WARCRY： DEFILED RUINS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119655/",
         "backorder": "",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
+        "backorder": "",
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "WARCRY： SHATTERD STORMVAULT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
         "backorder": "お取り寄せ",
-        "oldprice": "22,305円",
-        "newprice": "22,300円",
-        "diff": 5
+        "oldprice": "12,936円",
+        "newprice": "12,930円",
+        "diff": 6
     },
     {
-        "name": "WARCRY： MONSTERS & MERCENARIES ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005119653/",
+        "name": "PRIMARIS LIEUTENANT IN PHOBOS ARMOUR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005135038/",
         "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
-        "diff": 5
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "WHITE DWARF SEPTEMBER 2019 JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005130043/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "1,420円",
+        "diff": 6
     },
     {
         "name": "INDEX:IMPERIUM 1 (JAPANESE) [プラモデル用品]",
@@ -4632,6 +4712,38 @@
         "diff": 5
     },
     {
+        "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
+        "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
+        "backorder": "",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
+        "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
+        "backorder": "お取り寄せ",
+        "oldprice": "22,305円",
+        "newprice": "22,300円",
+        "diff": 5
+    },
+    {
+        "name": "WARCRY： MONSTERS & MERCENARIES ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005119653/",
+        "backorder": "",
+        "oldprice": "3,565円",
+        "newprice": "3,560円",
+        "diff": 5
+    },
+    {
         "name": "NECROMUNDA： GANG WAR 1 (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003745738/",
         "backorder": "",
@@ -4926,22 +5038,6 @@
         "oldprice": "4,074円",
         "newprice": "4,070円",
         "diff": 4
-    },
-    {
-        "name": "A/I： RYNN’S WORLD AIR WAR CAMPAIGN BOOK",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093498/",
-        "backorder": "",
-        "oldprice": "5,093円",
-        "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
-        "backorder": "",
-        "oldprice": "6,213円",
-        "newprice": "6,210円",
-        "diff": 3
     },
     {
         "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
@@ -5565,6 +5661,22 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "A/I： RYNN’S WORLD AIR WAR CAMPAIGN BOOK",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005093498/",
+        "backorder": "",
+        "oldprice": "5,093円",
+        "newprice": "5,090円",
+        "diff": 3
+    },
+    {
+        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "6,210円",
         "diff": 3
     },
     {
