@@ -1,13 +1,5 @@
 [
     {
-        "name": "WARHAMMER 40000： URBAN CONQUEST (ENG)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217795/",
-        "backorder": "",
-        "oldprice": "14,055円",
-        "newprice": "5,980円",
-        "diff": 8075
-    },
-    {
         "name": "WARHAMMER 40000：KILL TEAM ARENA (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004236061/",
         "backorder": "",
@@ -146,14 +138,6 @@
     {
         "name": "KILL TEAM COMMANDER: VYSA KHARAVYXIS (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004123079/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
-        "name": "KILL TEAM COMMANDER: FIREBLADE TWINFLAME (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123081/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "1,980円",
@@ -326,14 +310,6 @@
         "oldprice": "2,139円",
         "newprice": "500円",
         "diff": 1639
-    },
-    {
-        "name": "CALIBAN GREEN SPRAY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
-        "backorder": "",
-        "oldprice": "2,546円",
-        "newprice": "980円",
-        "diff": 1566
     },
     {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
@@ -2440,6 +2416,14 @@
         "diff": 9
     },
     {
+        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
+        "backorder": "",
+        "oldprice": "8,759円",
+        "newprice": "8,750円",
+        "diff": 9
+    },
+    {
         "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
         "backorder": "",
@@ -2704,6 +2688,14 @@
         "diff": 8
     },
     {
+        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
         "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
         "backorder": "",
@@ -2714,14 +2706,6 @@
     {
         "name": "LOTR： MORDOR TROLL / ISENGARD TROLL",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036398/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -5360,14 +5344,6 @@
         "diff": 3
     },
     {
-        "name": "DATACARDS： SPACE WOLVES （ENGLISH）",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004021493/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL MEDIUM TEXTURE SPREADER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
         "backorder": "",
@@ -5378,6 +5354,14 @@
     {
         "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "DATACARDS： SPACE WOLVES （ENGLISH）",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004021493/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
