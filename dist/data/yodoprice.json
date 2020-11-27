@@ -16,14 +16,6 @@
         "diff": 5270
     },
     {
-        "name": "WARHAMMER 40000： APOCALYPSE DICE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620104/",
-        "backorder": "",
-        "oldprice": "6,417円",
-        "newprice": "1,980円",
-        "diff": 4437
-    },
-    {
         "name": "WARHAMMER 40000 RULEBOOK (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003591855/",
         "backorder": "",
@@ -64,14 +56,6 @@
         "diff": 3428
     },
     {
-        "name": "A/I： IMPERIAL NAVY MARAUDER BOMBERS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005093507/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "2,480円",
-        "diff": 3428
-    },
-    {
         "name": "CITADEL BATTLE FIGURE CASE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194066/",
         "backorder": "",
@@ -104,14 +88,6 @@
         "diff": 3224
     },
     {
-        "name": "APOCALYPSE COMMAND ASSETS  ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004620103/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "500円",
-        "diff": 3065
-    },
-    {
         "name": "40K LIB CODEX： NECRONS HB ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
         "backorder": "",
@@ -138,14 +114,6 @@
     {
         "name": "KILL TEAM COMMANDER: VYSA KHARAVYXIS (JPN)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004123079/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "1,980円",
-        "diff": 2706
-    },
-    {
-        "name": "KILL TEAM COMMANDER: MAGOS DALATHRUST (JPN)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004123073/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "1,980円",
@@ -976,6 +944,14 @@
         "diff": 101
     },
     {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
         "name": "BATTLETOME: CITIES OF SIGMAR SB JPN",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159312/",
         "backorder": "",
@@ -1013,14 +989,6 @@
         "backorder": "お取り寄せ",
         "oldprice": "4,700円",
         "newprice": "4,600円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
         "diff": 100
     },
     {
@@ -1074,14 +1042,6 @@
     {
         "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
-        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
         "backorder": "",
         "oldprice": "1,059円",
         "newprice": "1,050円",
@@ -2680,16 +2640,16 @@
         "diff": 8
     },
     {
-        "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
+        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
         "diff": 8
     },
     {
-        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
+        "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
