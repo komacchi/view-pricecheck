@@ -632,14 +632,6 @@
         "diff": 514
     },
     {
-        "name": "CITADEL BARBED BRACKEN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003649610/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "3,560円",
-        "diff": 514
-    },
-    {
         "name": "DEATH GUARD NAUSEOUS ROTBONE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003703245/",
         "backorder": "お取り寄せ",
@@ -872,16 +864,16 @@
         "diff": 306
     },
     {
-        "name": "START COLLECTING! ANVILGARD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
+        "name": "START COLLECTING! GREYWATER FASTNESS",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
         "diff": 300
     },
     {
-        "name": "START COLLECTING! GREYWATER FASTNESS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159315/",
+        "name": "START COLLECTING! ANVILGARD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159319/",
         "backorder": "",
         "oldprice": "14,100円",
         "newprice": "13,800円",
@@ -936,22 +928,6 @@
         "diff": 101
     },
     {
-        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
-        "backorder": "",
-        "oldprice": "5,900円",
-        "newprice": "5,800円",
-        "diff": 100
-    },
-    {
-        "name": "BATTLETOME: CITIES OF SIGMAR SB JPN",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005159312/",
-        "backorder": "",
-        "oldprice": "4,700円",
-        "newprice": "4,600円",
-        "diff": 100
-    },
-    {
         "name": "KING OF THE DEAD & HERALDS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159320/",
         "backorder": "",
@@ -979,6 +955,22 @@
         "name": "AGE OF SIGMAR: GAMING BOOK JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005159310/",
         "backorder": "お取り寄せ",
+        "oldprice": "4,700円",
+        "newprice": "4,600円",
+        "diff": 100
+    },
+    {
+        "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+        "backorder": "",
+        "oldprice": "5,900円",
+        "newprice": "5,800円",
+        "diff": 100
+    },
+    {
+        "name": "BATTLETOME: CITIES OF SIGMAR SB JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001005159312/",
+        "backorder": "",
         "oldprice": "4,700円",
         "newprice": "4,600円",
         "diff": 100
@@ -2376,14 +2368,6 @@
         "diff": 9
     },
     {
-        "name": "S/M PRIMARIS INVICTOR TACTICAL WARSUIT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001005059054/",
-        "backorder": "",
-        "oldprice": "8,759円",
-        "newprice": "8,750円",
-        "diff": 9
-    },
-    {
         "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
         "backorder": "",
@@ -2442,6 +2426,14 @@
     {
         "name": "WHITE SCARS KOR'SARRO KHAN",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903817/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -2634,14 +2626,6 @@
     {
         "name": "ETB：NIGHTHAUNT CHAINRASP HORDES [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961705/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
@@ -3032,6 +3016,14 @@
         "diff": 7
     },
     {
+        "name": "SPACE MARINE COMMAND SQUAD [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193833/",
+        "backorder": "お取り寄せ",
+        "oldprice": "4,787円",
+        "newprice": "4,780円",
+        "diff": 7
+    },
+    {
         "name": "CITADEL LARGE SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
         "backorder": "",
@@ -3117,14 +3109,6 @@
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
-        "diff": 7
-    },
-    {
-        "name": "SPACE MARINE COMMAND SQUAD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193833/",
-        "backorder": "お取り寄せ",
-        "oldprice": "4,787円",
-        "newprice": "4,780円",
         "diff": 7
     },
     {
@@ -3688,6 +3672,14 @@
         "diff": 6
     },
     {
+        "name": "STORMCAST ETERNALS LORD-ORDINATOR",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "CITADEL MOULDLINE REMOVER",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
         "backorder": "",
@@ -3698,14 +3690,6 @@
     {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "STORMCAST ETERNALS LORD-ORDINATOR",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
@@ -5296,22 +5280,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
         "name": "NECROMUNDA CAWDOR GANG DICE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001003981994/",
         "backorder": "",
@@ -5322,6 +5290,22 @@
     {
         "name": "DATACARDS： SPACE WOLVES （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004021493/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
