@@ -16,6 +16,14 @@
         "diff": 5270
     },
     {
+        "name": "WARHAMMER 40000： APOCALYPSE DICE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004620104/",
+        "backorder": "",
+        "oldprice": "6,417円",
+        "newprice": "1,980円",
+        "diff": 4437
+    },
+    {
         "name": "WARHAMMER 40000 RULEBOOK (ENGLISH) [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003591855/",
         "backorder": "",
@@ -278,6 +286,14 @@
         "oldprice": "2,139円",
         "newprice": "500円",
         "diff": 1639
+    },
+    {
+        "name": "CALIBAN GREEN SPRAY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "980円",
+        "diff": 1566
     },
     {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
@@ -632,6 +648,14 @@
         "diff": 514
     },
     {
+        "name": "CITADEL BARBED BRACKEN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003649610/",
+        "backorder": "",
+        "oldprice": "4,074円",
+        "newprice": "3,560円",
+        "diff": 514
+    },
+    {
         "name": "DEATH GUARD NAUSEOUS ROTBONE",
         "itemUrl": "https://www.yodobashi.com/product/100000001003703245/",
         "backorder": "お取り寄せ",
@@ -734,6 +758,14 @@
         "oldprice": "7,639円",
         "newprice": "7,130円",
         "diff": 509
+    },
+    {
+        "name": "VAMPIRE COUNTS TOMB BANSHEE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,890円",
+        "diff": 453
     },
     {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
@@ -2656,6 +2688,14 @@
         "diff": 8
     },
     {
+        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
+        "backorder": "",
+        "oldprice": "8,148円",
+        "newprice": "8,140円",
+        "diff": 8
+    },
+    {
         "name": "CODEX：ORKS （HB） （JAPANESE）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140918/",
         "backorder": "",
@@ -2952,14 +2992,6 @@
         "diff": 8
     },
     {
-        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
-        "backorder": "",
-        "oldprice": "8,148円",
-        "newprice": "8,140円",
-        "diff": 8
-    },
-    {
         "name": "CODEX: SPACE MARINES (HB) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003636061/",
         "backorder": "",
@@ -3112,19 +3144,19 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "THE HOBBIT： GREAT EAGLES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
         "diff": 7
     },
     {
@@ -5522,6 +5554,14 @@
     {
         "name": "NECROMUNDA ENFORCER PATROL DICE SET",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903808/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "EASY TO BUILD DEATH GUARD POXWALKERS [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622194/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
