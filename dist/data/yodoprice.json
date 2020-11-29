@@ -288,14 +288,6 @@
         "diff": 1639
     },
     {
-        "name": "CALIBAN GREEN SPRAY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
-        "backorder": "",
-        "oldprice": "2,546円",
-        "newprice": "980円",
-        "diff": 1566
-    },
-    {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
@@ -1114,7 +1106,7 @@
     {
         "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "1,059円",
         "newprice": "1,050円",
         "diff": 9
