@@ -4120,14 +4120,6 @@
         "diff": 6
     },
     {
-        "name": "START COLLECTING! MALIGNANTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004233605/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
         "name": "START COLLECTING! SKAVEN PESTILENS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004233604/",
         "backorder": "",
@@ -4709,14 +4701,6 @@
         "backorder": "",
         "oldprice": "5,704円",
         "newprice": "5,700円",
-        "diff": 4
-    },
-    {
-        "name": "WH UNDERWORLDS： SPITECLAW'S SWARM (ENG) [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003824720/",
-        "backorder": "",
-        "oldprice": "4,074円",
-        "newprice": "4,070円",
         "diff": 4
     },
     {
@@ -5309,6 +5293,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
