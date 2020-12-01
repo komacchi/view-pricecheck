@@ -1104,14 +1104,6 @@
         "diff": 9
     },
     {
-        "name": "Citadel Shade REIKLAND FLESHSHADE [アクリル系塗料 24ml]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194732/",
-        "backorder": "お取り寄せ",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "Citadel Shade NULN OIL [アクリル系塗料 24ml]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194734/",
         "backorder": "",
@@ -3658,7 +3650,7 @@
     {
         "name": "AOS BATTLETOME： NIGHTHAUNT SB JP [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003934434/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
