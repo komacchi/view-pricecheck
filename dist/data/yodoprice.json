@@ -3680,14 +3680,6 @@
         "diff": 6
     },
     {
-        "name": "CITADEL MOULDLINE REMOVER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
-        "backorder": "",
-        "oldprice": "1,936円",
-        "newprice": "1,930円",
-        "diff": 6
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
@@ -4162,7 +4154,7 @@
     {
         "name": "WARCRY： SHATTERD STORMVAULT",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
         "diff": 6
@@ -4341,14 +4333,6 @@
         "backorder": "",
         "oldprice": "14,055円",
         "newprice": "14,050円",
-        "diff": 5
-    },
-    {
-        "name": "AOS ETB KHORNE BLOODBOUND GARREK'S REAVERS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003903296/",
-        "backorder": "",
-        "oldprice": "3,565円",
-        "newprice": "3,560円",
         "diff": 5
     },
     {
