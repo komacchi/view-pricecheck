@@ -744,14 +744,6 @@
         "diff": 509
     },
     {
-        "name": "VAMPIRE COUNTS TOMB BANSHEE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "1,890円",
-        "diff": 453
-    },
-    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -3685,6 +3677,14 @@
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
