@@ -4144,14 +4144,6 @@
         "diff": 6
     },
     {
-        "name": "WARCRY： SHATTERD STORMVAULT",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903804/",
-        "backorder": "",
-        "oldprice": "12,936円",
-        "newprice": "12,930円",
-        "diff": 6
-    },
-    {
         "name": "PRIMARIS LIEUTENANT IN PHOBOS ARMOUR",
         "itemUrl": "https://www.yodobashi.com/product/100000001005135038/",
         "backorder": "",
@@ -5469,6 +5461,14 @@
         "backorder": "",
         "oldprice": "10,593円",
         "newprice": "10,590円",
+        "diff": 3
+    },
+    {
+        "name": "B/STONE FORTRESS： ENDLESS PERIL JPN",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004637245/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
         "diff": 3
     },
     {
