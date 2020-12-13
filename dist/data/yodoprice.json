@@ -32,14 +32,6 @@
         "diff": 3928
     },
     {
-        "name": "A.O.S： GENERAL’S HANDBOOK 2019 ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004484806/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "980円",
-        "diff": 3706
-    },
-    {
         "name": "CODEX： SPACE MARINES HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903813/",
         "backorder": "",
@@ -198,6 +190,14 @@
         "oldprice": "7,639円",
         "newprice": "5,290円",
         "diff": 2349
+    },
+    {
+        "name": "TYRANID TRYGON/MAWLOC [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193937/",
+        "backorder": "",
+        "oldprice": "10,593円",
+        "newprice": "8,350円",
+        "diff": 2243
     },
     {
         "name": "CODEX CRAFTWORLDS (SOFTBACK) (ENGLISH)",
@@ -592,6 +592,14 @@
         "diff": 517
     },
     {
+        "name": "TYRANID GARGOYLE BROOD [WARHAMMER 40,000]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003193936/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,170円",
+        "diff": 516
+    },
+    {
         "name": "LOTR： KNIGHTS OF MINAS TIRITH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036391/",
         "backorder": "お取り寄せ",
@@ -778,7 +786,7 @@
     {
         "name": "EASTERLING WARRIORS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036394/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "6,213円",
         "newprice": "5,900円",
         "diff": 313
@@ -2656,14 +2664,6 @@
         "diff": 8
     },
     {
-        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
-        "backorder": "",
-        "oldprice": "8,148円",
-        "newprice": "8,140円",
-        "diff": 8
-    },
-    {
         "name": "CODEX：ORKS （HB） （JAPANESE）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140918/",
         "backorder": "",
@@ -2677,6 +2677,14 @@
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
+        "backorder": "",
+        "oldprice": "8,148円",
+        "newprice": "8,140円",
         "diff": 8
     },
     {
@@ -3008,6 +3016,14 @@
         "diff": 7
     },
     {
+        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
+        "diff": 7
+    },
+    {
         "name": "CITADEL LARGE SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
         "backorder": "",
@@ -3101,14 +3117,6 @@
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
         "diff": 7
     },
     {
@@ -3408,6 +3416,14 @@
         "diff": 6
     },
     {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
         "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
         "backorder": "",
@@ -3674,14 +3690,6 @@
     {
         "name": "ENDLESS SPELLS： BEASTS OF CHAOS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004073774/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
@@ -4872,14 +4880,6 @@
         "diff": 4
     },
     {
-        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
-        "backorder": "",
-        "oldprice": "6,213円",
-        "newprice": "6,210円",
-        "diff": 3
-    },
-    {
         "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961712/",
         "backorder": "",
@@ -5493,6 +5493,14 @@
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
+        "diff": 3
+    },
+    {
+        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "6,210円",
         "diff": 3
     },
     {
