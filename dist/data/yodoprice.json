@@ -192,14 +192,6 @@
         "diff": 2349
     },
     {
-        "name": "TYRANID TRYGON/MAWLOC [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193937/",
-        "backorder": "",
-        "oldprice": "10,593円",
-        "newprice": "8,350円",
-        "diff": 2243
-    },
-    {
         "name": "CODEX CRAFTWORLDS (SOFTBACK) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193788/",
         "backorder": "",
@@ -590,14 +582,6 @@
         "oldprice": "7,027円",
         "newprice": "6,510円",
         "diff": 517
-    },
-    {
-        "name": "TYRANID GARGOYLE BROOD [WARHAMMER 40,000]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003193936/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,170円",
-        "diff": 516
     },
     {
         "name": "LOTR： KNIGHTS OF MINAS TIRITH",
@@ -2664,6 +2648,14 @@
         "diff": 8
     },
     {
+        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
+        "backorder": "",
+        "oldprice": "8,148円",
+        "newprice": "8,140円",
+        "diff": 8
+    },
+    {
         "name": "CODEX：ORKS （HB） （JAPANESE）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004140918/",
         "backorder": "",
@@ -2677,14 +2669,6 @@
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
-        "diff": 8
-    },
-    {
-        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
-        "backorder": "",
-        "oldprice": "8,148円",
-        "newprice": "8,140円",
         "diff": 8
     },
     {
@@ -3016,14 +3000,6 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "CITADEL LARGE SHADE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
         "backorder": "",
@@ -3109,6 +3085,14 @@
         "backorder": "",
         "oldprice": "6,417円",
         "newprice": "6,410円",
+        "diff": 7
+    },
+    {
+        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
         "diff": 7
     },
     {
@@ -3416,14 +3400,6 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "TYRANID VENOMTHROPES [WARHAMMER 40,000]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003193941/",
         "backorder": "",
@@ -3682,6 +3658,14 @@
     {
         "name": "STORMCAST ETERNALS LORD-ORDINATOR",
         "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
@@ -4880,6 +4864,14 @@
         "diff": 4
     },
     {
+        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
+        "backorder": "",
+        "oldprice": "6,213円",
+        "newprice": "6,210円",
+        "diff": 3
+    },
+    {
         "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003961712/",
         "backorder": "",
@@ -4949,14 +4941,6 @@
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
         "diff": 3
     },
     {
@@ -5280,6 +5264,14 @@
         "diff": 3
     },
     {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "WARHAMMER 40000: WAKE THE DEAD （ENGLISH） [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099369/",
         "backorder": "",
@@ -5493,14 +5485,6 @@
         "backorder": "",
         "oldprice": "5,093円",
         "newprice": "5,090円",
-        "diff": 3
-    },
-    {
-        "name": "NECROMUNDA： PALANITE ENFORCER PATROL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004903811/",
-        "backorder": "",
-        "oldprice": "6,213円",
-        "newprice": "6,210円",
         "diff": 3
     },
     {
