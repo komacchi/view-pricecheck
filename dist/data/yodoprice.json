@@ -32,6 +32,14 @@
         "diff": 3928
     },
     {
+        "name": "A.O.S： GENERAL’S HANDBOOK 2019 ENGLISH",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004484806/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "980円",
+        "diff": 3706
+    },
+    {
         "name": "CODEX： SPACE MARINES HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903813/",
         "backorder": "",
@@ -3088,19 +3096,19 @@
         "diff": 7
     },
     {
-        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
-        "backorder": "",
-        "oldprice": "15,277円",
-        "newprice": "15,270円",
-        "diff": 7
-    },
-    {
         "name": "THE HOBBIT： GREAT EAGLES",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036385/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
+        "diff": 7
+    },
+    {
+        "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+        "backorder": "",
+        "oldprice": "15,277円",
+        "newprice": "15,270円",
         "diff": 7
     },
     {
