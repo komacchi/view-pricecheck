@@ -264,6 +264,14 @@
         "diff": 1639
     },
     {
+        "name": "CALIBAN GREEN SPRAY",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
+        "backorder": "",
+        "oldprice": "2,546円",
+        "newprice": "980円",
+        "diff": 1566
+    },
+    {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
@@ -720,6 +728,14 @@
         "diff": 509
     },
     {
+        "name": "VAMPIRE COUNTS TOMB BANSHEE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,890円",
+        "diff": 453
+    },
+    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -742,6 +758,14 @@
         "oldprice": "5,908円",
         "newprice": "5,500円",
         "diff": 408
+    },
+    {
+        "name": "CITADEL PALETTE PAD",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194764/",
+        "backorder": "",
+        "oldprice": "1,273円",
+        "newprice": "917円",
+        "diff": 356
     },
     {
         "name": "NECROMUNDA VAN SAAR GANG",
@@ -2624,19 +2648,19 @@
         "diff": 8
     },
     {
-        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
-        "backorder": "",
-        "oldprice": "8,148円",
-        "newprice": "8,140円",
-        "diff": 8
-    },
-    {
         "name": "LOTR： MORDOR TROLL / ISENGARD TROLL",
         "itemUrl": "https://www.yodobashi.com/product/100000001004036398/",
         "backorder": "",
         "oldprice": "5,908円",
         "newprice": "5,900円",
+        "diff": 8
+    },
+    {
+        "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
+        "backorder": "",
+        "oldprice": "8,148円",
+        "newprice": "8,140円",
         "diff": 8
     },
     {
@@ -2930,14 +2954,6 @@
     {
         "name": "CODEX: SPACE MARINES (HB) (ENGLISH)",
         "itemUrl": "https://www.yodobashi.com/product/100000001003636061/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
-        "name": "DEATH GUARD FOETID BLOAT-DRONE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003703248/",
         "backorder": "",
         "oldprice": "7,027円",
         "newprice": "7,020円",
@@ -3381,6 +3397,14 @@
         "backorder": "",
         "oldprice": "12,936円",
         "newprice": "12,930円",
+        "diff": 6
+    },
+    {
+        "name": "CITADEL MOULDLINE REMOVER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194094/",
+        "backorder": "",
+        "oldprice": "1,936円",
+        "newprice": "1,930円",
         "diff": 6
     },
     {
@@ -4920,6 +4944,22 @@
         "diff": 3
     },
     {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
+        "diff": 3
+    },
+    {
+        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "2,340円",
+        "diff": 3
+    },
+    {
         "name": "CITADEL LARGE BASE BRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194074/",
         "backorder": "",
@@ -5234,14 +5274,6 @@
     {
         "name": "DATACARDS： SPACE WOLVES （ENGLISH）",
         "itemUrl": "https://www.yodobashi.com/product/100000001004021493/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "DEATH GUARD PAINT SET [プラモデル用塗料]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003622195/",
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
