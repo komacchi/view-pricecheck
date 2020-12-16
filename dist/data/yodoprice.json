@@ -720,14 +720,6 @@
         "diff": 509
     },
     {
-        "name": "VAMPIRE COUNTS TOMB BANSHEE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "1,890円",
-        "diff": 453
-    },
-    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -750,14 +742,6 @@
         "oldprice": "5,908円",
         "newprice": "5,500円",
         "diff": 408
-    },
-    {
-        "name": "CITADEL PALETTE PAD",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194764/",
-        "backorder": "",
-        "oldprice": "1,273円",
-        "newprice": "917円",
-        "diff": 356
     },
     {
         "name": "NECROMUNDA VAN SAAR GANG",
@@ -2640,19 +2624,19 @@
         "diff": 8
     },
     {
-        "name": "LOTR： MORDOR TROLL / ISENGARD TROLL",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004036398/",
-        "backorder": "",
-        "oldprice": "5,908円",
-        "newprice": "5,900円",
-        "diff": 8
-    },
-    {
         "name": "GENESTEALER CULTS GOLIATH [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769146/",
         "backorder": "",
         "oldprice": "8,148円",
         "newprice": "8,140円",
+        "diff": 8
+    },
+    {
+        "name": "LOTR： MORDOR TROLL / ISENGARD TROLL",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004036398/",
+        "backorder": "",
+        "oldprice": "5,908円",
+        "newprice": "5,900円",
         "diff": 8
     },
     {
