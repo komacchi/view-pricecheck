@@ -40,14 +40,6 @@
         "diff": 3928
     },
     {
-        "name": "A.O.S： GENERAL’S HANDBOOK 2019 ENGLISH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004484806/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "980円",
-        "diff": 3706
-    },
-    {
         "name": "CODEX： SPACE MARINES HB ENGLISH",
         "itemUrl": "https://www.yodobashi.com/product/100000001004903813/",
         "backorder": "",
@@ -262,14 +254,6 @@
         "oldprice": "2,343円",
         "newprice": "500円",
         "diff": 1843
-    },
-    {
-        "name": "BADZONES ENVIRONMENTS & EVENT CARDS ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004424388/",
-        "backorder": "",
-        "oldprice": "2,139円",
-        "newprice": "500円",
-        "diff": 1639
     },
     {
         "name": "MILITARUM TEMPESTUS SCIONS [プラモデル]",
@@ -632,14 +616,6 @@
         "diff": 516
     },
     {
-        "name": "GLOOMSPITE GITZ GROTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217784/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "4,780円",
-        "diff": 516
-    },
-    {
         "name": "CITADEL CREEPING VINES",
         "itemUrl": "https://www.yodobashi.com/product/100000001003649609/",
         "backorder": "",
@@ -758,6 +734,14 @@
         "oldprice": "7,639円",
         "newprice": "7,130円",
         "diff": 509
+    },
+    {
+        "name": "VAMPIRE COUNTS TOMB BANSHEE",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
+        "backorder": "",
+        "oldprice": "2,343円",
+        "newprice": "1,890円",
+        "diff": 453
     },
     {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
@@ -3744,19 +3728,19 @@
         "diff": 6
     },
     {
-        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
-        "backorder": "",
-        "oldprice": "4,686円",
-        "newprice": "4,680円",
-        "diff": 6
-    },
-    {
         "name": "WHU: EYES OF THE NINE DICE PACK [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001004099384/",
         "backorder": "",
         "oldprice": "1,426円",
         "newprice": "1,420円",
+        "diff": 6
+    },
+    {
+        "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+        "backorder": "",
+        "oldprice": "4,686円",
+        "newprice": "4,680円",
         "diff": 6
     },
     {
@@ -4989,6 +4973,14 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
+        "diff": 3
+    },
+    {
+        "name": "CITADEL MEDIUM TEXTURE SPREADER",
+        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
+        "backorder": "お取り寄せ",
+        "oldprice": "1,223円",
+        "newprice": "1,220円",
         "diff": 3
     },
     {
