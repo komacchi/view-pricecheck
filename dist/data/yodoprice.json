@@ -736,14 +736,6 @@
         "diff": 509
     },
     {
-        "name": "VAMPIRE COUNTS TOMB BANSHEE",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194016/",
-        "backorder": "",
-        "oldprice": "2,343円",
-        "newprice": "1,890円",
-        "diff": 453
-    },
-    {
         "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
         "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
         "backorder": "",
@@ -894,14 +886,6 @@
         "oldprice": "5,908円",
         "newprice": "5,700円",
         "diff": 208
-    },
-    {
-        "name": "MIDDENLAND TUFTS",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194099/",
-        "backorder": "",
-        "oldprice": "1,153円",
-        "newprice": "980円",
-        "diff": 173
     },
     {
         "name": "DEATHWATCH KILL TEAM [プラモデル]",
@@ -2344,14 +2328,6 @@
         "diff": 9
     },
     {
-        "name": "TECHNICAL： LAHMIAN MEDIUM （24ML） [シタデル テクニカル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004468941/",
-        "backorder": "",
-        "oldprice": "1,059円",
-        "newprice": "1,050円",
-        "diff": 9
-    },
-    {
         "name": "B/STONE FORTRESS： TRAITOR COMMAND ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004637242/",
         "backorder": "",
@@ -3224,14 +3200,6 @@
         "diff": 7
     },
     {
-        "name": "GLOOMSPITE GITZ GOBBAPALOOZA",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004217802/",
-        "backorder": "",
-        "oldprice": "7,027円",
-        "newprice": "7,020円",
-        "diff": 7
-    },
-    {
         "name": "MIDDLE-EARTH SBG： GONDOR AT WAR (ENG)",
         "itemUrl": "https://www.yodobashi.com/product/100000001004224658/",
         "backorder": "",
@@ -3728,19 +3696,19 @@
         "diff": 6
     },
     {
-        "name": "WHU: EYES OF THE NINE DICE PACK [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099384/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "1,420円",
-        "diff": 6
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "WHU: EYES OF THE NINE DICE PACK [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099384/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "1,420円",
         "diff": 6
     },
     {
@@ -4266,7 +4234,7 @@
     {
         "name": "START COLLECTING! IRONJAWZ [プラモデル]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003769165/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "14,055円",
         "newprice": "14,050円",
         "diff": 5
