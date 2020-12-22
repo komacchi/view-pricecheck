@@ -256,14 +256,6 @@
         "diff": 1843
     },
     {
-        "name": "MILITARUM TEMPESTUS SCIONS [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003769109/",
-        "backorder": "",
-        "oldprice": "5,296円",
-        "newprice": "3,660円",
-        "diff": 1636
-    },
-    {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
@@ -3704,19 +3696,19 @@
         "diff": 6
     },
     {
-        "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
-        "backorder": "",
-        "oldprice": "1,426円",
-        "newprice": "1,420円",
-        "diff": 6
-    },
-    {
         "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
         "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
         "backorder": "",
         "oldprice": "4,686円",
         "newprice": "4,680円",
+        "diff": 6
+    },
+    {
+        "name": "WHITE DWARF OCTOBER 2018 （JAPANESE） [プラモデル用品]",
+        "itemUrl": "https://www.yodobashi.com/product/100000001004099366/",
+        "backorder": "",
+        "oldprice": "1,426円",
+        "newprice": "1,420円",
         "diff": 6
     },
     {
@@ -4960,14 +4952,6 @@
         "diff": 3
     },
     {
-        "name": "CITADEL MEDIUM TEXTURE SPREADER",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194776/",
-        "backorder": "お取り寄せ",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
-        "diff": 3
-    },
-    {
         "name": "CITADEL LARGE DRYBRUSH",
         "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
         "backorder": "",
@@ -5558,14 +5542,6 @@
         "oldprice": "5,093円",
         "newprice": "5,090円",
         "diff": 3
-    },
-    {
-        "name": "BLOOD BOWL OGRE [プラモデル]",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003463468/",
-        "backorder": "",
-        "oldprice": "2,852円",
-        "newprice": "2,850円",
-        "diff": 2
     },
     {
         "name": "TYRANID TYRANNOFEX / TERVIGON [WARHAMMER 40,000]",
