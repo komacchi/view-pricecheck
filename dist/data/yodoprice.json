@@ -40,14 +40,6 @@
         "diff": 2220
     },
     {
-        "name": "CALIBAN GREEN SPRAY",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194771/",
-        "backorder": "",
-        "oldprice": "2,546円",
-        "newprice": "980円",
-        "diff": 1566
-    },
-    {
         "name": "ウォーハンマー：Chaosbane [PS4ソフト]",
         "itemUrl": "https://www.yodobashi.com/product/100000001005194840/",
         "backorder": "",
@@ -2826,7 +2818,7 @@
     {
         "name": "CITADEL PAINT BOX",
         "itemUrl": "https://www.yodobashi.com/product/100000001004177958/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "7,027円",
         "newprice": "7,020円",
         "diff": 7
@@ -3330,7 +3322,7 @@
     {
         "name": "AOS BATTLETOME： NIGHTHAUNT SB JP [プラモデル用品]",
         "itemUrl": "https://www.yodobashi.com/product/100000001003934434/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "4,686円",
         "newprice": "4,680円",
         "diff": 6
@@ -3754,7 +3746,7 @@
     {
         "name": "BLOOD BOWL： THE ATHELORN AVENGERS",
         "itemUrl": "https://www.yodobashi.com/product/100000001004691620/",
-        "backorder": "",
+        "backorder": "お取り寄せ",
         "oldprice": "5,296円",
         "newprice": "5,290円",
         "diff": 6
@@ -4298,7 +4290,7 @@
     {
         "name": "WARHAMMER 40000： KILL TEAM JAPANESE",
         "itemUrl": "https://www.yodobashi.com/product/100000001005082601/",
-        "backorder": "お取り寄せ",
+        "backorder": "",
         "oldprice": "22,305円",
         "newprice": "22,300円",
         "diff": 5
@@ -4637,14 +4629,6 @@
         "backorder": "",
         "oldprice": "2,343円",
         "newprice": "2,340円",
-        "diff": 3
-    },
-    {
-        "name": "CITADEL LARGE DRYBRUSH",
-        "itemUrl": "https://www.yodobashi.com/product/100000001003194080/",
-        "backorder": "",
-        "oldprice": "1,223円",
-        "newprice": "1,220円",
         "diff": 3
     },
     {
