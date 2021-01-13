@@ -10,7 +10,7 @@
                th.price ステータス
                th.price(nowrap) 新しい価格
           tbody
-            tr(v-for="list in lists" :key="list.index" v-if="list.diff > 100")
+            tr(v-for="list in lists" :key="list.index")
               td
                 a(:href='list.itemUrl', target='_blank') {{list.name}}
               td.price.has-text-danger {{list.backorder}}
