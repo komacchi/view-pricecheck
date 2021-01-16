@@ -24,18 +24,6 @@
     "newprice": "4,180円"
   },
   {
-    "name": "AOS NIGHTHAUNT GRIMGHAST REAPERS [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003934441/",
-    "backorder": "",
-    "newprice": "4,180円"
-  },
-  {
-    "name": "THOUSAND SONS SCARAB OCCULT TERMINATORS [WARHAMMER 40,000]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003382968/",
-    "backorder": "",
-    "newprice": "5,380円"
-  },
-  {
     "name": "THOUSAND SONS EXALTED SORCERERS [WARHAMMER 40,000]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003382970/",
     "backorder": "",
@@ -58,6 +46,18 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001003193979/",
     "backorder": "",
     "newprice": "3,480円"
+  },
+  {
+    "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
+    "backorder": "",
+    "newprice": "3,880円"
+  },
+  {
+    "name": "DOMINION OF SIGMAR: PENUMBRAL STORMVAULT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005222588/",
+    "backorder": "",
+    "newprice": "11,380円"
   },
   {
     "name": "WH UNDERWORLDS: BEASTGRAVE DECK BOX",
@@ -118,12 +118,6 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001004620115/",
     "backorder": "",
     "newprice": "15,080円"
-  },
-  {
-    "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620129/",
-    "backorder": "",
-    "newprice": "6,880円"
   },
   {
     "name": "DOMINION OF SIGMAR: SHATTERED TEMPLE",
@@ -282,28 +276,28 @@
     "newprice": "6,880円"
   },
   {
-    "name": "ADEPTUS TITANICUS： CERASTUS KNIGHTS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004177954/",
-    "backorder": "",
-    "newprice": "3,080円"
-  },
-  {
     "name": "KHARN THE BETRAYER",
     "itemUrl": "https://www.yodobashi.com/product/100000001004155625/",
     "backorder": "",
     "newprice": "3,480円"
   },
   {
+    "name": "SPACE MARINES OUTRIDERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868769/",
+    "backorder": "",
+    "newprice": "5,380円"
+  },
+  {
+    "name": "SPACE WOLVES HOUNDS OF MORKAI",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868772/",
+    "backorder": "",
+    "newprice": "4,180円"
+  },
+  {
     "name": "ADEPTUS TITANICUS WARHOUND SCOUT TITANS [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001004099379/",
     "backorder": "",
     "newprice": "6,080円"
-  },
-  {
-    "name": "LOTR： MORDOR ORCS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004036388/",
-    "backorder": "",
-    "newprice": "4,080円"
   },
   {
     "name": "MORANNON ORCS",
@@ -322,18 +316,6 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001004036400/",
     "backorder": "",
     "newprice": "5,680円"
-  },
-  {
-    "name": "SPACE MARINES OUTRIDERS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005868769/",
-    "backorder": "",
-    "newprice": "5,380円"
-  },
-  {
-    "name": "SPACE WOLVES HOUNDS OF MORKAI",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005868772/",
-    "backorder": "",
-    "newprice": "4,180円"
   },
   {
     "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
@@ -532,17 +514,5 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001005313441/",
     "backorder": "",
     "newprice": "3,980円"
-  },
-  {
-    "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
-    "backorder": "",
-    "newprice": "3,880円"
-  },
-  {
-    "name": "DOMINION OF SIGMAR: PENUMBRAL STORMVAULT",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005222588/",
-    "backorder": "",
-    "newprice": "11,380円"
   }
 ]
