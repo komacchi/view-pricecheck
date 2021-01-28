@@ -1,11 +1,5 @@
 [
   {
-    "name": "AOS ETB NIGHTHAUNT DREADBLADE HARROWS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003949455/",
-    "backorder": "",
-    "newprice": "2,850円"
-  },
-  {
     "name": "STORMCAST ETERNALS GRYPH-HOUNDS [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003448576/",
     "backorder": "",
@@ -16,6 +10,12 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001003605589/",
     "backorder": "",
     "newprice": "490円"
+  },
+  {
+    "name": "SLAVES TO DARKNESS： IRON GOLEM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005313424/",
+    "backorder": "",
+    "newprice": "7,520円"
   },
   {
     "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
@@ -100,6 +100,12 @@
     "itemUrl": "https://www.yodobashi.com/product/100000001004155618/",
     "backorder": "",
     "newprice": "5,620円"
+  },
+  {
+    "name": "ORKS SPEARHEAD DETACHMENT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620113/",
+    "backorder": "",
+    "newprice": "18,740円"
   },
   {
     "name": "SPACE MARINES GLADIATOR",
@@ -204,9 +210,9 @@
     "newprice": "5,600円"
   },
   {
-    "name": "SLAVES TO DARKNESS： IRON GOLEM",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005313424/",
+    "name": "T'AU EMPIRE VANGUARD DETACHMENT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620125/",
     "backorder": "",
-    "newprice": "7,520円"
+    "newprice": "18,740円"
   }
 ]
