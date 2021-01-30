@@ -7,13 +7,6 @@
     "sort": 20070
   },
   {
-    "name": "ORKS SPEARHEAD DETACHMENT",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620113/",
-    "backorder": "",
-    "newprice": "18,740円",
-    "sort": 18740
-  },
-  {
     "name": "COMBAT PATROL： SPACE WOLVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001005868775/",
     "backorder": "",
@@ -40,6 +33,13 @@
     "backorder": "",
     "newprice": "15,080円",
     "sort": 15080
+  },
+  {
+    "name": "START COLLECTING！ T'AU EMPIRE [キャラクタープラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003692206/",
+    "backorder": "",
+    "newprice": "14,050円",
+    "sort": 14050
   },
   {
     "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
@@ -70,6 +70,13 @@
     "sort": 11380
   },
   {
+    "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620129/",
+    "backorder": "",
+    "newprice": "10,590円",
+    "sort": 10590
+  },
+  {
     "name": "START COLLECTING！ IDONETH DEEPKIN",
     "itemUrl": "https://www.yodobashi.com/product/100000001004233602/",
     "backorder": "",
@@ -84,6 +91,13 @@
     "sort": 9370
   },
   {
+    "name": "CHAOS SPACE MARINES VEX MACHINATOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004344973/",
+    "backorder": "",
+    "newprice": "9,370円",
+    "sort": 9370
+  },
+  {
     "name": "B/ZONE MANUFACT.： SANCTUM ADMINISTRATUS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005831948/",
     "backorder": "",
@@ -91,11 +105,11 @@
     "sort": 9360
   },
   {
-    "name": "AGE OF SIGMAR TEMPEST OF SOULS EN",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003949449/",
+    "name": "SPACE MARINES GLADIATOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005906413/",
     "backorder": "",
-    "newprice": "8,150円",
-    "sort": 8150
+    "newprice": "9,360円",
+    "sort": 9360
   },
   {
     "name": "SLAVES TO DARKNESS： IRON GOLEM",
@@ -161,6 +175,20 @@
     "sort": 6600
   },
   {
+    "name": "GLOOMSPITE GITZ： BAD MOON LOONSHRINE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217786/",
+    "backorder": "",
+    "newprice": "6,600円",
+    "sort": 6600
+  },
+  {
+    "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
+    "backorder": "",
+    "newprice": "6,410円",
+    "sort": 6410
+  },
+  {
     "name": "NECRONS OPHYDIAN DESTROYERS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005855086/",
     "backorder": "",
@@ -201,6 +229,20 @@
     "backorder": "",
     "newprice": "6,080円",
     "sort": 6080
+  },
+  {
+    "name": "KHARADRON OVERLORDS SKYRIGGERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003556277/",
+    "backorder": "",
+    "newprice": "5,900円",
+    "sort": 5900
+  },
+  {
+    "name": "THE THREE HUNTERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224659/",
+    "backorder": "",
+    "newprice": "5,900円",
+    "sort": 5900
   },
   {
     "name": "40K KILL TEAM FANGS OF ULFRICH JP",
@@ -271,6 +313,13 @@
     "backorder": "",
     "newprice": "5,380円",
     "sort": 5380
+  },
+  {
+    "name": "FANE OF SLAANESH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
+    "backorder": "",
+    "newprice": "5,290円",
+    "sort": 5290
   },
   {
     "name": "THOUSAND SONS RUBRIC MARINES [WARHAMMER 40,000]",
@@ -366,13 +415,6 @@
   {
     "name": "ADEPTUS TITANICUS CIVITAS IMPERIALIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001003997672/",
-    "backorder": "",
-    "newprice": "4,180円",
-    "sort": 4180
-  },
-  {
-    "name": "T'AU EMPIRE： COMMANDER SHADOWSUN",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005489724/",
     "backorder": "",
     "newprice": "4,180円",
     "sort": 4180
@@ -476,11 +518,39 @@
     "sort": 3780
   },
   {
+    "name": "DRUKHARI DRAZHAR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005527565/",
+    "backorder": "",
+    "newprice": "3,780円",
+    "sort": 3780
+  },
+  {
+    "name": "SPACE MARINES： FIRESTRIKE SERVO-TURRET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005837387/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
     "name": "DAEMONS OF KHORNE BLOODLETTERS [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003769167/",
     "backorder": "",
     "newprice": "3,750円",
     "sort": 3750
+  },
+  {
+    "name": "CHAOS S/M： HAARKEN WORLDCLAIMER",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004197261/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "AOS ETB NIGHTHAUNT DREADBLADE HARROWS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949455/",
+    "backorder": "",
+    "newprice": "3,560円",
+    "sort": 3560
   },
   {
     "name": "ADEPTUS MECHANICUS TECH-PRIEST DOMINUS [WARHAMMER 40,000]",
@@ -493,6 +563,13 @@
     "name": "NECROMUNDA BARRICADES AND OBJECTIVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001003745733/",
     "backorder": "",
+    "newprice": "3,480円",
+    "sort": 3480
+  },
+  {
+    "name": "ADEPTUS MECHANICUS TECH-PRIEST MANIPULUS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005644972/",
+    "backorder": "お取り寄せ",
     "newprice": "3,480円",
     "sort": 3480
   },
@@ -642,6 +719,13 @@
     "backorder": "",
     "newprice": "2,480円",
     "sort": 2480
+  },
+  {
+    "name": "S/M ULTRAMARINES PRIMARIS UPGRADES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003649606/",
+    "backorder": "",
+    "newprice": "2,340円",
+    "sort": 2340
   },
   {
     "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
