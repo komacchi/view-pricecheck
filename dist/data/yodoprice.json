@@ -56,13 +56,6 @@
     "sort": 11380
   },
   {
-    "name": "DOMINION OF SIGMAR: PENUMBRAL STORMVAULT",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005222588/",
-    "backorder": "",
-    "newprice": "11,380円",
-    "sort": 11380
-  },
-  {
     "name": "START COLLECTING！ IDONETH DEEPKIN",
     "itemUrl": "https://www.yodobashi.com/product/100000001004233602/",
     "backorder": "",
@@ -462,13 +455,6 @@
     "sort": 3750
   },
   {
-    "name": "NECROMUNDA BARRICADES AND OBJECTIVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003745733/",
-    "backorder": "",
-    "newprice": "3,480円",
-    "sort": 3480
-  },
-  {
     "name": "LORD-CELESTANT GAVRIEL SUREHEART",
     "itemUrl": "https://www.yodobashi.com/product/100000001003776668/",
     "backorder": "",
@@ -544,6 +530,13 @@
     "backorder": "",
     "newprice": "2,700円",
     "sort": 2700
+  },
+  {
+    "name": "GLOOMSPITE GITZ LOONBOSS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217803/",
+    "backorder": "",
+    "newprice": "2,680円",
+    "sort": 2680
   },
   {
     "name": "GENESTEALER CULTS CLAMAVUS",
