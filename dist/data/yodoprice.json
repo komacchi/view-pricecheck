@@ -315,20 +315,6 @@
     "sort": 3980
   },
   {
-    "name": "BLOOD BOWL： OGRE TEAM PITCH & DUGOUTS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005313441/",
-    "backorder": "",
-    "newprice": "3,980円",
-    "sort": 3980
-  },
-  {
-    "name": "Haemotrope Reactor",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003355914/",
-    "backorder": "",
-    "newprice": "3,880円",
-    "sort": 3880
-  },
-  {
     "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
     "backorder": "",
@@ -483,6 +469,55 @@
     "sort": 3080
   },
   {
+    "name": "BATTLETOME： GLOOMSPITE GITZ (HB) (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217792/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "BATTLETOME： FLESH-EATER COURTS (HB) ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252352/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "CODEX： CHAOS SPACE MARINES 2 (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004330403/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "BATTLETOME：HEDONITES OF SLAANESH HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396212/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "B/TOME： OSSIARCH BONEREAPERS HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005211965/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
+    "name": "BATTLETOME： OGOR MAWTRIBES HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005211971/",
+    "backorder": "",
+    "newprice": "3,060円",
+    "sort": 3060
+  },
+  {
     "name": "40K LIB CODEX： NECRONS HB ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
     "backorder": "",
@@ -574,18 +609,18 @@
     "sort": 2300
   },
   {
-    "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620110/",
-    "backorder": "",
-    "newprice": "2,280円",
-    "sort": 2280
-  },
-  {
     "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
     "backorder": "",
     "newprice": "2,280円",
     "sort": 2280
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620110/",
+    "backorder": "",
+    "newprice": "2,060円",
+    "sort": 2060
   },
   {
     "name": "AGE OF SIGMAR： PATH TO GLORY (ENGLISH)",
@@ -728,22 +763,8 @@
     "sort": 1000
   },
   {
-    "name": "WHU： LADY HARROW'S MOURNFLIGHT SLEEVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005250346/",
-    "backorder": "",
-    "newprice": "1,000円",
-    "sort": 1000
-  },
-  {
     "name": "WARSCROLLS： KHARADRON OVERLORDS (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003514890/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "WARSCROLL CARDS：SYLVANETH (ENG) [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003658693/",
     "backorder": "",
     "newprice": "980円",
     "sort": 980
@@ -777,57 +798,8 @@
     "sort": 980
   },
   {
-    "name": "APOCALYPSE D/SHEETS： CHAOS S/MARINES ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620112/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： ORKS  ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620114/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： AELDARI  ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620116/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： A/MILITARUM ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620119/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
     "name": "APOC D/SHTS： TYRANIDS + GENE CULTS  ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620121/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： NECRONS  ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620124/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： T'AU EMPIRE  ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620126/",
-    "backorder": "",
-    "newprice": "980円",
-    "sort": 980
-  },
-  {
-    "name": "APOCALYPSE DATASHEETS： CHAOS DAEMONS ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620127/",
     "backorder": "",
     "newprice": "980円",
     "sort": 980
@@ -849,6 +821,13 @@
   {
     "name": "Citadel Layer RUNELORD BRASS [アクリル系塗料 12ml]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003194475/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "WARSCROLL CARDS：SYLVANETH (ENG) [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003658693/",
     "backorder": "",
     "newprice": "500円",
     "sort": 500
@@ -919,6 +898,62 @@
   {
     "name": "WARSCROLLS： HEDONITES OF SLAANESH ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001004396214/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE D/SHEETS： CHAOS S/MARINES ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620112/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： ORKS  ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620114/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： AELDARI  ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620116/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： A/MILITARUM ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620119/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： NECRONS  ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620124/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： T'AU EMPIRE  ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620126/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "APOCALYPSE DATASHEETS： CHAOS DAEMONS ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620127/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
+  },
+  {
+    "name": "WHU： LADY HARROW'S MOURNFLIGHT SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005250346/",
     "backorder": "",
     "newprice": "500円",
     "sort": 500
