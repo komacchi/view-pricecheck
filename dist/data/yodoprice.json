@@ -609,13 +609,6 @@
     "sort": 1500
   },
   {
-    "name": "40K LIB DATACARDS： DRUKHARI ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
-    "backorder": "",
-    "newprice": "1,500円",
-    "sort": 1500
-  },
-  {
     "name": "DATACARDS： ASTRA MILITARUM (ENGLISH)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003703250/",
     "backorder": "",
@@ -665,13 +658,6 @@
     "sort": 1000
   },
   {
-    "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
-    "backorder": "",
-    "newprice": "1,000円",
-    "sort": 1000
-  },
-  {
     "name": "WHU： THE GRYMWATCH PREMIUM SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001005174524/",
     "backorder": "",
@@ -707,6 +693,13 @@
     "sort": 980
   },
   {
+    "name": "40K LIB DATACARDS： DRUKHARI ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
+    "backorder": "",
+    "newprice": "980円",
+    "sort": 980
+  },
+  {
     "name": "WARSCROLL CARDS： FYRESLAYERS (JAPANESE)",
     "itemUrl": "https://www.yodobashi.com/product/100000001004364227/",
     "backorder": "",
@@ -719,6 +712,13 @@
     "backorder": "",
     "newprice": "980円",
     "sort": 980
+  },
+  {
+    "name": "DATACARDS： CHAOS DAEMONS (ENGLISH) [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003788392/",
+    "backorder": "",
+    "newprice": "800円",
+    "sort": 800
   },
   {
     "name": "WH UNDERWORLDS: BEASTGRAVE DECK BOX",
