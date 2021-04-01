@@ -7,6 +7,13 @@
     "sort": 16000
   },
   {
+    "name": "COMBAT PATROL： DEATHWATCH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868779/",
+    "backorder": "",
+    "newprice": "16,000円",
+    "sort": 16000
+  },
+  {
     "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
     "backorder": "",
@@ -245,6 +252,13 @@
     "sort": 4180
   },
   {
+    "name": "LOTR： MORDOR TROLL / ISENGARD TROLL",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004036398/",
+    "backorder": "",
+    "newprice": "3,980円",
+    "sort": 3980
+  },
+  {
     "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
     "backorder": "",
@@ -271,13 +285,6 @@
     "backorder": "",
     "newprice": "3,880円",
     "sort": 3880
-  },
-  {
-    "name": "FLESH-EATER COURTS CHARNEL THRONE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004252354/",
-    "backorder": "",
-    "newprice": "3,780円",
-    "sort": 3780
   },
   {
     "name": "CRAFTWORLDS JAIN ZAR",
@@ -357,6 +364,13 @@
     "sort": 3280
   },
   {
+    "name": "AOS STORMCAST PAINT SET JP",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949457/",
+    "backorder": "",
+    "newprice": "3,260円",
+    "sort": 3260
+  },
+  {
     "name": "PRIMARIS LIEUTENANT IN PHOBOS ARMOUR",
     "itemUrl": "https://www.yodobashi.com/product/100000001005135038/",
     "backorder": "",
@@ -415,6 +429,13 @@
   {
     "name": "GENESTEALER CULTS NEXOS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004242684/",
+    "backorder": "",
+    "newprice": "2,680円",
+    "sort": 2680
+  },
+  {
+    "name": "GENESTEALER CULTS BIOPHAGUS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252338/",
     "backorder": "",
     "newprice": "2,680円",
     "sort": 2680
@@ -527,6 +548,13 @@
   {
     "name": "DATACARDS： DARK ANGELS (ENGLISH)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003765896/",
+    "backorder": "",
+    "newprice": "1,000円",
+    "sort": 1000
+  },
+  {
+    "name": "BATTLETOME: ORRUK WARCLANS HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005159317/",
     "backorder": "",
     "newprice": "1,000円",
     "sort": 1000
