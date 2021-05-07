@@ -119,13 +119,6 @@
     "sort": 6000
   },
   {
-    "name": "IRONJAWZ ORRUK BRUTES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004155618/",
-    "backorder": "",
-    "newprice": "6,000円",
-    "sort": 6000
-  },
-  {
     "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
     "backorder": "",
@@ -443,6 +436,13 @@
   {
     "name": "BASE： DEATH GUARD GREEN 12mL",
     "itemUrl": "https://www.yodobashi.com/product/100000001003605589/",
+    "backorder": "",
+    "newprice": "600円",
+    "sort": 600
+  },
+  {
+    "name": "WH UNDERWORLDS: BEASTGRAVE DECK BOX",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150929/",
     "backorder": "",
     "newprice": "600円",
     "sort": 600
