@@ -14,6 +14,20 @@
     "sort": 17000
   },
   {
+    "name": "COMBAT PATROL： DRUKHARI",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006041892/",
+    "backorder": "",
+    "newprice": "17,000円",
+    "sort": 17000
+  },
+  {
+    "name": "KNIGHT PRECEPTOR CANIS REX",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
+    "backorder": "",
+    "newprice": "14,300円",
+    "sort": 14300
+  },
+  {
     "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
     "backorder": "",
@@ -35,6 +49,13 @@
     "sort": 12200
   },
   {
+    "name": "BROKEN REALMS： THE BLOODSURF HUNT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005875455/",
+    "backorder": "",
+    "newprice": "11,100円",
+    "sort": 11100
+  },
+  {
     "name": "AD/TITANICUS CIVITAS IMPERIALIS SECTOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001003997673/",
     "backorder": "",
@@ -47,6 +68,13 @@
     "backorder": "",
     "newprice": "9,100円",
     "sort": 9100
+  },
+  {
+    "name": "CHAOS SPACE MARINES VEX MACHINATOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004344973/",
+    "backorder": "",
+    "newprice": "8,000円",
+    "sort": 8000
   },
   {
     "name": "B/ZONE MANUFACT.： SANCTUM ADMINISTRATUS",
@@ -112,6 +140,13 @@
     "sort": 6000
   },
   {
+    "name": "IRONJAWZ ORRUK BRUTES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004155618/",
+    "backorder": "",
+    "newprice": "6,000円",
+    "sort": 6000
+  },
+  {
     "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
     "backorder": "",
@@ -159,13 +194,6 @@
     "backorder": "",
     "newprice": "5,500円",
     "sort": 5500
-  },
-  {
-    "name": "NECRONS OPHYDIAN DESTROYERS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005855086/",
-    "backorder": "",
-    "newprice": "5,300円",
-    "sort": 5300
   },
   {
     "name": "40K KILL TEAM FANGS OF ULFRICH JP",
@@ -243,6 +271,13 @@
     "backorder": "",
     "newprice": "4,100円",
     "sort": 4100
+  },
+  {
+    "name": "IRONJAWZ ORRUK WEIRDNOB SHAMAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004155624/",
+    "backorder": "",
+    "newprice": "4,000円",
+    "sort": 4000
   },
   {
     "name": "NECRONS PSYCHOMANCER",
