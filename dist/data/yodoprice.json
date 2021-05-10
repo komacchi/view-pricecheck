@@ -1,12 +1,5 @@
 [
   {
-    "name": "CITADEL ’ARD CASE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003235339/",
-    "backorder": "",
-    "newprice": "17,060円",
-    "sort": 17060
-  },
-  {
     "name": "COMBAT PATROL: DARK ANGELS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005971264/",
     "backorder": "",
@@ -19,6 +12,13 @@
     "backorder": "",
     "newprice": "17,000円",
     "sort": 17000
+  },
+  {
+    "name": "CITADEL ’ARD CASE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003235339/",
+    "backorder": "",
+    "newprice": "16,200円",
+    "sort": 16200
   },
   {
     "name": "KNIGHT PRECEPTOR CANIS REX",
@@ -65,13 +65,6 @@
   {
     "name": "CHAOS SPACE MARINES VEX MACHINATOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001004344973/",
-    "backorder": "",
-    "newprice": "8,000円",
-    "sort": 8000
-  },
-  {
-    "name": "B/ZONE MANUFACT.： SANCTUM ADMINISTRATUS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005831948/",
     "backorder": "",
     "newprice": "8,000円",
     "sort": 8000
@@ -149,13 +142,6 @@
   {
     "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
-    "backorder": "",
-    "newprice": "6,000円",
-    "sort": 6000
-  },
-  {
-    "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
