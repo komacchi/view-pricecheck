@@ -70,6 +70,13 @@
     "sort": 8000
   },
   {
+    "name": "B/ZONE MANUFACT.： SANCTUM ADMINISTRATUS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005831948/",
+    "backorder": "",
+    "newprice": "8,000円",
+    "sort": 8000
+  },
+  {
     "name": "SPACE MARINES STORM SPEEDER",
     "itemUrl": "https://www.yodobashi.com/product/100000001005971267/",
     "backorder": "",
@@ -133,15 +140,15 @@
     "sort": 6000
   },
   {
-    "name": "GLOOMSPITE GITZ SQUIG HOPPERS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004217788/",
+    "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
   },
   {
-    "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
+    "name": "AGE OF SIGMAR： AWAKENED WYLDWOOD",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691624/",
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
@@ -450,13 +457,6 @@
   {
     "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001004224660/",
-    "backorder": "",
-    "newprice": "500円",
-    "sort": 500
-  },
-  {
-    "name": "WH UNDERWORLDS： MOLLOG'S MOB DICE PACK",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004224669/",
     "backorder": "",
     "newprice": "500円",
     "sort": 500
