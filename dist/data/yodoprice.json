@@ -1,5 +1,12 @@
 [
   {
+    "name": "COMBAT PATROL： DRUKHARI",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006041892/",
+    "backorder": "",
+    "newprice": "17,000円",
+    "sort": 17000
+  },
+  {
     "name": "CITADEL ’ARD CASE",
     "itemUrl": "https://www.yodobashi.com/product/100000001003235339/",
     "backorder": "",
@@ -145,6 +152,13 @@
     "backorder": "",
     "newprice": "5,700円",
     "sort": 5700
+  },
+  {
+    "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
+    "backorder": "",
+    "newprice": "5,500円",
+    "sort": 5500
   },
   {
     "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
