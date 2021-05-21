@@ -70,6 +70,13 @@
     "sort": 8000
   },
   {
+    "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
+    "backorder": "",
+    "newprice": "7,480円",
+    "sort": 7480
+  },
+  {
     "name": "THOUSAND SONS SCARAB OCCULT TERMINATORS [WARHAMMER 40,000]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003382968/",
     "backorder": "",
@@ -100,13 +107,6 @@
   {
     "name": "TZEENTCH ARCANITES KAIRIC ACOLYTES [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003420261/",
-    "backorder": "",
-    "newprice": "6,000円",
-    "sort": 6000
-  },
-  {
-    "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
@@ -145,13 +145,6 @@
     "backorder": "",
     "newprice": "5,100円",
     "sort": 5100
-  },
-  {
-    "name": "WARHAMMER 40000： APOCALYPSE  ENGLISH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620101/",
-    "backorder": "",
-    "newprice": "4,980円",
-    "sort": 4980
   },
   {
     "name": "ULTRAMARINES CAPTAIN URIEL VENTRIS",
@@ -245,6 +238,13 @@
     "sort": 3280
   },
   {
+    "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
+    "backorder": "",
+    "newprice": "3,150円",
+    "sort": 3150
+  },
+  {
     "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
     "itemUrl": "https://www.yodobashi.com/product/100000001005059052/",
     "backorder": "",
@@ -287,11 +287,18 @@
     "sort": 2500
   },
   {
-    "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
+    "name": "NECROMUNDA： GANG WAR 1 (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003745738/",
     "backorder": "",
-    "newprice": "2,300円",
-    "sort": 2300
+    "newprice": "2,170円",
+    "sort": 2170
+  },
+  {
+    "name": "NECROMUNDA： GANG WAR 2 (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003820183/",
+    "backorder": "",
+    "newprice": "2,170円",
+    "sort": 2170
   },
   {
     "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
@@ -301,67 +308,53 @@
     "sort": 2060
   },
   {
-    "name": "NECROMUNDA： GANG WAR 1 (ENGLISH)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003745738/",
-    "backorder": "",
-    "newprice": "1,700円",
-    "sort": 1700
-  },
-  {
-    "name": "NECROMUNDA： GANG WAR 2 (ENGLISH)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003820183/",
-    "backorder": "",
-    "newprice": "1,700円",
-    "sort": 1700
-  },
-  {
-    "name": "DATACARDS： ASTRA MILITARUM (ENGLISH)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003703250/",
-    "backorder": "",
-    "newprice": "1,400円",
-    "sort": 1400
-  },
-  {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
     "backorder": "",
-    "newprice": "1,400円",
-    "sort": 1400
-  },
-  {
-    "name": "DATACARDS： GENESTEALER CULTS ENGLISH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004242680/",
-    "backorder": "",
-    "newprice": "1,400円",
-    "sort": 1400
-  },
-  {
-    "name": "DATACARDS： CHAOS SPACE MARINES 2 (ENG)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004330404/",
-    "backorder": "",
-    "newprice": "1,400円",
-    "sort": 1400
+    "newprice": "1,900円",
+    "sort": 1900
   },
   {
     "name": "APOCALYPSE COMMAND ASSETS  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620102/",
     "backorder": "",
-    "newprice": "1,400円",
-    "sort": 1400
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
+    "name": "DATACARDS： ASTRA MILITARUM (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003703250/",
+    "backorder": "",
+    "newprice": "1,490円",
+    "sort": 1490
   },
   {
     "name": "DATACARDS： BLOOD ANGELS (ENGLISH)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003760501/",
     "backorder": "",
-    "newprice": "1,000円",
-    "sort": 1000
+    "newprice": "1,490円",
+    "sort": 1490
   },
   {
     "name": "DATACARDS： DARK ANGELS (ENGLISH)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003765896/",
     "backorder": "",
-    "newprice": "1,000円",
-    "sort": 1000
+    "newprice": "1,490円",
+    "sort": 1490
+  },
+  {
+    "name": "DATACARDS： GENESTEALER CULTS ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004242680/",
+    "backorder": "",
+    "newprice": "1,490円",
+    "sort": 1490
+  },
+  {
+    "name": "DATACARDS： CHAOS SPACE MARINES 2 (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004330404/",
+    "backorder": "",
+    "newprice": "1,490円",
+    "sort": 1490
   },
   {
     "name": "WHU： THE GRYMWATCH PREMIUM SLEEVES",
@@ -371,38 +364,24 @@
     "sort": 1000
   },
   {
-    "name": "BASE： DEATH GUARD GREEN 12mL",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003605589/",
+    "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224660/",
     "backorder": "",
-    "newprice": "600円",
-    "sort": 600
+    "newprice": "660円",
+    "sort": 660
   },
   {
     "name": "WH UNDERWORLDS: BEASTGRAVE DECK BOX",
     "itemUrl": "https://www.yodobashi.com/product/100000001005150929/",
     "backorder": "",
+    "newprice": "660円",
+    "sort": 660
+  },
+  {
+    "name": "BASE： DEATH GUARD GREEN 12mL",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003605589/",
+    "backorder": "",
     "newprice": "600円",
     "sort": 600
-  },
-  {
-    "name": "40K LIB DATACARDS： NECRONS ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003854764/",
-    "backorder": "",
-    "newprice": "500円",
-    "sort": 500
-  },
-  {
-    "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004224660/",
-    "backorder": "",
-    "newprice": "500円",
-    "sort": 500
-  },
-  {
-    "name": "WHU： LADY HARROW'S MOURNFLIGHT SLEEVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005250346/",
-    "backorder": "",
-    "newprice": "500円",
-    "sort": 500
   }
 ]
