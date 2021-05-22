@@ -1,5 +1,19 @@
 [
   {
+    "name": "IDONETH DEEPKIN DEEPSURGE RAIDING PARTY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004194381/",
+    "backorder": "",
+    "newprice": "21,080円",
+    "sort": 21080
+  },
+  {
+    "name": "ADEPTUS MECHANICUS VANGUARD DETACHMENT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620128/",
+    "backorder": "",
+    "newprice": "21,080円",
+    "sort": 21080
+  },
+  {
     "name": "CITADEL ’ARD CASE",
     "itemUrl": "https://www.yodobashi.com/product/100000001003235339/",
     "backorder": "",
@@ -21,6 +35,13 @@
     "sort": 13600
   },
   {
+    "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
+    "backorder": "",
+    "newprice": "12,650円",
+    "sort": 12650
+  },
+  {
     "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
     "backorder": "",
@@ -35,6 +56,13 @@
     "sort": 11100
   },
   {
+    "name": "SPACE MARINES PRIMARIS REPULSOR [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003640636/",
+    "backorder": "",
+    "newprice": "10,540円",
+    "sort": 10540
+  },
+  {
     "name": "AD/TITANICUS CIVITAS IMPERIALIS SECTOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001003997673/",
     "backorder": "",
@@ -47,6 +75,13 @@
     "backorder": "",
     "newprice": "9,100円",
     "sort": 9100
+  },
+  {
+    "name": "SLAVES TO DARKNESS： CYPHER LORDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005313423/",
+    "backorder": "",
+    "newprice": "8,460円",
+    "sort": 8460
   },
   {
     "name": "CHAOS SPACE MARINES VEX MACHINATOR",
@@ -70,11 +105,32 @@
     "sort": 8000
   },
   {
+    "name": "SECTOR IMPERIALIS： MANUFACTORUM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
+    "backorder": "",
+    "newprice": "7,880円",
+    "sort": 7880
+  },
+  {
     "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
     "backorder": "",
     "newprice": "7,480円",
     "sort": 7480
+  },
+  {
+    "name": "SPACE MARINES PRIMARIS INTERCESSORS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003645351/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
+    "name": "SPACE MARINES PRIMARIS HELLBLASTERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003645352/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
   },
   {
     "name": "THOUSAND SONS SCARAB OCCULT TERMINATORS [WARHAMMER 40,000]",
@@ -98,6 +154,13 @@
     "sort": 7100
   },
   {
+    "name": "DAEMONS OF SLAANESH： FIENDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396209/",
+    "backorder": "",
+    "newprice": "6,320円",
+    "sort": 6320
+  },
+  {
     "name": "A.O.S： SEASON OF WAR： FIRESTORM (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003696571/",
     "backorder": "",
@@ -119,6 +182,20 @@
     "sort": 5700
   },
   {
+    "name": "BLOOD BOWL： IMPERIAL NOBILITY TEAM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063530/",
+    "backorder": "",
+    "newprice": "5,580円",
+    "sort": 5580
+  },
+  {
+    "name": "BLOOD BOWL： BLACK ORC TEAM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063533/",
+    "backorder": "",
+    "newprice": "5,580円",
+    "sort": 5580
+  },
+  {
     "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424377/",
     "backorder": "",
@@ -133,11 +210,39 @@
     "sort": 5500
   },
   {
+    "name": "GLOOMSPITE GITZ： FANATICS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217785/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
+    "name": "HARLEQUIN STARWEAVER [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003769127/",
+    "backorder": "",
+    "newprice": "5,130円",
+    "sort": 5130
+  },
+  {
     "name": "MORANNON ORCS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004036389/",
     "backorder": "",
     "newprice": "5,100円",
     "sort": 5100
+  },
+  {
+    "name": "SPACE MARINES PRIMARIS LIBRARIAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003614949/",
+    "backorder": "",
+    "newprice": "4,770円",
+    "sort": 4770
+  },
+  {
+    "name": "SPACE MARINES PRIMARIS CHAPLAIN [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003640635/",
+    "backorder": "",
+    "newprice": "4,770円",
+    "sort": 4770
   },
   {
     "name": "ULTRAMARINES CAPTAIN URIEL VENTRIS",
@@ -180,6 +285,27 @@
     "backorder": "",
     "newprice": "4,480円",
     "sort": 4480
+  },
+  {
+    "name": "JAKKOB BUGMANSSON XI： BREWMASTER GENERAL",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005875452/",
+    "backorder": "",
+    "newprice": "4,230円",
+    "sort": 4230
+  },
+  {
+    "name": "BLADES OF KHORNE： JUDGEMENTS OF KHORNE [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004326448/",
+    "backorder": "",
+    "newprice": "4,220円",
+    "sort": 4220
+  },
+  {
+    "name": "SPACE MARINES SCOUTS [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005837400/",
+    "backorder": "",
+    "newprice": "4,140円",
+    "sort": 4140
   },
   {
     "name": "DOMINION OF SIGMAR: SHATTERED TEMPLE",
@@ -273,6 +399,27 @@
     "sort": 3060
   },
   {
+    "name": "ENDLESS SPELLS： FLESH-EATER COURTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252355/",
+    "backorder": "",
+    "newprice": "3,050円",
+    "sort": 3050
+  },
+  {
+    "name": "SPACE MARINE LIBRARIAN [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003769097/",
+    "backorder": "",
+    "newprice": "2,840円",
+    "sort": 2840
+  },
+  {
+    "name": "WH UNDERWORLDS: BEASTGRAVE PLAYMAT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150928/",
+    "backorder": "",
+    "newprice": "2,570円",
+    "sort": 2570
+  },
+  {
     "name": "CRAFTWORLDS SPIRITSEER",
     "itemUrl": "https://www.yodobashi.com/product/100000001004691611/",
     "backorder": "",
@@ -294,8 +441,29 @@
     "sort": 2170
   },
   {
+    "name": "EASY TO BUILD S/M PRIMARIS INTERCESSORS [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003622191/",
+    "backorder": "",
+    "newprice": "2,110円",
+    "sort": 2110
+  },
+  {
+    "name": "EASY TO BUILD S/MARINES PRIMARIS REIVERS [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003622192/",
+    "backorder": "",
+    "newprice": "2,110円",
+    "sort": 2110
+  },
+  {
     "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620110/",
+    "backorder": "",
+    "newprice": "2,060円",
+    "sort": 2060
+  },
+  {
+    "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
     "backorder": "",
     "newprice": "2,060円",
     "sort": 2060
