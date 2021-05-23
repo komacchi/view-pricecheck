@@ -7,6 +7,13 @@
     "sort": 21080
   },
   {
+    "name": "ADEPTUS MECHANICUS VANGUARD DETACHMENT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620128/",
+    "backorder": "",
+    "newprice": "21,080円",
+    "sort": 21080
+  },
+  {
     "name": "CITADEL ’ARD CASE",
     "itemUrl": "https://www.yodobashi.com/product/100000001003235339/",
     "backorder": "",
@@ -107,6 +114,13 @@
   {
     "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
+    "backorder": "",
+    "newprice": "7,480円",
+    "sort": 7480
+  },
+  {
+    "name": "WARHAMMER 40000： APOCALYPSE  ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620101/",
     "backorder": "",
     "newprice": "7,480円",
     "sort": 7480
@@ -455,13 +469,6 @@
     "sort": 2060
   },
   {
-    "name": "WHITE SCAR PRIMARIS UPGRADES & TRANSFERS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004903816/",
-    "backorder": "",
-    "newprice": "2,060円",
-    "sort": 2060
-  },
-  {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
     "backorder": "",
@@ -497,6 +504,13 @@
     "sort": 1490
   },
   {
+    "name": "40K LIB DATACARDS： NECRONS ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003854764/",
+    "backorder": "",
+    "newprice": "1,490円",
+    "sort": 1490
+  },
+  {
     "name": "DATACARDS： GENESTEALER CULTS ENGLISH",
     "itemUrl": "https://www.yodobashi.com/product/100000001004242680/",
     "backorder": "",
@@ -516,6 +530,13 @@
     "backorder": "",
     "newprice": "1,000円",
     "sort": 1000
+  },
+  {
+    "name": "WHU： LADY HARROW'S MOURNFLIGHT SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005250346/",
+    "backorder": "",
+    "newprice": "980円",
+    "sort": 980
   },
   {
     "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
