@@ -1,10 +1,52 @@
 [
   {
+    "name": "ADEPTUS TITANICUS GRAND MASTER ED. （JPN）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003997674/",
+    "backorder": "",
+    "newprice": "32,240円",
+    "sort": 32240
+  },
+  {
     "name": "IDONETH DEEPKIN DEEPSURGE RAIDING PARTY",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194381/",
     "backorder": "",
     "newprice": "21,080円",
     "sort": 21080
+  },
+  {
+    "name": "LUMINETH REALM-LORDS LAUNCH SET (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005663864/",
+    "backorder": "",
+    "newprice": "20,720円",
+    "sort": 20720
+  },
+  {
+    "name": "CHAOS SPACE MARINES BATTALION DETACHMENT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620111/",
+    "backorder": "",
+    "newprice": "18,740円",
+    "sort": 18740
+  },
+  {
+    "name": "CITADEL CRUSADE CASE XL",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620130/",
+    "backorder": "",
+    "newprice": "17,840円",
+    "sort": 17840
+  },
+  {
+    "name": "WARHAMMER 40000: WAKE THE DEAD （ENGLISH） [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004099369/",
+    "backorder": "",
+    "newprice": "16,870円",
+    "sort": 16870
+  },
+  {
+    "name": "WARHAMMER 40000：SPEED FREEKS（ENGLISH）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004136717/",
+    "backorder": "",
+    "newprice": "16,870円",
+    "sort": 16870
   },
   {
     "name": "CITADEL ’ARD CASE",
@@ -28,11 +70,11 @@
     "sort": 13600
   },
   {
-    "name": "START COLLECTING！ PRIMARIS SPACE WOLVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004691609/",
+    "name": "AVENTIS FIRESTRIKE MAGISTER OF HAmmERHAL [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003961707/",
     "backorder": "",
-    "newprice": "12,650円",
-    "sort": 12650
+    "newprice": "13,120円",
+    "sort": 13120
   },
   {
     "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
@@ -40,6 +82,20 @@
     "backorder": "",
     "newprice": "12,300円",
     "sort": 12300
+  },
+  {
+    "name": "BLOOD BOWL JAPANESE 2016 EDITION [ボードゲーム]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003361796/",
+    "backorder": "",
+    "newprice": "12,220円",
+    "sort": 12220
+  },
+  {
+    "name": "40K GENERIC SECTOR IMPERIALIS BASILICANUM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949549/",
+    "backorder": "",
+    "newprice": "11,240円",
+    "sort": 11240
   },
   {
     "name": "BROKEN REALMS： THE BLOODSURF HUNT",
@@ -54,6 +110,20 @@
     "backorder": "",
     "newprice": "10,540円",
     "sort": 10540
+  },
+  {
+    "name": "REALM OF BATTLE: MOON BASE KLAISUS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003703244/",
+    "backorder": "",
+    "newprice": "10,540円",
+    "sort": 10540
+  },
+  {
+    "name": "AERO/IMPERIALIS： WINGS OF VENGEANCE ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005093496/",
+    "backorder": "",
+    "newprice": "10,350円",
+    "sort": 10350
   },
   {
     "name": "AD/TITANICUS CIVITAS IMPERIALIS SECTOR",
@@ -105,6 +175,27 @@
     "sort": 7880
   },
   {
+    "name": "KILL TEAM：THETA-7 AQUISITUS (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004236063/",
+    "backorder": "",
+    "newprice": "7,500円",
+    "sort": 7500
+  },
+  {
+    "name": "KILL TEAM：STARN'S DISCIPLES (JAPANESE)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004236064/",
+    "backorder": "",
+    "newprice": "7,500円",
+    "sort": 7500
+  },
+  {
+    "name": "KILL TEAM： TOOFRIPPA’S KREW JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004411435/",
+    "backorder": "",
+    "newprice": "7,500円",
+    "sort": 7500
+  },
+  {
     "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
     "backorder": "",
@@ -154,6 +245,55 @@
     "sort": 7100
   },
   {
+    "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
+    "backorder": "",
+    "newprice": "7,000円",
+    "sort": 7000
+  },
+  {
+    "name": "WARCRY： FLESH-EATER COURTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005861606/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "WARHAMMER 40000 CARRY CASE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005721362/",
+    "backorder": "",
+    "newprice": "6,640円",
+    "sort": 6640
+  },
+  {
+    "name": "WARHAMMER 40000 RULEBOOK (ENGLISH) [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003591855/",
+    "backorder": "",
+    "newprice": "6,600円",
+    "sort": 6600
+  },
+  {
+    "name": "ADEPTUS TITANICUS： RULES SET （ENGLISH）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003997677/",
+    "backorder": "",
+    "newprice": "6,600円",
+    "sort": 6600
+  },
+  {
+    "name": "B/STONE FORTRESS: THE DREADED AMBULL ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004259482/",
+    "backorder": "",
+    "newprice": "6,600円",
+    "sort": 6600
+  },
+  {
+    "name": "BLACKSTONE FORTRESS CARRY CASE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004259483/",
+    "backorder": "",
+    "newprice": "6,600円",
+    "sort": 6600
+  },
+  {
     "name": "DAEMONS OF SLAANESH： FIENDS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004396209/",
     "backorder": "",
@@ -180,6 +320,41 @@
     "backorder": "",
     "newprice": "5,700円",
     "sort": 5700
+  },
+  {
+    "name": "CODEX: SPACE MARINES (HB) (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003636061/",
+    "backorder": "",
+    "newprice": "5,620円",
+    "sort": 5620
+  },
+  {
+    "name": "BLOOD BOWL：SPIKE！ 2018 ALMANAC！ （ENG）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004194382/",
+    "backorder": "",
+    "newprice": "5,620円",
+    "sort": 5620
+  },
+  {
+    "name": "MIDDLE-EARTH SBG： GONDOR AT WAR (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224658/",
+    "backorder": "",
+    "newprice": "5,620円",
+    "sort": 5620
+  },
+  {
+    "name": "WH UNDERWORLDS: BEASTGRAVE CARRY CASE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150932/",
+    "backorder": "",
+    "newprice": "5,620円",
+    "sort": 5620
+  },
+  {
+    "name": "MIDDLE-EARTH SBG： WAR IN ROHAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005313430/",
+    "backorder": "",
+    "newprice": "5,600円",
+    "sort": 5600
   },
   {
     "name": "BLOOD BOWL： IMPERIAL NOBILITY TEAM",
@@ -224,11 +399,32 @@
     "sort": 5200
   },
   {
+    "name": "BLOOD BOWL： SKAVEN & DWARF PITCH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005922646/",
+    "backorder": "",
+    "newprice": "5,200円",
+    "sort": 5200
+  },
+  {
     "name": "HARLEQUIN STARWEAVER [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003769127/",
     "backorder": "",
     "newprice": "5,130円",
     "sort": 5130
+  },
+  {
+    "name": "BLOOD BOWL:HALFLING TEAM PITCH & DUGOUTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424386/",
+    "backorder": "",
+    "newprice": "4,970円",
+    "sort": 4970
+  },
+  {
+    "name": "BLOOD BOWL： WOOD ELVES PITCH & DUGOUTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691621/",
+    "backorder": "",
+    "newprice": "4,970円",
+    "sort": 4970
   },
   {
     "name": "SPACE MARINES PRIMARIS LIBRARIAN",
@@ -245,6 +441,90 @@
     "sort": 4770
   },
   {
+    "name": "CODEX： CHAOS SPACE MARINES (HB) (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003645355/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "CODEX： DEATH GUARD (HB) (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003680739/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "CODEX： SPACE MARINES (ABR.) (HB) (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003765904/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "40K LIB CODEX： NECRONS HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003854763/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "40K CODEX DEATHWATCH ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003887462/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "WARRIORS OF ROHAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004036397/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "CODEX：ORKS （HB） （ENGLISH）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004140919/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "AGE OF SIGMAR： WARCRY CORE BOOK ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004844100/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "CODEX： SPACE MARINES HB ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903813/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "PSYCHIC AWAKENING： PHOENIX RISING ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005185568/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "SALAMANDERS ADRAX AGATONE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005199078/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
+    "name": "PSYCHIC AWAKENING: PARIAH (ENGLISH) [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005690303/",
+    "backorder": "",
+    "newprice": "4,720円",
+    "sort": 4720
+  },
+  {
     "name": "ULTRAMARINES CAPTAIN URIEL VENTRIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001006002317/",
     "backorder": "",
@@ -257,6 +537,13 @@
     "backorder": "",
     "newprice": "4,600円",
     "sort": 4600
+  },
+  {
+    "name": "BLOOD BOWL ： CHAOS PITCH ＆ DUGOUTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003942798/",
+    "backorder": "",
+    "newprice": "4,560円",
+    "sort": 4560
   },
   {
     "name": "SPACE MARINES PRIMARIS CAPTAIN",
@@ -322,6 +609,41 @@
     "sort": 4100
   },
   {
+    "name": "ADEPTUS TITANICUS： TITANDEATH (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224663/",
+    "backorder": "",
+    "newprice": "4,080円",
+    "sort": 4080
+  },
+  {
+    "name": "NECROMUNDA: THE BOOK OF PERIL ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424387/",
+    "backorder": "",
+    "newprice": "4,080円",
+    "sort": 4080
+  },
+  {
+    "name": "M-E SBG： SCOURING OF THE SHIRE  ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691612/",
+    "backorder": "",
+    "newprice": "4,080円",
+    "sort": 4080
+  },
+  {
+    "name": "A/I： RYNN’S WORLD AIR WAR CAMPAIGN BOOK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005093498/",
+    "backorder": "",
+    "newprice": "4,080円",
+    "sort": 4080
+  },
+  {
+    "name": "ADEPTUS TITANICUS: DEFENCE OF RYZA",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005733057/",
+    "backorder": "",
+    "newprice": "4,080円",
+    "sort": 4080
+  },
+  {
     "name": "IRONJAWZ ORRUK WEIRDNOB SHAMAN",
     "itemUrl": "https://www.yodobashi.com/product/100000001004155624/",
     "backorder": "",
@@ -334,6 +656,132 @@
     "backorder": "",
     "newprice": "4,000円",
     "sort": 4000
+  },
+  {
+    "name": "WH40K： CHAPTER APPROVED 2019 ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005276054/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "IRON HANDS DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005837388/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "IMPERIAL FISTS DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005837391/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "SPACE WOLVES DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868773/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "DEATHWATCH DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868780/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "BLOOD ANGELS DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005906411/",
+    "backorder": "",
+    "newprice": "3,760円",
+    "sort": 3760
+  },
+  {
+    "name": "AGE OF SIGMAR： PATH TO GLORY (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003631322/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "AOS STORMCAST ETERNALS LORD-EXORCIST [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003934448/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "STORMCAST ETERNALS LORD-ORDINATOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003981987/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "KILL TEAM COMMANDER: GAIUS ACASTIAN (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004123075/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "KILL TEAM COMMANDER: ANKRA THE COLOSSUS (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004123077/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "K/T COMMANDER: GITZOG WURLDKILLA (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004135279/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "K/T COMMANDER: CRASKER MATTERZHEK JPN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004155612/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "WARHAMMER 40000： CHAPTER APPROVED ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004197256/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "AD/TITANICUS CIVITAS IMPERIALIS SPIRES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004390003/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "BATTLETOME： HEDONITES OF SLAANESH SB JPN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396213/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "SPACE MARINES： WHITE SCARS DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903825/",
+    "backorder": "",
+    "newprice": "3,750円",
+    "sort": 3750
+  },
+  {
+    "name": "WHU： GRAND ALLIANCE DEATH DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063520/",
+    "backorder": "",
+    "newprice": "3,600円",
+    "sort": 3600
   },
   {
     "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
@@ -355,6 +803,20 @@
     "backorder": "",
     "newprice": "3,280円",
     "sort": 3280
+  },
+  {
+    "name": "WH UNDERWORLDS： MOLLOG'S MOB (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224662/",
+    "backorder": "",
+    "newprice": "3,260円",
+    "sort": 3260
+  },
+  {
+    "name": "WH UNDERWORLDS： GODSWORN HUNT (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224666/",
+    "backorder": "",
+    "newprice": "3,260円",
+    "sort": 3260
   },
   {
     "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
