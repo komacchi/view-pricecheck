@@ -1050,6 +1050,13 @@
     "sort": 2060
   },
   {
+    "name": "40K DATACARDS DEATHWATCH ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003887463/",
+    "backorder": "",
+    "newprice": "1,990円",
+    "sort": 1990
+  },
+  {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
     "backorder": "",
@@ -1069,6 +1076,62 @@
     "backorder": "",
     "newprice": "1,890円",
     "sort": 1890
+  },
+  {
+    "name": "WARSCROLL CARDS： GLOOMSPITE GITZ (JPN)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217793/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "WARSCROLL CARDS： FLESH-EATER COURTS JPN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252353/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "WARSCROLL CARDS： FYRESLAYERS (JAPANESE)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004364227/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "DATACARDS： SPACE WOLVES JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868771/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "DATACARDS： DEATHWATCH JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868778/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "DATACARDS： BLOOD ANGELS JAPANESE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005906408/",
+    "backorder": "",
+    "newprice": "1,880円",
+    "sort": 1880
+  },
+  {
+    "name": "BLOOD BOWL HALFLING DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424382/",
+    "backorder": "",
+    "newprice": "1,710円",
+    "sort": 1710
+  },
+  {
+    "name": "SPIKE！ JOURNAL： ISSUE 6  ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691613/",
+    "backorder": "",
+    "newprice": "1,710円",
+    "sort": 1710
   },
   {
     "name": "KILL TEAM SPACE WOLVES DICE [プラモデル用品]",
@@ -1155,6 +1218,76 @@
     "sort": 1280
   },
   {
+    "name": "WARCRY： TZEENTCH ARCANITES CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453610/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： DISCIPLES OF TZEENTCH CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453611/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： KHARADRON OVERLORDS CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453612/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： OGOR MAWTRIBES CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453617/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： BEASTS OF CHAOS CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453618/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： SYLVANETH CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511403/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： DAEMONS OF KHORNE CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511406/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： HEDONITES OF SLAANESH CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511409/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WARCRY： SERAPHON CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511410/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WH UNDERWORLDS： GODSWORN HUNT DICE PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224668/",
+    "backorder": "",
+    "newprice": "1,140円",
+    "sort": 1140
+  },
+  {
     "name": "WHU： THE GRYMWATCH PREMIUM SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001005174524/",
     "backorder": "",
@@ -1169,11 +1302,25 @@
     "sort": 1000
   },
   {
+    "name": "WH UNDERWORLDS： GODSWORN HUNT SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224665/",
+    "backorder": "",
+    "newprice": "980円",
+    "sort": 980
+  },
+  {
     "name": "WHU： LADY HARROW'S MOURNFLIGHT SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001005250346/",
     "backorder": "",
     "newprice": "980円",
     "sort": 980
+  },
+  {
+    "name": "PVA (GLOBAL)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194766/",
+    "backorder": "",
+    "newprice": "930円",
+    "sort": 930
   },
   {
     "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
