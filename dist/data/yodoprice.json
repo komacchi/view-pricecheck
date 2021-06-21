@@ -721,13 +721,6 @@
     "sort": 3260
   },
   {
-    "name": "WH UNDERWORLDS： GODSWORN HUNT (JPN)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004224666/",
-    "backorder": "",
-    "newprice": "3,260円",
-    "sort": 3260
-  },
-  {
     "name": "WARSCROLLS： DISCIPLES OF TZEENTCH ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003669633/",
     "backorder": "",
@@ -1057,6 +1050,13 @@
     "sort": 1990
   },
   {
+    "name": "AGE OF SIGMAR： COMMAND ＆ STATUS DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922186/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
     "backorder": "",
@@ -1066,6 +1066,13 @@
   {
     "name": "APOCALYPSE COMMAND ASSETS  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620102/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
+    "name": "WARSCROLL CARDS： OGOR MAWTRIBES ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005211972/",
     "backorder": "",
     "newprice": "1,900円",
     "sort": 1900
@@ -1167,6 +1174,62 @@
     "backorder": "",
     "newprice": "1,650円",
     "sort": 1650
+  },
+  {
+    "name": "WARSCROLLS： KHARADRON OVERLORDS (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003514890/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "AOS WARSCROLL CARDS： NIGHTHAUNT JP [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003934436/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "AOS WARSCROLL CARDS： NIGHTHAUNT EN [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003934437/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "WARSCROLL CARDS： FYRESLAYERS (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004364228/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "WARSCROLLS： HEDONITES OF SLAANESH ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396214/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "NECROMUNDA ENFORCER PATROL DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903808/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "NECROMUNDA ENFORCER TACTICS CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903810/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
   },
   {
     "name": "DATACARDS： ASTRA MILITARUM (ENGLISH)",
