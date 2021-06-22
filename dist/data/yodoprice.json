@@ -693,6 +693,13 @@
     "sort": 3500
   },
   {
+    "name": "KILL TEAM: DICE & CARD SET [ボードゲーム]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005653624/",
+    "backorder": "",
+    "newprice": "3,500円",
+    "sort": 3500
+  },
+  {
     "name": "BLOOD BOWL GOBLIN TEAM CARD PACK ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001005174529/",
     "backorder": "",
@@ -924,6 +931,20 @@
     "sort": 2500
   },
   {
+    "name": "BLOOD BOWL： GRIFF OBERWALD",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063524/",
+    "backorder": "",
+    "newprice": "2,500円",
+    "sort": 2500
+  },
+  {
+    "name": "BLOOD BOWL ELF AND DWARF BIASED REFEREES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063526/",
+    "backorder": "",
+    "newprice": "2,500円",
+    "sort": 2500
+  },
+  {
     "name": "A/I： AIRCRAFT AND ACES： IMP. NAVY CARDS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005093504/",
     "backorder": "",
@@ -1057,6 +1078,13 @@
     "sort": 1990
   },
   {
+    "name": "MORDHEIM TURF",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194765/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
     "name": "AGE OF SIGMAR： COMMAND ＆ STATUS DICE",
     "itemUrl": "https://www.yodobashi.com/product/100000001003922186/",
     "backorder": "",
@@ -1071,6 +1099,13 @@
     "sort": 1900
   },
   {
+    "name": "BADZONES ENVIRONMENTS & EVENT CARDS ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424388/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
     "name": "APOCALYPSE COMMAND ASSETS  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620102/",
     "backorder": "",
@@ -1078,8 +1113,22 @@
     "sort": 1900
   },
   {
+    "name": "SPIKE！ JOURNAL： ISSUE 7 ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005174515/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
     "name": "WARSCROLL CARDS： OGOR MAWTRIBES ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001005211972/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
+    "name": "SPIKE！ JOURNAL：ISSUE 9 (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005711661/",
     "backorder": "",
     "newprice": "1,900円",
     "sort": 1900
@@ -1183,6 +1232,69 @@
     "sort": 1650
   },
   {
+    "name": "CITADEL TWEEZERS [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003490904/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "KILL TEAM ORKS DICE [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003961713/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU: SKAETH'S WILD HUNT PREMIUM SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150935/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU: GRASHRAK'S DESPOILERS DICE PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150936/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WH UNDERWORLDS： THE GRYMWATCH DICE PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005174523/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU： RIPPA'S SNARLFANGS PREMIUM SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005250350/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU： IRONSOUL'S CONDEMNORS PREM. SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005250351/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU： HROTHGORN’S MANTRAPPERS DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005466192/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
+    "name": "WHU： HROTHGORN’S MANTRAPPERS SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005466193/",
+    "backorder": "",
+    "newprice": "1,600円",
+    "sort": 1600
+  },
+  {
     "name": "WARSCROLLS： KHARADRON OVERLORDS (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003514890/",
     "backorder": "",
@@ -1279,6 +1391,83 @@
     "backorder": "",
     "newprice": "1,490円",
     "sort": 1490
+  },
+  {
+    "name": "40K LIB DATACARDS： DRUKHARI ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
+    "backorder": "",
+    "newprice": "1,440円",
+    "sort": 1440
+  },
+  {
+    "name": "CITADEL CUTTING MAT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003235320/",
+    "backorder": "",
+    "newprice": "1,400円",
+    "sort": 1400
+  },
+  {
+    "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
+    "backorder": "",
+    "newprice": "1,350円",
+    "sort": 1350
+  },
+  {
+    "name": "WHU: EYES OF THE NINE DICE PACK [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004099384/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WHU： YLTHARI’S GUARDIANS DICE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004390005/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WHITE DWARF SEPTEMBER 2019 JPN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005130043/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WHITE DWARF DECEMBER 2019 JPN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005323352/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WARCRY： SKAVEN CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453613/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WARCRY： OSSIARCH BONEREAPERS CARD PACK",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005453615/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WARCRY： NURGLE ROTBRINGERS CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511407/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
+  },
+  {
+    "name": "WARCRY： NURGLE DAEMONS CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005511408/",
+    "backorder": "",
+    "newprice": "1,300円",
+    "sort": 1300
   },
   {
     "name": "WHITE DWARF JUNE 2019 JAPANESE",
