@@ -420,6 +420,20 @@
     "sort": 4000
   },
   {
+    "name": "RUNELORD BRASS SPRAY PAINT (GLOBAL)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005733059/",
+    "backorder": "",
+    "newprice": "3,990円",
+    "sort": 3990
+  },
+  {
+    "name": "RETRIBUTOR ARMOUR SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194774/",
+    "backorder": "",
+    "newprice": "3,770円",
+    "sort": 3770
+  },
+  {
     "name": "WH40K： CHAPTER APPROVED 2019 ENGLISH",
     "itemUrl": "https://www.yodobashi.com/product/100000001005276054/",
     "backorder": "",
@@ -576,13 +590,6 @@
   {
     "name": "WH UNDERWORLDS： MOLLOG'S MOB (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001004224662/",
-    "backorder": "",
-    "newprice": "3,260円",
-    "sort": 3260
-  },
-  {
-    "name": "WH UNDERWORLDS： GODSWORN HUNT (JPN)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004224666/",
     "backorder": "",
     "newprice": "3,260円",
     "sort": 3260
@@ -789,6 +796,48 @@
     "backorder": "",
     "newprice": "2,500円",
     "sort": 2500
+  },
+  {
+    "name": "LEADBELCHER SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194767/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
+  },
+  {
+    "name": "MECHANICUS STANDARD GREY SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194768/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
+  },
+  {
+    "name": "ZANDRI DUST SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194770/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
+  },
+  {
+    "name": "MACRAGGE BLUE SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194772/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
+  },
+  {
+    "name": "MEPHISTON RED SPRAY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194773/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
+  },
+  {
+    "name": "CITADEL WRAITHBONE SPRAY 400ML （GLOBAL） [シタデル スプレー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469069/",
+    "backorder": "",
+    "newprice": "2,410円",
+    "sort": 2410
   },
   {
     "name": "A/I： AIRCRAFT AND ACES： IMP. NAVY CARDS",
@@ -1190,6 +1239,13 @@
     "sort": 1490
   },
   {
+    "name": "CITADEL LARGE SHADE BRUSH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194077/",
+    "backorder": "",
+    "newprice": "1,444円",
+    "sort": 1444
+  },
+  {
     "name": "40K LIB DATACARDS： DRUKHARI ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003860530/",
     "backorder": "",
@@ -1272,6 +1328,27 @@
     "backorder": "",
     "newprice": "1,280円",
     "sort": 1280
+  },
+  {
+    "name": "SYNTHETIC BASE BRUSH LARGE （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118176/",
+    "backorder": "",
+    "newprice": "1,260円",
+    "sort": 1260
+  },
+  {
+    "name": "CITADEL LARGE SCENERY BRUSH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194777/",
+    "backorder": "",
+    "newprice": "1,254円",
+    "sort": 1254
+  },
+  {
+    "name": "CITADEL MEDIUM SCENERY BRUSH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194778/",
+    "backorder": "",
+    "newprice": "1,159円",
+    "sort": 1159
   },
   {
     "name": "WARCRY： TZEENTCH ARCANITES CARD PACK",
@@ -1372,6 +1449,20 @@
     "sort": 1100
   },
   {
+    "name": "SYNTHETIC LAYER BRUSH MEDIUM （X6）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118171/",
+    "backorder": "",
+    "newprice": "1,026円",
+    "sort": 1026
+  },
+  {
+    "name": "SYNTHETIC DRYBRUSH SMALL （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118178/",
+    "backorder": "",
+    "newprice": "1,020円",
+    "sort": 1020
+  },
+  {
     "name": "WHU： THE GRYMWATCH PREMIUM SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001005174524/",
     "backorder": "",
@@ -1386,6 +1477,937 @@
     "sort": 1000
   },
   {
+    "name": "SHADE： CRYPTEK ARMOURSHADE 18ML",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005723146/",
+    "backorder": "",
+    "newprice": "1,000円",
+    "sort": 1000
+  },
+  {
+    "name": "TECHNICAL： TESSERACT GLOW 18ML",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005723147/",
+    "backorder": "",
+    "newprice": "1,000円",
+    "sort": 1000
+  },
+  {
+    "name": "Citadel Shade CASANDORA YELLOW [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194723/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade FUEGAN ORANGE [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194724/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade CARROBURG CRIMSON [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194725/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade DRUCHII VIOLET [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194726/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade COELIA GREENSHADE [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194728/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade BIEL-TAN GREEN [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194729/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade ATHONIAN CAMOSHADE [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194730/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade SERAPHIM SEPIA [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194731/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "Citadel Shade AGRAX EARTHSHADE GLOSS [アクリル系塗料 24ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003235334/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CP TECHNICAL： NIGHTHAUNT GLOOM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922192/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CP TECHNICAL： HEXWRAITH FLAME",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922193/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： MORDANT EARTH （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468943/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： AGRELLAN EARTH （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468944/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： AGRELLAN BADLAND （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468945/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： MARTIAN IRONEARTH （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468946/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： MARTIAN IRONCRUST （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468947/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： STIRLAND MUD （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468948/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： STIRLAND BATTLEMIRE （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468949/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： ARMAGEDDON DUST （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468950/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： ARMAGEDDON DUNES （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468951/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： ASTROGRANITE （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468952/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： ASTROGRANITE DEBRIS （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468953/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： VALHALLAN BLIZZARD （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468954/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "TECHNICAL： STORMSHIELD （24ML） [シタデル テクニカル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468956/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： AVERLAND SUNSET （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468957/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MEPHISTON RED （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468958/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： KHORNE RED （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468959/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： KANTOR BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468960/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MACRAGGE BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468961/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CALEDOR SKY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468962/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CALIBAN GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468963/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CASTELLAN GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468964/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DEATHWORLD FOREST （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468965/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ZANDRI DUST （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468966/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MOURNFANG BROWN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468967/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： XV-88 （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468968/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DRYAD BARK （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468969/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MECHANICUS STANDARD GREY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468970/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ABADDON BLACK （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468971/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： LEADBELCHER （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468972/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： BALTHASAR GOLD （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468973/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： STEEL LEGION DRAB （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468974/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： THE FANG （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468975/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： FLASH GITZ YELLOW （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468976/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TROLL SLAYER ORANGE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468977/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： EVIL SUNZ SCARLET （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468978/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： GENESTEALER PURPLE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468979/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CALGAR BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468980/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： LOTHERN BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468981/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TEMPLE GUARD BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468982/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： SYBARITE GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468983/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MOOT GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468984/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： WARBOSS GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468985/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： STRAKEN GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468986/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ELYSIAN GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468987/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： OGRYN CAMO （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468988/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： USHABTI BONE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468989/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CASTE THINNER （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468990/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TALLARN SAND （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468991/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： KARAK STONE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468992/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： KISLEV FLESH （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468993/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DEATHCLAW BROWN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468994/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TAU LIGHT OCHRE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468995/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： BALOR BROWN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468996/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TUSKGOR FUR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468997/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： BANEBLADE BROWN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468998/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DAWNSTONE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468999/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ADMINISTRATUM GREY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469000/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ULTHUAN GREY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469001/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： IRONBREAKER （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469003/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： RUNEFANG STEEL （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469004/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： RELICTOR GOLD （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469005/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： RUSS GREY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469006/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： FENRISIAN GREY （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469007/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TERMINATUS STONE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469008/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： ANGRON RED CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469009/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CALTH BLUE CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469010/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DEATHSHROUD CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469011/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： EIDOLON PURPLE CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469012/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： MORTARION GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469013/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： PHOENICIAN PURPLE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469014/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： PYROCLAST ORANGE - CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469015/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： SIGISMUND YELLOW CLEAR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469016/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： NIGHT LORDS BLUE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469017/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： DEATH KORPS DRAB （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469018/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： VULKAN GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469019/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CORVUS BLACK （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469020/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CHEMOS PURPLE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469021/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： TYPHON ASH （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469022/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： SONS OF HORUS GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469023/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： PHALANX YELLOW （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469024/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： KAKOPHONI PURPLE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469025/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： NOCTURNE GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469026/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： LUPERCAL GREEN （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469027/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： GAL VORBAK RED （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469028/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： WORD BEARERS RED （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469029/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： CASTELLAX BRONZE （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469030/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： VALDOR GOLD （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469031/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： IRON HANDS STEEL （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469032/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： GREY KNIGHTS STEEL （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469033/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "AIR： THALLAX GOLD （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469034/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： IYANDEN YELLOW （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469035/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： GRYPH-HOUND ORANGE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469036/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： VOLUPUS PINK （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469039/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： SHYISH PURPLE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469040/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： MAGOS PURPLE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469041/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： LEVIADON BLUE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469042/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： ULTRAMARINES BLUE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469043/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： AKHELIAN GREEN （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469044/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： DARK ANGELS GREEN （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469045/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： NAZDREG YELLOW （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469046/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： ORK FLESH （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469047/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： CREED CAMO （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469048/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： MILITARUM GREEN （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469049/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： AGGAROS DUNES （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469050/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： SKELETON HORDE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469051/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： SNAKEBITE LEATHER （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469052/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： GORE-GRUNTA FUR （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469053/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： CYGOR BROWN （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469054/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： WYLDWOOD （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469055/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： FYRESLAYER FLESH （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469056/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： GUILLIMAN FLESH （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469057/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： DARKOATH FLESH （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469058/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： GRYPH-CHARGER GREY （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469060/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： SPACE WOLVES GREY （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469061/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： BASILICANUM GREY （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469062/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： TALASSAR BLUE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469064/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： WARP LIGHTNING （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469065/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： AETHERMATIC BLUE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469066/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： PLAGUEBEARER FLESH （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469067/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
+    "name": "CONTRAST： TERRADON TURQUOISE （18ML） [シタデル コントラスト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004469068/",
+    "backorder": "",
+    "newprice": "998円",
+    "sort": 998
+  },
+  {
     "name": "WH UNDERWORLDS： GODSWORN HUNT SLEEVES",
     "itemUrl": "https://www.yodobashi.com/product/100000001004224665/",
     "backorder": "",
@@ -1393,11 +2415,25 @@
     "sort": 980
   },
   {
+    "name": "CITADEL MEDIUM LAYER BRUSH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194082/",
+    "backorder": "",
+    "newprice": "960円",
+    "sort": 960
+  },
+  {
     "name": "PVA (GLOBAL)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003194766/",
     "backorder": "",
     "newprice": "930円",
     "sort": 930
+  },
+  {
+    "name": "CITADEL MEDIUM GLAZE BRUSH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194084/",
+    "backorder": "",
+    "newprice": "871円",
+    "sort": 871
   },
   {
     "name": "WH UNDERWORLDS： MOLLOG'S MOB SLEEVES",
