@@ -28,13 +28,6 @@
     "sort": 16870
   },
   {
-    "name": "KNIGHT PRECEPTOR CANIS REX",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004073767/",
-    "backorder": "",
-    "newprice": "14,300円",
-    "sort": 14300
-  },
-  {
     "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
     "backorder": "",
@@ -264,6 +257,20 @@
     "backorder": "",
     "newprice": "5,620円",
     "sort": 5620
+  },
+  {
+    "name": "BLOOD BOWL： IMPERIAL NOBILITY TEAM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063530/",
+    "backorder": "",
+    "newprice": "5,580円",
+    "sort": 5580
+  },
+  {
+    "name": "BLOOD BOWL： BLACK ORC TEAM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006063533/",
+    "backorder": "",
+    "newprice": "5,580円",
+    "sort": 5580
   },
   {
     "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
@@ -1239,6 +1246,13 @@
     "sort": 1600
   },
   {
+    "name": "SYNTHETIC SHADE BRUSH LARGE （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118173/",
+    "backorder": "",
+    "newprice": "1,560円",
+    "sort": 1560
+  },
+  {
     "name": "WARSCROLLS： KHARADRON OVERLORDS (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003514890/",
     "backorder": "",
@@ -1342,6 +1356,20 @@
     "backorder": "",
     "newprice": "1,400円",
     "sort": 1400
+  },
+  {
+    "name": "SYNTHETIC BASE BRUSH X-LARGE （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118177/",
+    "backorder": "",
+    "newprice": "1,380円",
+    "sort": 1380
+  },
+  {
+    "name": "SYNTHETIC DRYBRUSH LARGE （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118180/",
+    "backorder": "",
+    "newprice": "1,380円",
+    "sort": 1380
   },
   {
     "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
@@ -1538,6 +1566,27 @@
     "backorder": "",
     "newprice": "1,100円",
     "sort": 1100
+  },
+  {
+    "name": "SYNTHETIC SHADE BRUSH MEDIUM （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118172/",
+    "backorder": "",
+    "newprice": "1,090円",
+    "sort": 1090
+  },
+  {
+    "name": "SYNTHETIC BASE BRUSH MEDIUM （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118175/",
+    "backorder": "",
+    "newprice": "1,090円",
+    "sort": 1090
+  },
+  {
+    "name": "SYNTHETIC DRYBRUSH MEDIUM （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118179/",
+    "backorder": "",
+    "newprice": "1,090円",
+    "sort": 1090
   },
   {
     "name": "SYNTHETIC LAYER BRUSH MEDIUM （X6）",
