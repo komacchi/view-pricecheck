@@ -406,13 +406,6 @@
     "sort": 4500
   },
   {
-    "name": "SPACE MARINE TACTICAL SQUAD [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003769089/",
-    "backorder": "",
-    "newprice": "4,480円",
-    "sort": 4480
-  },
-  {
     "name": "JAKKOB BUGMANSSON XI： BREWMASTER GENERAL",
     "itemUrl": "https://www.yodobashi.com/product/100000001005875452/",
     "backorder": "",
@@ -826,6 +819,13 @@
     "sort": 3050
   },
   {
+    "name": "40K KILL TEAM CORE MANUAL EN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949553/",
+    "backorder": "",
+    "newprice": "2,880円",
+    "sort": 2880
+  },
+  {
     "name": "WARSCROLLS： OSSIARCH BONEREAPERS ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001005211966/",
     "backorder": "",
@@ -945,6 +945,13 @@
     "sort": 2170
   },
   {
+    "name": "CITADEL KNIFE [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003490905/",
+    "backorder": "",
+    "newprice": "2,140円",
+    "sort": 2140
+  },
+  {
     "name": "NECROMUNDA DICE SET",
     "itemUrl": "https://www.yodobashi.com/product/100000001005241890/",
     "backorder": "",
@@ -1034,13 +1041,6 @@
     "backorder": "",
     "newprice": "1,990円",
     "sort": 1990
-  },
-  {
-    "name": "AGE OF SIGMAR： COMMAND ＆ STATUS DICE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003922186/",
-    "backorder": "",
-    "newprice": "1,900円",
-    "sort": 1900
   },
   {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
@@ -1178,13 +1178,6 @@
   {
     "name": "CITADEL TWEEZERS [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003490904/",
-    "backorder": "",
-    "newprice": "1,600円",
-    "sort": 1600
-  },
-  {
-    "name": "KILL TEAM ORKS DICE [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003961713/",
     "backorder": "",
     "newprice": "1,600円",
     "sort": 1600
@@ -1342,6 +1335,13 @@
     "backorder": "",
     "newprice": "1,380円",
     "sort": 1380
+  },
+  {
+    "name": "DATACARDS： CRAFTWORLDS (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003720736/",
+    "backorder": "",
+    "newprice": "1,370円",
+    "sort": 1370
   },
   {
     "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
