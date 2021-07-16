@@ -7,6 +7,20 @@
     "sort": 20720
   },
   {
+    "name": "COMBAT PATROL: DARK ANGELS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005971264/",
+    "backorder": "",
+    "newprice": "19,000円",
+    "sort": 19000
+  },
+  {
+    "name": "COMBAT PATROL： SPACE MARINES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123215/",
+    "backorder": "",
+    "newprice": "19,000円",
+    "sort": 19000
+  },
+  {
     "name": "CITADEL CRUSADE CASE XL",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620130/",
     "backorder": "",
@@ -14,11 +28,25 @@
     "sort": 17840
   },
   {
+    "name": "THOUSAND SONS MAGNUS THE RED [WARHAMMER 40,000]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003382966/",
+    "backorder": "",
+    "newprice": "17,740円",
+    "sort": 17740
+  },
+  {
     "name": "WARHAMMER 40000: WAKE THE DEAD （ENGLISH） [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001004099369/",
     "backorder": "",
     "newprice": "16,870円",
     "sort": 16870
+  },
+  {
+    "name": "COMBAT PATROL： SPACE WOLVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005868775/",
+    "backorder": "",
+    "newprice": "16,000円",
+    "sort": 16000
   },
   {
     "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
@@ -33,6 +61,13 @@
     "backorder": "",
     "newprice": "13,120円",
     "sort": 13120
+  },
+  {
+    "name": "START COLLECTING! SOULBLIGHT GRAVELORDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123226/",
+    "backorder": "",
+    "newprice": "13,100円",
+    "sort": 13100
   },
   {
     "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
@@ -77,11 +112,67 @@
     "sort": 9100
   },
   {
+    "name": "LUMINETH R-LORDS： HURAKAN WINDCHARGERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048895/",
+    "backorder": "",
+    "newprice": "8,600円",
+    "sort": 8600
+  },
+  {
+    "name": "SPACE MARINES HEAVY INTERCESSORS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123216/",
+    "backorder": "",
+    "newprice": "8,600円",
+    "sort": 8600
+  },
+  {
     "name": "SLAVES TO DARKNESS： CYPHER LORDS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005313423/",
     "backorder": "",
     "newprice": "8,460円",
     "sort": 8460
+  },
+  {
+    "name": "LUMINETH REALM-LORDS VANARI BLADELORDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048897/",
+    "backorder": "",
+    "newprice": "8,100円",
+    "sort": 8100
+  },
+  {
+    "name": "LUMINETH REALM-LORDS SHRINE LUMINOR",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048900/",
+    "backorder": "",
+    "newprice": "8,100円",
+    "sort": 8100
+  },
+  {
+    "name": "S/BLIGHT G/LORDS： DEATHRATTLE SKELETONS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118165/",
+    "backorder": "",
+    "newprice": "8,100円",
+    "sort": 8100
+  },
+  {
+    "name": "THOUSAND SONS EXALTED SORCERERS [WARHAMMER 40,000]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003382970/",
+    "backorder": "",
+    "newprice": "8,050円",
+    "sort": 8050
+  },
+  {
+    "name": "GLOOMSPITE GITZ： BAD MOON LOONSHRINE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217786/",
+    "backorder": "",
+    "newprice": "8,050円",
+    "sort": 8050
+  },
+  {
+    "name": "CHAOS SPACE MARINES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004330405/",
+    "backorder": "",
+    "newprice": "8,050円",
+    "sort": 8050
   },
   {
     "name": "CHAOS SPACE MARINES VEX MACHINATOR",
@@ -119,6 +210,20 @@
     "sort": 7500
   },
   {
+    "name": "LUMINETH REALM-LORDS SEVIRETH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048896/",
+    "backorder": "",
+    "newprice": "7,500円",
+    "sort": 7500
+  },
+  {
+    "name": "S/BLIGHT GRAVELORDS： DEADWALKER ZOMBIES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118163/",
+    "backorder": "",
+    "newprice": "7,500円",
+    "sort": 7500
+  },
+  {
     "name": "WARHAMMER 40000： APOCALYPSE  JAPANESE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620100/",
     "backorder": "",
@@ -147,11 +252,88 @@
     "sort": 7430
   },
   {
+    "name": "CHAOS SPACE MARINES HAVOCS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004337725/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
+    "name": "THOUSAND SONS SCARAB OCCULT TERMINATORS [WARHAMMER 40,000]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003382968/",
+    "backorder": "",
+    "newprice": "7,100円",
+    "sort": 7100
+  },
+  {
+    "name": "GREY KNIGHTS STRIKE SQUAD",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003645358/",
+    "backorder": "",
+    "newprice": "7,100円",
+    "sort": 7100
+  },
+  {
     "name": "KILL TEAM: ADVANCE TEAM STARPULSE （JPN） [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001004099374/",
     "backorder": "",
     "newprice": "7,000円",
     "sort": 7000
+  },
+  {
+    "name": "40K SECTOR IMPERIALIS ADMINISTRATUM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949551/",
+    "backorder": "",
+    "newprice": "6,820円",
+    "sort": 6820
+  },
+  {
+    "name": "A/TITANICUS ACASTUS KNIGHTS PORPHYRION",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004691615/",
+    "backorder": "",
+    "newprice": "6,820円",
+    "sort": 6820
+  },
+  {
+    "name": "LUMINETH R-L： VANARI STARSHARD BALLISTA",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048893/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "SOULBLIGHT GRAVELORDS： FELL BATS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118168/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "NECRONS： FLAYED ONES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123217/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "SOULBLIGHT GRAVELORDS： DIRE WOLVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123227/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "BELLADAMMA VOLGA FIRST OF THE VYRKOS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123230/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
+  },
+  {
+    "name": "SOULBLIGHT GRAVELORDS： RADUKAR THE BEAST",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123231/",
+    "backorder": "",
+    "newprice": "6,800円",
+    "sort": 6800
   },
   {
     "name": "WARHAMMER 40000 CARRY CASE",
@@ -189,6 +371,27 @@
     "sort": 6320
   },
   {
+    "name": "ウォーハンマー 40,000：Inquisitor - Martyr [PS4ソフト]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004057282/",
+    "backorder": "",
+    "newprice": "6,300円",
+    "sort": 6300
+  },
+  {
+    "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003514892/",
+    "backorder": "",
+    "newprice": "6,210円",
+    "sort": 6210
+  },
+  {
+    "name": "AOS KURDOSS VALENTIAN THE CRAVEN KING",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949456/",
+    "backorder": "",
+    "newprice": "6,210円",
+    "sort": 6210
+  },
+  {
     "name": "A.O.S： SEASON OF WAR： FIRESTORM (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003696571/",
     "backorder": "",
@@ -203,8 +406,22 @@
     "sort": 6000
   },
   {
+    "name": "KHARADRON OVERLORDS SKYRIGGERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003556277/",
+    "backorder": "",
+    "newprice": "5,700円",
+    "sort": 5700
+  },
+  {
     "name": "DEATHWORLD：BARBED VENOMGORSE [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003658691/",
+    "backorder": "",
+    "newprice": "5,700円",
+    "sort": 5700
+  },
+  {
+    "name": "DRUKHARI LELITH HESPERAX",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123220/",
     "backorder": "",
     "newprice": "5,700円",
     "sort": 5700
@@ -315,13 +532,6 @@
     "sort": 4720
   },
   {
-    "name": "40K CODEX DEATHWATCH ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003887462/",
-    "backorder": "",
-    "newprice": "4,720円",
-    "sort": 4720
-  },
-  {
     "name": "WARRIORS OF ROHAN",
     "itemUrl": "https://www.yodobashi.com/product/100000001004036397/",
     "backorder": "",
@@ -371,6 +581,13 @@
     "sort": 4600
   },
   {
+    "name": "DAEMON PRINCE [WARHAMMER AGE OF SIGMAR]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003193989/",
+    "backorder": "",
+    "newprice": "4,580円",
+    "sort": 4580
+  },
+  {
     "name": "BLOOD BOWL ： CHAOS PITCH ＆ DUGOUTS",
     "itemUrl": "https://www.yodobashi.com/product/100000001003942798/",
     "backorder": "",
@@ -387,6 +604,34 @@
   {
     "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
+    "backorder": "",
+    "newprice": "4,500円",
+    "sort": 4500
+  },
+  {
+    "name": "LUMINETH REALM-LORDS： VANARI BANNERBLADE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048892/",
+    "backorder": "",
+    "newprice": "4,500円",
+    "sort": 4500
+  },
+  {
+    "name": "LADY ANNIKA THE THIRSTING BLADE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123228/",
+    "backorder": "",
+    "newprice": "4,500円",
+    "sort": 4500
+  },
+  {
+    "name": "KRITZA： THE RAT PRINCE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006123229/",
+    "backorder": "",
+    "newprice": "4,500円",
+    "sort": 4500
+  },
+  {
+    "name": "DAUGHTERS OF KHAINE： MELUSAI IRONSCALE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006135876/",
     "backorder": "",
     "newprice": "4,500円",
     "sort": 4500
@@ -462,6 +707,13 @@
     "sort": 4080
   },
   {
+    "name": "IRONJAWZ ORRUK WEIRDNOB SHAMAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004155624/",
+    "backorder": "",
+    "newprice": "4,000円",
+    "sort": 4000
+  },
+  {
     "name": "NECRONS PSYCHOMANCER",
     "itemUrl": "https://www.yodobashi.com/product/100000001005971268/",
     "backorder": "",
@@ -474,6 +726,20 @@
     "backorder": "",
     "newprice": "3,990円",
     "sort": 3990
+  },
+  {
+    "name": "LUMINETH REALM-LORDS SCINARI LORESEEKER",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048890/",
+    "backorder": "",
+    "newprice": "3,900円",
+    "sort": 3900
+  },
+  {
+    "name": "LUMINETH REALM-LORDS SCINARI CALLIGRAVE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006048891/",
+    "backorder": "",
+    "newprice": "3,900円",
+    "sort": 3900
   },
   {
     "name": "RETRIBUTOR ARMOUR SPRAY",
@@ -756,11 +1022,25 @@
     "sort": 3150
   },
   {
+    "name": "40K KILL TEAM CORE MANUAL EN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949553/",
+    "backorder": "",
+    "newprice": "3,110円",
+    "sort": 3110
+  },
+  {
     "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
     "itemUrl": "https://www.yodobashi.com/product/100000001005059052/",
     "backorder": "",
     "newprice": "3,100円",
     "sort": 3100
+  },
+  {
+    "name": "40K CODEX DEATHWATCH ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003887462/",
+    "backorder": "",
+    "newprice": "3,080円",
+    "sort": 3080
   },
   {
     "name": "CODEX： CHAOS SPACE MARINES 2 (ENGLISH)",
@@ -896,6 +1176,13 @@
     "sort": 2400
   },
   {
+    "name": "CITADEL KNIFE [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003490905/",
+    "backorder": "",
+    "newprice": "2,310円",
+    "sort": 2310
+  },
+  {
     "name": "WARSCROLL CARDS: CITIES OF SIGMAR ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001005159314/",
     "backorder": "",
@@ -926,13 +1213,6 @@
   {
     "name": "DATACARDS: SPACE MARINES (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003636062/",
-    "backorder": "",
-    "newprice": "2,110円",
-    "sort": 2110
-  },
-  {
-    "name": "WARSCROLL CARDS：SYLVANETH (ENG) [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003658693/",
     "backorder": "",
     "newprice": "2,110円",
     "sort": 2110
@@ -1176,13 +1456,6 @@
     "sort": 1600
   },
   {
-    "name": "WHU： HROTHGORN’S MANTRAPPERS SLEEVES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005466193/",
-    "backorder": "",
-    "newprice": "1,600円",
-    "sort": 1600
-  },
-  {
     "name": "SYNTHETIC SHADE BRUSH LARGE （X3）",
     "itemUrl": "https://www.yodobashi.com/product/100000001006118173/",
     "backorder": "",
@@ -1265,6 +1538,13 @@
     "backorder": "",
     "newprice": "1,490円",
     "sort": 1490
+  },
+  {
+    "name": "DATACARDS： CRAFTWORLDS (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003720736/",
+    "backorder": "",
+    "newprice": "1,470円",
+    "sort": 1470
   },
   {
     "name": "CITADEL LARGE SHADE BRUSH",
@@ -1384,6 +1664,13 @@
     "backorder": "",
     "newprice": "1,254円",
     "sort": 1254
+  },
+  {
+    "name": "WARSCROLL CARDS：SYLVANETH (ENG) [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003658693/",
+    "backorder": "",
+    "newprice": "1,220円",
+    "sort": 1220
   },
   {
     "name": "CITADEL MEDIUM SCENERY BRUSH",
@@ -2016,13 +2303,6 @@
     "sort": 998
   },
   {
-    "name": "AIR： TUSKGOR FUR （24ML） [シタデル エアー]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004468997/",
-    "backorder": "",
-    "newprice": "998円",
-    "sort": 998
-  },
-  {
     "name": "AIR： BANEBLADE BROWN （24ML） [シタデル エアー]",
     "itemUrl": "https://www.yodobashi.com/product/100000001004468998/",
     "backorder": "",
@@ -2499,6 +2779,13 @@
     "sort": 960
   },
   {
+    "name": "WHU： HROTHGORN’S MANTRAPPERS SLEEVES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005466193/",
+    "backorder": "",
+    "newprice": "960円",
+    "sort": 960
+  },
+  {
     "name": "PVA (GLOBAL)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003194766/",
     "backorder": "",
@@ -2518,6 +2805,13 @@
     "backorder": "",
     "newprice": "660円",
     "sort": 660
+  },
+  {
+    "name": "AIR： TUSKGOR FUR （24ML） [シタデル エアー]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004468997/",
+    "backorder": "",
+    "newprice": "560円",
+    "sort": 560
   },
   {
     "name": "RUNELORD BRASS [アクリル系塗料]",
