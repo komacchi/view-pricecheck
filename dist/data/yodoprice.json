@@ -63,6 +63,13 @@
     "sort": 13100
   },
   {
+    "name": "DOMINION SIGMAR: THE ENDURING STORMVAULT",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424378/",
+    "backorder": "",
+    "newprice": "12,920円",
+    "sort": 12920
+  },
+  {
     "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
     "backorder": "",
@@ -245,6 +252,13 @@
     "sort": 7430
   },
   {
+    "name": "NECROMUNDA：RULEBOOK （ENGLISH）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004194384/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
     "name": "CHAOS SPACE MARINES HAVOCS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004337725/",
     "backorder": "",
@@ -371,6 +385,20 @@
     "sort": 6320
   },
   {
+    "name": "WARCRY： IRON GOLEM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005119657/",
+    "backorder": "",
+    "newprice": "6,320円",
+    "sort": 6320
+  },
+  {
+    "name": "WARCRY： UNTAMED BEASTS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
+    "backorder": "",
+    "newprice": "6,320円",
+    "sort": 6320
+  },
+  {
     "name": "ウォーハンマー 40,000：Inquisitor - Martyr [PS4ソフト]",
     "itemUrl": "https://www.yodobashi.com/product/100000001004057282/",
     "backorder": "",
@@ -404,6 +432,13 @@
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
+  },
+  {
+    "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004903809/",
+    "backorder": "",
+    "newprice": "5,860円",
+    "sort": 5860
   },
   {
     "name": "KHARADRON OVERLORDS SKYRIGGERS",
@@ -490,6 +525,20 @@
     "sort": 5310
   },
   {
+    "name": "BATTLETOME： SKAVEN (HB) (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252348/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
+    "name": "WH40K APOCALYPSE MOVEMENT TRAYS  32MM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004620106/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
     "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424377/",
     "backorder": "",
@@ -513,6 +562,13 @@
   {
     "name": "SPACE MARINES PRIMARIS LIBRARIAN",
     "itemUrl": "https://www.yodobashi.com/product/100000001003614949/",
+    "backorder": "",
+    "newprice": "4,770円",
+    "sort": 4770
+  },
+  {
+    "name": "SpaceMarines Assault PAINT SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005755395/",
     "backorder": "",
     "newprice": "4,770円",
     "sort": 4770
@@ -1372,6 +1428,13 @@
     "sort": 1900
   },
   {
+    "name": "DATACARDS： CHAOS KNIGHTS ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004637237/",
+    "backorder": "",
+    "newprice": "1,900円",
+    "sort": 1900
+  },
+  {
     "name": "SPIKE！ JOURNAL： ISSUE 7 ENGLISH",
     "itemUrl": "https://www.yodobashi.com/product/100000001005174515/",
     "backorder": "",
@@ -1857,6 +1920,13 @@
   {
     "name": "SYNTHETIC SHADE BRUSH MEDIUM （X3）",
     "itemUrl": "https://www.yodobashi.com/product/100000001006118172/",
+    "backorder": "",
+    "newprice": "1,090円",
+    "sort": 1090
+  },
+  {
+    "name": "SYNTHETIC BASE BRUSH MEDIUM （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118175/",
     "backorder": "",
     "newprice": "1,090円",
     "sort": 1090
@@ -2875,6 +2945,27 @@
     "backorder": "",
     "newprice": "550円",
     "sort": 550
+  },
+  {
+    "name": "Citadel Layer TALLARN SAND [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194446/",
+    "backorder": "",
+    "newprice": "541円",
+    "sort": 541
+  },
+  {
+    "name": "Citadel Dry CHANGELING PINK [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194708/",
+    "backorder": "",
+    "newprice": "541円",
+    "sort": 541
+  },
+  {
+    "name": "Citadel Layer BESTIGOR FLESH [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194755/",
+    "backorder": "",
+    "newprice": "541円",
+    "sort": 541
   },
   {
     "name": "RUNELORD BRASS [アクリル系塗料]",
