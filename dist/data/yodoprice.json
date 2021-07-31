@@ -483,11 +483,11 @@
     "sort": 5310
   },
   {
-    "name": "WH40K APOCALYPSE MOVEMENT TRAYS  32MM",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620106/",
+    "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004424377/",
     "backorder": "",
-    "newprice": "5,310円",
-    "sort": 5310
+    "newprice": "5,230円",
+    "sort": 5230
   },
   {
     "name": "BLOOD BOWL:HALFLING TEAM PITCH & DUGOUTS",
@@ -502,6 +502,13 @@
     "backorder": "",
     "newprice": "4,970円",
     "sort": 4970
+  },
+  {
+    "name": "SpaceMarines Assault PAINT SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005755395/",
+    "backorder": "",
+    "newprice": "4,770円",
+    "sort": 4770
   },
   {
     "name": "S/M CAPTAIN W/ MASTER-CRAFTED BOLT RIFLE",
@@ -721,13 +728,6 @@
     "sort": 4000
   },
   {
-    "name": "BLOOD BOWL： IMPERIAL NOBILITY TEAM",
-    "itemUrl": "https://www.yodobashi.com/product/100000001006063530/",
-    "backorder": "",
-    "newprice": "4,000円",
-    "sort": 4000
-  },
-  {
     "name": "RUNELORD BRASS SPRAY PAINT (GLOBAL)",
     "itemUrl": "https://www.yodobashi.com/product/100000001005733059/",
     "backorder": "",
@@ -880,20 +880,6 @@
     "backorder": "",
     "newprice": "3,500円",
     "sort": 3500
-  },
-  {
-    "name": "SPACE MARINES PRIMARIS CAPTAIN",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003614948/",
-    "backorder": "",
-    "newprice": "3,420円",
-    "sort": 3420
-  },
-  {
-    "name": "SPACE MARINES PRIMARIS LIBRARIAN",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003614949/",
-    "backorder": "",
-    "newprice": "3,420円",
-    "sort": 3420
   },
   {
     "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
@@ -1111,20 +1097,6 @@
     "backorder": "",
     "newprice": "3,060円",
     "sort": 3060
-  },
-  {
-    "name": "JAKKOB BUGMANSSON XI： BREWMASTER GENERAL",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005875452/",
-    "backorder": "",
-    "newprice": "3,030円",
-    "sort": 3030
-  },
-  {
-    "name": "BLADES OF KHORNE： JUDGEMENTS OF KHORNE [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004326448/",
-    "backorder": "",
-    "newprice": "3,020円",
-    "sort": 3020
   },
   {
     "name": "PRIMARIS CAPTAIN IN PHOBOS ARMOUR",
@@ -1556,6 +1528,13 @@
   {
     "name": "AGE OF SIGMAR： MALIGN PORTENTS CARDS ENG [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003814026/",
+    "backorder": "",
+    "newprice": "1,500円",
+    "sort": 1500
+  },
+  {
+    "name": "AOS WARSCROLL CARDS： NIGHTHAUNT JP [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003934436/",
     "backorder": "",
     "newprice": "1,500円",
     "sort": 1500
@@ -2891,8 +2870,15 @@
     "sort": 550
   },
   {
-    "name": "Citadel Dry CHANGELING PINK [アクリル系塗料 12ml]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003194708/",
+    "name": "Citadel Layer TALLARN SAND [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194446/",
+    "backorder": "",
+    "newprice": "541円",
+    "sort": 541
+  },
+  {
+    "name": "Citadel Layer BESTIGOR FLESH [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194755/",
     "backorder": "",
     "newprice": "541円",
     "sort": 541
