@@ -28,25 +28,11 @@
     "sort": 16000
   },
   {
-    "name": "LUMINETH REALM-LORDS LAUNCH SET (JPN)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005663864/",
-    "backorder": "",
-    "newprice": "15,750円",
-    "sort": 15750
-  },
-  {
     "name": "CITADEL CRUSADE CASE XL",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620130/",
     "backorder": "",
     "newprice": "14,230円",
     "sort": 14230
-  },
-  {
-    "name": "AVENTIS FIRESTRIKE MAGISTER OF HAmmERHAL [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003961707/",
-    "backorder": "",
-    "newprice": "13,120円",
-    "sort": 13120
   },
   {
     "name": "START COLLECTING! SOULBLIGHT GRAVELORDS",
@@ -63,18 +49,11 @@
     "sort": 12920
   },
   {
-    "name": "A/T CIVI/IMPERIALIS ADMINISTRATUM SECTOR",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004390004/",
+    "name": "AVENTIS FIRESTRIKE MAGISTER OF HAmmERHAL [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003961707/",
     "backorder": "",
-    "newprice": "11,690円",
-    "sort": 11690
-  },
-  {
-    "name": "AD/TITANICUS CIVITAS IMPERIALIS SECTOR",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003997673/",
-    "backorder": "",
-    "newprice": "9,790円",
-    "sort": 9790
+    "newprice": "11,100円",
+    "sort": 11100
   },
   {
     "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
@@ -308,25 +287,11 @@
     "sort": 6210
   },
   {
-    "name": "A.O.S： SEASON OF WAR： FIRESTORM (ENG)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003696571/",
-    "backorder": "",
-    "newprice": "6,080円",
-    "sort": 6080
-  },
-  {
     "name": "TZEENTCH ARCANITES KAIRIC ACOLYTES [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003420261/",
     "backorder": "",
     "newprice": "6,000円",
     "sort": 6000
-  },
-  {
-    "name": "SECTOR IMPERIALIS： MANUFACTORUM",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
-    "backorder": "",
-    "newprice": "5,990円",
-    "sort": 5990
   },
   {
     "name": "NECROMUNDA： THE BOOK OF JUDGEMENT ENG",
@@ -336,8 +301,22 @@
     "sort": 5860
   },
   {
+    "name": "SECTOR IMPERIALIS： MANUFACTORUM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004217796/",
+    "backorder": "",
+    "newprice": "5,840円",
+    "sort": 5840
+  },
+  {
     "name": "KHARADRON OVERLORDS SKYRIGGERS",
     "itemUrl": "https://www.yodobashi.com/product/100000001003556277/",
+    "backorder": "",
+    "newprice": "5,700円",
+    "sort": 5700
+  },
+  {
+    "name": "KILL TEAM：STARN'S DISCIPLES (JAPANESE)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004236064/",
     "backorder": "",
     "newprice": "5,700円",
     "sort": 5700
@@ -353,8 +332,8 @@
     "name": "DEATHWORLD：BARBED VENOMGORSE [プラモデル]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003658691/",
     "backorder": "",
-    "newprice": "5,620円",
-    "sort": 5620
+    "newprice": "5,590円",
+    "sort": 5590
   },
   {
     "name": "A/I: T'AU TIGER SHARK FIGHTER-BOMBERS [プラモデル用品]",
@@ -448,13 +427,6 @@
     "sort": 4770
   },
   {
-    "name": "WARRIORS OF ROHAN",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004036397/",
-    "backorder": "",
-    "newprice": "4,720円",
-    "sort": 4720
-  },
-  {
     "name": "ULTRAMARINES CAPTAIN URIEL VENTRIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001006002317/",
     "backorder": "",
@@ -474,13 +446,6 @@
     "backorder": "",
     "newprice": "4,580円",
     "sort": 4580
-  },
-  {
-    "name": "DAEMONS OF SLAANESH： FIENDS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004396209/",
-    "backorder": "",
-    "newprice": "4,530円",
-    "sort": 4530
   },
   {
     "name": "LUMINETH REALM-LORDS： VANARI BANNERBLADE",
@@ -546,6 +511,13 @@
     "sort": 4230
   },
   {
+    "name": "WARRIORS OF ROHAN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004036397/",
+    "backorder": "",
+    "newprice": "4,210円",
+    "sort": 4210
+  },
+  {
     "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
     "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
     "backorder": "",
@@ -602,13 +574,6 @@
     "sort": 3900
   },
   {
-    "name": "GLOOMSPITE GITZ： FANATICS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004217785/",
-    "backorder": "",
-    "newprice": "3,810円",
-    "sort": 3810
-  },
-  {
     "name": "BLOOD BOWL:HALFLING TEAM PITCH & DUGOUTS",
     "itemUrl": "https://www.yodobashi.com/product/100000001004424386/",
     "backorder": "",
@@ -628,13 +593,6 @@
     "backorder": "",
     "newprice": "3,770円",
     "sort": 3770
-  },
-  {
-    "name": "AD/TITANICUS CIVITAS IMPERIALIS SPIRES",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004390003/",
-    "backorder": "",
-    "newprice": "3,750円",
-    "sort": 3750
   },
   {
     "name": "CODEX： TYRANIDS (HB) (ENGLISH) [プラモデル用品]",
@@ -707,34 +665,6 @@
     "sort": 3470
   },
   {
-    "name": "FYRESLAYERS MAGMIC BATTLEFORGE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004364230/",
-    "backorder": "",
-    "newprice": "3,420円",
-    "sort": 3420
-  },
-  {
-    "name": "DEATHWORLD：ELDRITCH RUINS [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003658690/",
-    "backorder": "",
-    "newprice": "3,330円",
-    "sort": 3330
-  },
-  {
-    "name": "ADEPTUS TITANICUS： DOOM OF MOLECH ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004390002/",
-    "backorder": "",
-    "newprice": "3,280円",
-    "sort": 3280
-  },
-  {
-    "name": "WH UNDERWORLDS： MOLLOG'S MOB (ENG)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004224662/",
-    "backorder": "",
-    "newprice": "3,260円",
-    "sort": 3260
-  },
-  {
     "name": "DATACARDS： DRUKHARI (JAPANESE)",
     "itemUrl": "https://www.yodobashi.com/product/100000001006041890/",
     "backorder": "",
@@ -749,6 +679,13 @@
     "sort": 3220
   },
   {
+    "name": "AD/TITANICUS CIVITAS IMPERIALIS SPIRES",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004390003/",
+    "backorder": "",
+    "newprice": "3,170円",
+    "sort": 3170
+  },
+  {
     "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004021492/",
     "backorder": "",
@@ -758,6 +695,13 @@
   {
     "name": "40K KILL TEAM CORE MANUAL EN",
     "itemUrl": "https://www.yodobashi.com/product/100000001003949553/",
+    "backorder": "",
+    "newprice": "3,110円",
+    "sort": 3110
+  },
+  {
+    "name": "WH UNDERWORLDS： MOLLOG'S MOB (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004224662/",
     "backorder": "",
     "newprice": "3,110円",
     "sort": 3110
@@ -1169,13 +1113,6 @@
     "sort": 2110
   },
   {
-    "name": "APOCALYPSE DATASHEETS： SPACE MARINES ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004620110/",
-    "backorder": "",
-    "newprice": "2,060円",
-    "sort": 2060
-  },
-  {
     "name": "40K DATACARDS DEATHWATCH ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003887463/",
     "backorder": "",
@@ -1209,13 +1146,6 @@
     "backorder": "",
     "newprice": "1,900円",
     "sort": 1900
-  },
-  {
-    "name": "WH UNDERWORLDS: BEASTGRAVE PLAYMAT",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005150928/",
-    "backorder": "",
-    "newprice": "1,840円",
-    "sort": 1840
   },
   {
     "name": "WARSCROLLS： OSSIARCH BONEREAPERS ENG",
@@ -2854,6 +2784,13 @@
     "backorder": "",
     "newprice": "540円",
     "sort": 540
+  },
+  {
+    "name": "Citadel Layer HASHUT COPPER [アクリル系塗料 12ml]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194472/",
+    "backorder": "",
+    "newprice": "500円",
+    "sort": 500
   },
   {
     "name": "Citadel Layer RUNELORD BRASS [アクリル系塗料 12ml]",
