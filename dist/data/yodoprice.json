@@ -1,12 +1,5 @@
 [
   {
-    "name": "T’AU EMPIRE STARPULSE CADRE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005906419/",
-    "backorder": "",
-    "newprice": "26,460円",
-    "sort": 26460
-  },
-  {
     "name": "SPACE MARINES： INTERDICTION FORCE",
     "itemUrl": "https://www.yodobashi.com/product/100000001005906414/",
     "backorder": "",
@@ -1078,6 +1071,13 @@
     "sort": 2050
   },
   {
+    "name": "DATACARDS： GREY KNIGHTS (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003645360/",
+    "backorder": "",
+    "newprice": "1,990円",
+    "sort": 1990
+  },
+  {
     "name": "40K DATACARDS DEATHWATCH ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003887463/",
     "backorder": "",
@@ -1437,6 +1437,13 @@
   {
     "name": "WHU: GRASHRAK'S DESPOILERS PREMIUM SLVS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005150937/",
+    "backorder": "",
+    "newprice": "1,150円",
+    "sort": 1150
+  },
+  {
+    "name": "WHITE DWARF 464 (MAY-21) (JAPANESE)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006156582/",
     "backorder": "",
     "newprice": "1,150円",
     "sort": 1150
@@ -2494,13 +2501,6 @@
   {
     "name": "WARCRY： SKAVEN CARD PACK",
     "itemUrl": "https://www.yodobashi.com/product/100000001005453613/",
-    "backorder": "",
-    "newprice": "940円",
-    "sort": 940
-  },
-  {
-    "name": "WARCRY： OSSIARCH BONEREAPERS CARD PACK",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005453615/",
     "backorder": "",
     "newprice": "940円",
     "sort": 940
