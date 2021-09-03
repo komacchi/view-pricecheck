@@ -3,22 +3,22 @@
     "name": "SPACE MARINES： INTERDICTION FORCE",
     "itemUrl": "https://www.yodobashi.com/product/100000001005906414/",
     "backorder": "",
-    "newprice": "25,650円",
-    "sort": 25650
+    "newprice": "23,090円",
+    "sort": 23090
   },
   {
     "name": "AGE OF SIGMAR： DOMINION （ENGLISH） [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001006231743/",
     "backorder": "",
-    "newprice": "25,650円",
-    "sort": 25650
+    "newprice": "23,090円",
+    "sort": 23090
   },
   {
     "name": "WARHAMMER 40000： KILL TEAM ENGLISH",
     "itemUrl": "https://www.yodobashi.com/product/100000001005082602/",
     "backorder": "",
-    "newprice": "20,070円",
-    "sort": 20070
+    "newprice": "18,070円",
+    "sort": 18070
   },
   {
     "name": "COMBAT PATROL: DARK ANGELS",
@@ -56,18 +56,18 @@
     "sort": 9690
   },
   {
-    "name": "40K SECTOR IMPERIALIS SANCTUM",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003949550/",
-    "backorder": "",
-    "newprice": "9,540円",
-    "sort": 9540
-  },
-  {
     "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
     "itemUrl": "https://www.yodobashi.com/product/100000001004620129/",
     "backorder": "",
     "newprice": "8,650円",
     "sort": 8650
+  },
+  {
+    "name": "40K SECTOR IMPERIALIS SANCTUM",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949550/",
+    "backorder": "",
+    "newprice": "8,590円",
+    "sort": 8590
   },
   {
     "name": "DEATHWATCH CORVUS BLACKSTAR [プラモデル]",
@@ -168,32 +168,11 @@
     "sort": 6310
   },
   {
-    "name": "AOS REALMSCAPE： GHURISH EXPANSE [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001006231739/",
-    "backorder": "",
-    "newprice": "6,300円",
-    "sort": 6300
-  },
-  {
-    "name": "AGE OF SIGMAR： REALMSCAPE OBJECTIVE SET [プラモデル]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001006231740/",
-    "backorder": "",
-    "newprice": "6,300円",
-    "sort": 6300
-  },
-  {
     "name": "WARCRY： UNTAMED BEASTS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005119658/",
     "backorder": "",
     "newprice": "6,010円",
     "sort": 6010
-  },
-  {
-    "name": "WARHAMMER： AGE OF SIGMAR CORE BOOK JP",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003922180/",
-    "backorder": "",
-    "newprice": "5,950円",
-    "sort": 5950
   },
   {
     "name": "KHARADRON OVERLORDS ARKANAUT COMPANY",
@@ -210,11 +189,25 @@
     "sort": 5900
   },
   {
-    "name": "BLOOD BOWL NECROMANTIC TEAM PITCH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005898271/",
+    "name": "AOS REALMSCAPE： GHURISH EXPANSE [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006231739/",
     "backorder": "",
-    "newprice": "5,850円",
-    "sort": 5850
+    "newprice": "5,670円",
+    "sort": 5670
+  },
+  {
+    "name": "AGE OF SIGMAR： REALMSCAPE OBJECTIVE SET [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006231740/",
+    "backorder": "",
+    "newprice": "5,670円",
+    "sort": 5670
+  },
+  {
+    "name": "WARHAMMER： AGE OF SIGMAR CORE BOOK JP",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922180/",
+    "backorder": "",
+    "newprice": "5,660円",
+    "sort": 5660
   },
   {
     "name": "A.O.S： SEASON OF WAR： FIRESTORM (ENG)",
@@ -245,18 +238,18 @@
     "sort": 5420
   },
   {
-    "name": "40K LIB CODEX： DRUKHARI HB ENG",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003860529/",
-    "backorder": "",
-    "newprice": "5,310円",
-    "sort": 5310
-  },
-  {
     "name": "A/I: T'AU TIGER SHARK FIGHTER-BOMBERS [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001005653635/",
     "backorder": "",
     "newprice": "5,310円",
     "sort": 5310
+  },
+  {
+    "name": "BLOOD BOWL NECROMANTIC TEAM PITCH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005898271/",
+    "backorder": "",
+    "newprice": "5,270円",
+    "sort": 5270
   },
   {
     "name": "DOMINION OF SIGMAR: SIGMARITE DAIS",
@@ -301,6 +294,13 @@
     "sort": 4800
   },
   {
+    "name": "40K LIB CODEX： DRUKHARI HB ENG",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003860529/",
+    "backorder": "",
+    "newprice": "4,780円",
+    "sort": 4780
+  },
+  {
     "name": "WARHAMMER 40000 RULEBOOK (ENGLISH) [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003591855/",
     "backorder": "",
@@ -315,22 +315,8 @@
     "sort": 4770
   },
   {
-    "name": "FLESH-EATER COURTS CHARNEL THRONE",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004252354/",
-    "backorder": "",
-    "newprice": "4,770円",
-    "sort": 4770
-  },
-  {
     "name": "BLACKSTONE FORTRESS CARRY CASE",
     "itemUrl": "https://www.yodobashi.com/product/100000001004259483/",
-    "backorder": "",
-    "newprice": "4,770円",
-    "sort": 4770
-  },
-  {
-    "name": "FANE OF SLAANESH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
     "backorder": "",
     "newprice": "4,770円",
     "sort": 4770
@@ -357,18 +343,18 @@
     "sort": 4360
   },
   {
-    "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
+    "name": "FLESH-EATER COURTS CHARNEL THRONE",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004252354/",
     "backorder": "",
-    "newprice": "4,250円",
-    "sort": 4250
+    "newprice": "4,300円",
+    "sort": 4300
   },
   {
-    "name": "AGE OF SIGMAR： PATH TO GLORY DIARY （JPN） [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001006231744/",
+    "name": "FANE OF SLAANESH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001004396210/",
     "backorder": "",
-    "newprice": "4,230円",
-    "sort": 4230
+    "newprice": "4,300円",
+    "sort": 4300
   },
   {
     "name": "DOMINION OF SIGMAR: SHATTERED TEMPLE",
@@ -399,6 +385,13 @@
     "sort": 4070
   },
   {
+    "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003703249/",
+    "backorder": "",
+    "newprice": "4,040円",
+    "sort": 4040
+  },
+  {
     "name": "DAUGHTERS OF KHAINE DICE SET [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001005989920/",
     "backorder": "",
@@ -411,6 +404,13 @@
     "backorder": "",
     "newprice": "3,900円",
     "sort": 3900
+  },
+  {
+    "name": "AGE OF SIGMAR： PATH TO GLORY DIARY （JPN） [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006231744/",
+    "backorder": "",
+    "newprice": "3,810円",
+    "sort": 3810
   },
   {
     "name": "IRONJAWZ ORRUK WEIRDNOB SHAMAN",
@@ -439,13 +439,6 @@
     "backorder": "",
     "newprice": "3,710円",
     "sort": 3710
-  },
-  {
-    "name": "AOS NIGHTHAUNT PAINT SET JP",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003949453/",
-    "backorder": "",
-    "newprice": "3,670円",
-    "sort": 3670
   },
   {
     "name": "BLOOD BOWL:HALFLING TEAM PITCH & DUGOUTS",
@@ -532,18 +525,11 @@
     "sort": 3420
   },
   {
-    "name": "WHITE DWARF APOCRYPHA  ENGLISH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005222602/",
+    "name": "AOS NIGHTHAUNT PAINT SET JP",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949453/",
     "backorder": "",
-    "newprice": "3,390円",
-    "sort": 3390
-  },
-  {
-    "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
-    "backorder": "",
-    "newprice": "3,320円",
-    "sort": 3320
+    "newprice": "3,310円",
+    "sort": 3310
   },
   {
     "name": "BLOOD BOWL ： CHAOS PITCH ＆ DUGOUTS",
@@ -565,6 +551,13 @@
     "backorder": "",
     "newprice": "3,170円",
     "sort": 3170
+  },
+  {
+    "name": "AGE OF SIGMAR: GAMING BOOK ENGLISH",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005159311/",
+    "backorder": "",
+    "newprice": "3,160円",
+    "sort": 3160
   },
   {
     "name": "CODEX： SPACE WOLVES （HB） （ENGLISH）",
@@ -952,13 +945,6 @@
     "sort": 1950
   },
   {
-    "name": "CITADEL DRILL",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
-    "backorder": "",
-    "newprice": "1,910円",
-    "sort": 1910
-  },
-  {
     "name": "BB：SHAMBLING UNDEAD CARD PACK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194391/",
     "backorder": "",
@@ -978,6 +964,13 @@
     "backorder": "",
     "newprice": "1,900円",
     "sort": 1900
+  },
+  {
+    "name": "CITADEL DRILL",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194093/",
+    "backorder": "",
+    "newprice": "1,820円",
+    "sort": 1820
   },
   {
     "name": "MECHANICUS STANDARD GREY SPRAY",
@@ -1036,13 +1029,6 @@
     "sort": 1710
   },
   {
-    "name": "WARHAMMER 40000： INDOMITUS PLAYING CARDS",
-    "itemUrl": "https://www.yodobashi.com/product/100000001005875446/",
-    "backorder": "",
-    "newprice": "1,700円",
-    "sort": 1700
-  },
-  {
     "name": "DATACARDS： ADEPTUS MECHANICUS (ENGLISH) [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001003688010/",
     "backorder": "",
@@ -1059,6 +1045,13 @@
   {
     "name": "DATACARDS： SPACE WOLVES （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004021493/",
+    "backorder": "",
+    "newprice": "1,620円",
+    "sort": 1620
+  },
+  {
+    "name": "WARHAMMER 40000： INDOMITUS PLAYING CARDS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001005875446/",
     "backorder": "",
     "newprice": "1,620円",
     "sort": 1620
@@ -1199,13 +1192,6 @@
   {
     "name": "40K DATASHEETS IMPERIAL KNIGHTS ENG",
     "itemUrl": "https://www.yodobashi.com/product/100000001003908567/",
-    "backorder": "",
-    "newprice": "1,350円",
-    "sort": 1350
-  },
-  {
-    "name": "AOS WARSCROLL CARDS： NIGHTHAUNT JP [プラモデル用品]",
-    "itemUrl": "https://www.yodobashi.com/product/100000001003934436/",
     "backorder": "",
     "newprice": "1,350円",
     "sort": 1350
@@ -1356,6 +1342,13 @@
     "backorder": "",
     "newprice": "1,090円",
     "sort": 1090
+  },
+  {
+    "name": "SYNTHETIC DRYBRUSH SMALL （X3）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006118178/",
+    "backorder": "",
+    "newprice": "1,080円",
+    "sort": 1080
   },
   {
     "name": "CITADEL TWEEZERS [プラモデル用品]",
