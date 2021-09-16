@@ -1,5 +1,19 @@
 [
   {
+    "name": "WARHAMMER AGE OF SIGMAR： DOMINION （JAPANESE）",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006201145/",
+    "backorder": "",
+    "newprice": "25,650円",
+    "sort": 25650
+  },
+  {
+    "name": "KILL TEAM： PARIAH NEXUS （JAPANESE） [プラモデル用品]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006012103/",
+    "backorder": "",
+    "newprice": "20,070円",
+    "sort": 20070
+  },
+  {
     "name": "COMBAT PATROL: DARK ANGELS",
     "itemUrl": "https://www.yodobashi.com/product/100000001005971264/",
     "backorder": "",
@@ -19,6 +33,20 @@
     "backorder": "",
     "newprice": "9,690円",
     "sort": 9690
+  },
+  {
+    "name": "AGE OF SIGMAR TEMPEST OF SOULS EN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949449/",
+    "backorder": "",
+    "newprice": "9,170円",
+    "sort": 9170
+  },
+  {
+    "name": "ADEPTUS MECHANICUS KASTELAN ROBOTS [キャラクタープラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003692207/",
+    "backorder": "",
+    "newprice": "8,810円",
+    "sort": 8810
   },
   {
     "name": "ADEPT/MECHANICUS SKORPIUS DISINTEGRATOR",
@@ -84,6 +112,34 @@
     "sort": 7480
   },
   {
+    "name": "W/Z CHARADON: ACT II： BOOK OF FIRE (ENG)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006258131/",
+    "backorder": "",
+    "newprice": "7,470円",
+    "sort": 7470
+  },
+  {
+    "name": "STORMCAST ETERNALS PALADINS [WARHAMMER AGE OF SIGMAR]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003194046/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
+    "name": "SPACE MARINES PRIMARIS REIVERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003636059/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
+    "name": "WARHAMMER： AGE OF SIGMAR CORE BOOK EN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922181/",
+    "backorder": "",
+    "newprice": "7,430円",
+    "sort": 7430
+  },
+  {
     "name": "NECROMUNDA：RULEBOOK （ENGLISH）",
     "itemUrl": "https://www.yodobashi.com/product/100000001004194384/",
     "backorder": "",
@@ -147,6 +203,13 @@
     "sort": 5900
   },
   {
+    "name": "SPACE MARINE DEVASTATOR SQUAD [プラモデル]",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003769093/",
+    "backorder": "",
+    "newprice": "5,860円",
+    "sort": 5860
+  },
+  {
     "name": "A.O.S： SEASON OF WAR： FIRESTORM (ENG)",
     "itemUrl": "https://www.yodobashi.com/product/100000001003696571/",
     "backorder": "",
@@ -175,8 +238,29 @@
     "sort": 5420
   },
   {
+    "name": "CODEX： CRAFTWORLDS (HB) (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003720735/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
     "name": "A/I: T'AU TIGER SHARK FIGHTER-BOMBERS [プラモデル用品]",
     "itemUrl": "https://www.yodobashi.com/product/100000001005653635/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
+    "name": "AMIDST THE ASHES CRUSADE PACK (JAPANESE)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006258132/",
+    "backorder": "",
+    "newprice": "5,310円",
+    "sort": 5310
+  },
+  {
+    "name": "AMIDST THE ASHES CRUSADE PACK (ENGLISH)",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006258133/",
     "backorder": "",
     "newprice": "5,310円",
     "sort": 5310
@@ -252,6 +336,20 @@
     "sort": 4750
   },
   {
+    "name": "AGE OF SIGMAR STORM STRIKE JP",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949443/",
+    "backorder": "",
+    "newprice": "4,590円",
+    "sort": 4590
+  },
+  {
+    "name": "AGE OF SIGMAR STORM STRIKE EN",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949444/",
+    "backorder": "",
+    "newprice": "4,590円",
+    "sort": 4590
+  },
+  {
     "name": "ULTRAMARINES CAPTAIN URIEL VENTRIS",
     "itemUrl": "https://www.yodobashi.com/product/100000001006002317/",
     "backorder": "",
@@ -271,6 +369,20 @@
     "backorder": "",
     "newprice": "4,310円",
     "sort": 4310
+  },
+  {
+    "name": "WARHAMMER 40000： DRUKHARI DICE SET",
+    "itemUrl": "https://www.yodobashi.com/product/100000001006041891/",
+    "backorder": "",
+    "newprice": "4,230円",
+    "sort": 4230
+  },
+  {
+    "name": "AGE OF SIGMAR： OBJECTIVE MARKERS",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003922177/",
+    "backorder": "",
+    "newprice": "4,220円",
+    "sort": 4220
   },
   {
     "name": "DOMINION OF SIGMAR: SHATTERED TEMPLE",
@@ -355,6 +467,13 @@
     "backorder": "",
     "newprice": "3,710円",
     "sort": 3710
+  },
+  {
+    "name": "AOS STORMCAST PAINT SET JP",
+    "itemUrl": "https://www.yodobashi.com/product/100000001003949457/",
+    "backorder": "",
+    "newprice": "3,670円",
+    "sort": 3670
   },
   {
     "name": "CODEX： ASTRA MILITARUM (HB) (ENGLISH)",
